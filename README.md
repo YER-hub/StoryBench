@@ -51,7 +51,7 @@ We also use **GPT-4o** and **human evaluation** for comparison.
 
 #### Step 2: Start Evaluation
 
-##### InternVL2\_5-38B Evaluation
+##### InternVL2\_5-38B Evaluation For Level 1
 - Run the script:
 ```bash
 python code/38B-evaluate.py
@@ -59,13 +59,13 @@ python code/38B-evaluate.py
   > You can adjust the JSON file path and image path as needed.
   > The JSON files are saved under the directory:`data/multi-hop-data`,The images are saved under the directory:`image/`
 
-##### GPT-4o Evaluation
+##### GPT-4o Evaluation For Level 2
 - Run the script:
 ```bash
 python code/4o-evaluate.py
 ```
  >  Paths can be customized and your own OpenAI API key must be provided.
-##### Human Evaluation
+##### Human Evaluation  For Level 3
   It is recommended to have at least three experienced evaluators score the results based on the scoring criteria.
 
 
