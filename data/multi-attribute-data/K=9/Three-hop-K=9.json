@@ -1,0 +1,112 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "A solar panel [channels energy] to a battery, the battery [powers] a camera trap, the camera trap [captures] an elephant; solar panel [rectangular], solar panel [black], battery [box-shaped], battery [metallic], camera trap [camouflaged], camera trap [weatherproof], elephant [large], elephant [grey], elephant [majestic].",
+      "questions": {
+        "Level 1": [
+          "Is there a rectangular, black solar panel in the image?",
+          "Is there a box-shaped, metallic battery in the image?",
+          "Is there a camouflaged, weatherproof camera trap in the image?",
+          "Is there a large, grey, majestic elephant in the image?"
+        ],
+        "Level 2": [
+          "Does the image show a solar panel channeling energy to a battery?",
+          "Does the image show the battery powering a camera trap?",
+          "Does the image show the camera trap capturing an elephant?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events, from the solar panel powering the battery to the camera trap capturing the elephant, depicted correctly in the image?",
+          "Are the states of the objects consistent with a solar panel channeling energy, a battery getting powered, and a camera capturing an elephant as described in the prompt?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "A drone with four metallic propellers hovers above a tall green antenna, the antenna with a circular black base receives a blue signal, the signal with zigzag lines is transmitted to a square gray satellite dish.",
+      "questions": {
+        "Level 1": [
+          "Does the image depict a drone with four metallic propellers?",
+          "Is there a tall green antenna with a circular black base in the image?",
+          "Does the image show a blue signal with zigzag lines?",
+          "Is there a square gray satellite dish depicted in the image?"
+        ],
+        "Level 2": [
+          "Is the drone hovering above the tall green antenna?",
+          "Does the antenna receive the blue signal?",
+          "Is the signal transmitted to the square gray satellite dish?"
+        ],
+        "Level 3": [
+          "Is the entire sequence where the drone hovers above the antenna, which receives a signal that is transmitted to a satellite dish, correctly represented in the image?",
+          "Are the state and position of each object consistent with the described sequence: the drone, antenna, signal, and satellite dish exactly as specified?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "A digital stethoscope with a silver surface connects to a tablet with a rectangular screen, the tablet with a glossy finish sends data to a server with three LED indicators, the server in a black matte case processes the information with a display showing a blue waveform.",
+      "questions": {
+        "Level 1": [
+          "Is there a digital stethoscope with a silver surface in the image?",
+          "Is there a tablet with a rectangular screen and a glossy finish in the image?",
+          "Is there a server with three LED indicators in the image?",
+          "Is there a server in a black matte case with a display showing a blue waveform in the image?"
+        ],
+        "Level 2": [
+          "Is there a connection from the digital stethoscope to the tablet depicted in the image?",
+          "Does the image show the tablet sending data to the server?",
+          "Is the server processing the information and displaying a blue waveform according to the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence showing the digital stethoscope connecting to a tablet, the tablet sending data to a server, and the server processing information depicted correctly in the image?",
+          "Are the states of each object consistent with their described attributes and functions in the event sequence according to the image?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "A circuit board (green, flat, rectangular), connects to a sensor (small, metallic, cylindrical), the sensor (silver, shiny, smooth) activates a drone (white, sleek, angular), the drone (gray, matte, compact) signals a satellite (large, round, metallic).",
+      "questions": {
+        "Level 1": [
+          "Does the image contain a circuit board that is green, flat, and rectangular?",
+          "Does the image contain a sensor that is small, metallic, and cylindrical?",
+          "Does the image contain a drone that is white, sleek, and angular?",
+          "Does the image contain a satellite that is large, round, and metallic?"
+        ],
+        "Level 2": [
+          "Is the relationship between the circuit board and the sensor depicted correctly in the image?",
+          "Is the relationship between the sensor and the drone depicted correctly in the image?",
+          "Is the relationship between the drone and the satellite depicted correctly in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events depicted correctly in the image, starting with the circuit board and ending with the satellite?",
+          "Are the states and actions of each object consistent with the description of the events as depicted in the image?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "A yellow drone hovers near a round antenna, the tall antenna transmits a red signal, the signal lights up a green control panel with metallic buttons.",
+      "questions": {
+        "Level 1": [
+          "Is there a yellow drone in the image and does it have the described hover position near the antenna?",
+          "Is there a round antenna in the image and is it accurately depicted?",
+          "Is there a tall antenna in the image and does it transmit a red signal?",
+          "Is there a green control panel with metallic buttons in the image and is it accurately depicted?"
+        ],
+        "Level 2": [
+          "Does the image show the yellow drone hovering near the round antenna?",
+          "Is there a red signal being transmitted from the tall antenna?",
+          "Does the green control panel light up due to the received signal?"
+        ],
+        "Level 3": [
+          "Is the sequence of events from the yellow drone hovering to the green control panel lighting up depicted correctly in the image?",
+          "Does the image rationally depict all objects at the final state after the events, ensuring consistency with their descriptions?"
+        ]
+      }
+    }
+  ]
+}

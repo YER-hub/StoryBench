@@ -1,0 +1,72 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "A squirrel climbs a tree: small size, brown color, elongated body, fluffy tail, wooden material, rough tree texture, upward motion, vertical positioning, close proximity.",
+      "questions": {
+        "Level 1": [
+          "Is there a squirrel in the image with small size, brown color, elongated body, and a fluffy tail?",
+          "Is there a tree in the image with wooden material and rough texture?"
+        ],
+        "Level 2": [
+          "Is the squirrel climbing the tree with upward motion and vertical positioning in close proximity in the image?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "A gardener plants a tree with three round wooden brown smooth roots deep in dark moist soil surrounded by lush green leaves.",
+      "questions": {
+        "Level 1": [
+          "Is there a gardener in the image and are they planting?",
+          "Is there a tree in the image with three round wooden brown smooth roots and lush green leaves?"
+        ],
+        "Level 2": [
+          "Is the gardener planting the tree in the dark moist soil in the image?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "A chair supports a patient: wooden, four-legged, brown, smooth, upright, rectangular, sturdy, polished, symmetrical.",
+      "questions": {
+        "Level 1": [
+          "Is there a chair in the image with the attributes wooden, four-legged, brown, smooth, upright, rectangular, sturdy, polished, and symmetrical?",
+          "Is there a patient in the image?"
+        ],
+        "Level 2": [
+          "Is the chair supporting the patient in the image?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "A bicycle crash into a red car with 4 doors, shiny paint, round tires, metallic frame, smooth windshield, parked on a sloped street.",
+      "questions": {
+        "Level 1": [
+          "Is there a bicycle in the image?",
+          "Is there a red car with 4 doors, shiny paint, round tires, a metallic frame, and a smooth windshield in the image, parked on a sloped street?"
+        ],
+        "Level 2": [
+          "Has the bicycle crashed into the red car in the image?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "A robot repairs a car with two metallic arms, a glossy red surface, circular wheels, transparent windows, shiny metal parts, rectangular headlights, sleek aerodynamic design, synthetic rubber tires, and a compact chassis.",
+      "questions": {
+        "Level 1": [
+          "Is there a robot with two metallic arms in the image?",
+          "Is there a car with a glossy red surface, circular wheels, transparent windows, shiny metal parts, rectangular headlights, sleek aerodynamic design, synthetic rubber tires, and a compact chassis in the image?"
+        ],
+        "Level 2": [
+          "Is the robot repairing the car in the image?"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "A green frog jumps onto a round lily pad.",
+      "questions": {
+        "Level 1": [
+          "Is there a green frog in the image?",
+          "Is there a round lily pad in the image?"
+        ],
+        "Level 2": [
+          "Is the green frog jumping onto the round lily pad in the image?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "1. A red firefighter extinguishes a blaze.",
+      "questions": {
+        "Level 1": [
+          "Is there a red firefighter in the image?",
+          "Is there a blaze in the image?"
+        ],
+        "Level 2": [
+          "Is the red firefighter extinguishing the blaze in the image?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "A red ambulance blocks a sidewalk.",
+      "questions": {
+        "Level 1": [
+          "Is there a red ambulance in the image?",
+          "Is there a sidewalk in the image?"
+        ],
+        "Level 2": [
+          "Is the red ambulance blocking the sidewalk in the image?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "A brown ball hits a metal post.",
+      "questions": {
+        "Level 1": [
+          "Is there a brown ball in the image?",
+          "Is there a metal post in the image?"
+        ],
+        "Level 2": [
+          "Is the brown ball hitting the metal post in the image?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "1. A red car passes a white truck.",
+      "questions": {
+        "Level 1": [
+          "Is there a red car in the image?",
+          "Is there a white truck in the image?"
+        ],
+        "Level 2": [
+          "Is the red car passing the white truck in the image?"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "1. A red fox with bushy tail, pointed ears, and a glossy coat.",
+      "questions": {
+        "Level 1": [
+          "Is there a red fox with a bushy tail, pointed ears, and a glossy coat in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A yellow butterfly with delicate wings, black spots, and a slender body.",
+      "questions": {
+        "Level 1": [
+          "Is there a yellow butterfly with delicate wings, black spots, and a slender body in the image?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "1. A yellow hard hat, round, smooth, with a glossy texture.",
+      "questions": {
+        "Level 1": [
+          "Is there a yellow hard hat in the image, round, smooth, and with a glossy texture?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A wrench, metallic, curved, with a textured grip.",
+      "questions": {
+        "Level 1": [
+          "Is there a metallic, curved wrench with a textured grip in the image?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "1. A stethoscope, black, coiled, with metallic earpieces.",
+      "questions": {
+        "Level 1": [
+          "Is there a black stethoscope with metallic earpieces and a coiled design in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A syringe, clear, cylindrical, with a rubber plunger.",
+      "questions": {
+        "Level 1": [
+          "Is there a clear, cylindrical syringe with a rubber plunger in the image?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "1. A red basketball, spherical shape, textured surface, white stitching.",
+      "questions": {
+        "Level 1": [
+          "Is there a red basketball in the image with a spherical shape, textured surface, and white stitching?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A yellow tennis racket, elongated shape, wooden handle, black strings.",
+      "questions": {
+        "Level 1": [
+          "Is there a yellow tennis racket with an elongated shape, wooden handle, and black strings in the image?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "1. A black laptop with a silver keyboard, slim profile, and a glossy screen.",
+      "questions": {
+        "Level 1": [
+          "Is there a black laptop with a silver keyboard, slim profile, and a glossy screen in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A white wireless mouse with a matte finish, ergonomic shape, and three buttons.",
+      "questions": {
+        "Level 1": [
+          "Is there a white wireless mouse with a matte finish, ergonomic shape, and three buttons in the image?"
+        ]
+      }
+    }
+  ]
+}

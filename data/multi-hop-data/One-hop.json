@@ -1,0 +1,1752 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "1. A dog barks at a stranger",
+      "questions": {
+        "Level 1": [
+          "Is there a dog in the image?",
+          "Is there a stranger in the image?"
+        ],
+        "Level 2": [
+          "Is the dog barking at the stranger in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A tree provides shade to a picnic",
+      "questions": {
+        "Level 1": [
+          "Is there a tree in the image?",
+          "Is there a picnic in the image?"
+        ],
+        "Level 2": [
+          "Is the tree providing shade to the picnic in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. A squirrel collects acorns",
+      "questions": {
+        "Level 1": [
+          "Is there a squirrel in the image?",
+          "Is there an acorn in the image?"
+        ],
+        "Level 2": [
+          "Is the squirrel collecting acorns in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. A bee pollinates a flower",
+      "questions": {
+        "Level 1": [
+          "Is there a bee in the image?",
+          "Is there a flower in the image?"
+        ],
+        "Level 2": [
+          "Is the bee pollinating the flower in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. A cat climbs a fence",
+      "questions": {
+        "Level 1": [
+          "Is there a cat in the image?",
+          "Is there a fence in the image?"
+        ],
+        "Level 2": [
+          "Is the cat climbing the fence in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A bird builds a nest",
+      "questions": {
+        "Level 1": [
+          "Is there a bird in the image?",
+          "Is there a nest in the image?"
+        ],
+        "Level 2": [
+          "Is the bird building a nest in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. A cow grazes in a field",
+      "questions": {
+        "Level 1": [
+          "Is there a cow in the image?",
+          "Is there a field in the image?"
+        ],
+        "Level 2": [
+          "Is the cow grazing in the field in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A horse pulls a cart",
+      "questions": {
+        "Level 1": [
+          "Is there a horse in the image?",
+          "Is there a cart in the image?"
+        ],
+        "Level 2": [
+          "Is the horse pulling the cart in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "9. A farmer milks a cow",
+      "questions": {
+        "Level 1": [
+          "Is there a farmer in the image?",
+          "Is there a cow in the image?"
+        ],
+        "Level 2": [
+          "Is the farmer milking the cow in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. A fish swims in a pond",
+      "questions": {
+        "Level 1": [
+          "Is there a fish in the image?",
+          "Is there a pond in the image?"
+        ],
+        "Level 2": [
+          "Is the fish swimming in the pond in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. A lion roars in a savannah",
+      "questions": {
+        "Level 1": [
+          "Is there a lion in the image?",
+          "Is there a savannah in the image?"
+        ],
+        "Level 2": [
+          "Is the lion roaring in the savannah in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "12. A rabbit hops across a garden",
+      "questions": {
+        "Level 1": [
+          "Is there a rabbit in the image?",
+          "Is there a garden in the image?"
+        ],
+        "Level 2": [
+          "Is the rabbit hopping across the garden in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. A butterfly lands on a leaf",
+      "questions": {
+        "Level 1": [
+          "Is there a butterfly in the image?",
+          "Is there a leaf in the image?"
+        ],
+        "Level 2": [
+          "Is the butterfly landing on the leaf in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. A spider spins a web",
+      "questions": {
+        "Level 1": [
+          "Is there a spider in the image?",
+          "Is there a web in the image?"
+        ],
+        "Level 2": [
+          "Is the spider spinning a web in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "15. A duck quacks near a pond",
+      "questions": {
+        "Level 1": [
+          "Is there a duck in the image?",
+          "Is there a pond in the image?"
+        ],
+        "Level 2": [
+          "Is the duck quacking near the pond in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "16. A crab scuttles on a beach",
+      "questions": {
+        "Level 1": [
+          "Is there a crab in the image?",
+          "Is there a beach in the image?"
+        ],
+        "Level 2": [
+          "Is the crab scuttling on the beach in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "17. A monkey swings from a branch",
+      "questions": {
+        "Level 1": [
+          "Is there a monkey in the image?",
+          "Is there a branch in the image?"
+        ],
+        "Level 2": [
+          "Is the monkey swinging from the branch in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. A bear hibernates in a cave",
+      "questions": {
+        "Level 1": [
+          "Is there a bear in the image?",
+          "Is there a cave in the image?"
+        ],
+        "Level 2": [
+          "Is the bear hibernating in the cave in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "19. An owl hoots in a forest",
+      "questions": {
+        "Level 1": [
+          "Is there an owl in the image?",
+          "Is there a forest in the image?"
+        ],
+        "Level 2": [
+          "Is the owl hooting in the forest in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. A turtle basks on a log",
+      "questions": {
+        "Level 1": [
+          "Is there a turtle in the image?",
+          "Is there a log in the image?"
+        ],
+        "Level 2": [
+          "Is the turtle basking on the log in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "21. A sheep bleats in a meadow",
+      "questions": {
+        "Level 1": [
+          "Is there a sheep in the image?",
+          "Is there a meadow in the image?"
+        ],
+        "Level 2": [
+          "Is the sheep bleating in the meadow in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. A fox stalks a hare",
+      "questions": {
+        "Level 1": [
+          "Is there a fox in the image?",
+          "Is there a hare in the image?"
+        ],
+        "Level 2": [
+          "Is the fox stalking the hare in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. A frog leaps into a pond",
+      "questions": {
+        "Level 1": [
+          "Is there a frog in the image?",
+          "Is there a pond in the image?"
+        ],
+        "Level 2": [
+          "Is the frog leaping into the pond in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. A snake slithers through grass",
+      "questions": {
+        "Level 1": [
+          "Is there a snake in the image?",
+          "Is there grass in the image?"
+        ],
+        "Level 2": [
+          "Is the snake slithering through the grass in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. A chameleon changes color",
+      "questions": {
+        "Level 1": [
+          "Is there a chameleon in the image?",
+          "Is there a change in color in the image?"
+        ],
+        "Level 2": [
+          "Is the chameleon changing color in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. A penguin waddles on ice",
+      "questions": {
+        "Level 1": [
+          "Is there a penguin in the image?",
+          "Is there ice in the image?"
+        ],
+        "Level 2": [
+          "Is the penguin waddling on the ice in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. A dolphin leaps from a wave",
+      "questions": {
+        "Level 1": [
+          "Is there a dolphin in the image?",
+          "Is there a wave in the image?"
+        ],
+        "Level 2": [
+          "Is the dolphin leaping from the wave in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. A kangaroo jumps across a plain",
+      "questions": {
+        "Level 1": [
+          "Is there a kangaroo in the image?",
+          "Is there a plain in the image?"
+        ],
+        "Level 2": [
+          "Is the kangaroo jumping across the plain in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "29. A peacock displays feathers",
+      "questions": {
+        "Level 1": [
+          "Is there a peacock in the image?",
+          "Are there feathers in the image?"
+        ],
+        "Level 2": [
+          "Is the peacock displaying its feathers in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "30. A shark hunts in the ocean",
+      "questions": {
+        "Level 1": [
+          "Is there a shark in the image?",
+          "Is there an ocean in the image?"
+        ],
+        "Level 2": [
+          "Is the shark hunting in the ocean in the image?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "1. Worker assembles furniture",
+      "questions": {
+        "Level 1": [
+          "Is there a worker in the image?",
+          "Is there furniture in the image?"
+        ],
+        "Level 2": [
+          "Is the worker assembling the furniture in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. Technician repairs computer",
+      "questions": {
+        "Level 1": [
+          "Is there a technician in the image?",
+          "Is there a computer in the image?"
+        ],
+        "Level 2": [
+          "Is the technician repairing the computer in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. Employee files documents",
+      "questions": {
+        "Level 1": [
+          "Is there an employee in the image?",
+          "Are there documents in the image?"
+        ],
+        "Level 2": [
+          "Is the employee filing documents in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. Farmer plants seeds",
+      "questions": {
+        "Level 1": [
+          "Is there a farmer in the image?",
+          "Are there seeds in the image?"
+        ],
+        "Level 2": [
+          "Is the farmer planting seeds in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. Barber cuts hair",
+      "questions": {
+        "Level 1": [
+          "Is there a barber in the image?",
+          "Is there hair in the image?"
+        ],
+        "Level 2": [
+          "Is the barber cutting hair in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. Chef cooks meal",
+      "questions": {
+        "Level 1": [
+          "Is there a chef in the image?",
+          "Is there a meal in the image?"
+        ],
+        "Level 2": [
+          "Is the chef cooking the meal in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. Gardener trims hedges",
+      "questions": {
+        "Level 1": [
+          "Is there a gardener in the image?",
+          "Are there hedges in the image?"
+        ],
+        "Level 2": [
+          "Is the gardener trimming the hedges in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. Carpenter builds table",
+      "questions": {
+        "Level 1": [
+          "Is there a carpenter in the image?",
+          "Is there a table in the image?"
+        ],
+        "Level 2": [
+          "Is the carpenter building the table in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "9. Driver delivers package",
+      "questions": {
+        "Level 1": [
+          "Is there a driver in the image?",
+          "Is there a package in the image?"
+        ],
+        "Level 2": [
+          "Is the driver delivering the package in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. Nurse administers vaccine",
+      "questions": {
+        "Level 1": [
+          "Is there a nurse in the image?",
+          "Is there a vaccine in the image?"
+        ],
+        "Level 2": [
+          "Is the nurse administering the vaccine in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. Painter colors wall",
+      "questions": {
+        "Level 1": [
+          "Is there a painter in the image?",
+          "Is there a wall in the image?"
+        ],
+        "Level 2": [
+          "Is the painter coloring the wall in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "12. Mechanic fixes engine",
+      "questions": {
+        "Level 1": [
+          "Is there a mechanic in the image?",
+          "Is there an engine in the image?"
+        ],
+        "Level 2": [
+          "Is the mechanic fixing the engine in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. Teacher grades papers",
+      "questions": {
+        "Level 1": [
+          "Is there a teacher in the image?",
+          "Are there papers in the image?"
+        ],
+        "Level 2": [
+          "Is the teacher grading the papers in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. Librarian organizes books",
+      "questions": {
+        "Level 1": [
+          "Is there a librarian in the image?",
+          "Are there books in the image?"
+        ],
+        "Level 2": [
+          "Is the librarian organizing the books in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "15. Plumber unclogs pipe",
+      "questions": {
+        "Level 1": [
+          "Is there a plumber in the image?",
+          "Is there a pipe in the image?"
+        ],
+        "Level 2": [
+          "Is the plumber unclogging the pipe in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "16. Baker kneads dough",
+      "questions": {
+        "Level 1": [
+          "Is there a baker in the image?",
+          "Is there dough in the image?"
+        ],
+        "Level 2": [
+          "Is the baker kneading the dough in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "17. Actor rehearses lines",
+      "questions": {
+        "Level 1": [
+          "Is there an actor in the image?",
+          "Are there lines being rehearsed in the image?"
+        ],
+        "Level 2": [
+          "Is the actor rehearsing lines in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. Electrician wires outlet",
+      "questions": {
+        "Level 1": [
+          "Is there an electrician in the image?",
+          "Is there an outlet in the image?"
+        ],
+        "Level 2": [
+          "Is the electrician wiring the outlet in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "19. Firefighter extinguishes fire",
+      "questions": {
+        "Level 1": [
+          "Is there a firefighter in the image?",
+          "Is there a fire in the image?"
+        ],
+        "Level 2": [
+          "Is the firefighter extinguishing the fire in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. Janitor cleans floor",
+      "questions": {
+        "Level 1": [
+          "Is there a janitor in the image?",
+          "Is there a floor in the image?"
+        ],
+        "Level 2": [
+          "Is the janitor cleaning the floor in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "21. Tailor stitches dress",
+      "questions": {
+        "Level 1": [
+          "Is there a tailor in the image?",
+          "Is there a dress in the image?"
+        ],
+        "Level 2": [
+          "Is the tailor stitching the dress in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. Mason lays bricks",
+      "questions": {
+        "Level 1": [
+          "Is there a mason in the image?",
+          "Are there bricks in the image?"
+        ],
+        "Level 2": [
+          "Is the mason laying bricks in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. Welder joins metal",
+      "questions": {
+        "Level 1": [
+          "Is there a welder in the image?",
+          "Is there metal in the image?"
+        ],
+        "Level 2": [
+          "Is the welder joining the metal in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. Pilot flies airplane",
+      "questions": {
+        "Level 1": [
+          "Is there a pilot in the image?",
+          "Is there an airplane in the image?"
+        ],
+        "Level 2": [
+          "Is the pilot flying the airplane in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. Scientist conducts experiment",
+      "questions": {
+        "Level 1": [
+          "Is there a scientist in the image?",
+          "Is there an experiment in the image?"
+        ],
+        "Level 2": [
+          "Is the scientist conducting the experiment in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. Photographer snaps picture",
+      "questions": {
+        "Level 1": [
+          "Is there a photographer in the image?",
+          "Is there a picture in the image?"
+        ],
+        "Level 2": [
+          "Is the photographer snapping a picture in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. Veterinarian examines animal",
+      "questions": {
+        "Level 1": [
+          "Is there a veterinarian in the image?",
+          "Is there an animal in the image?"
+        ],
+        "Level 2": [
+          "Is the veterinarian examining the animal in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. Editor reviews manuscript",
+      "questions": {
+        "Level 1": [
+          "Is there an editor in the image?",
+          "Is there a manuscript in the image?"
+        ],
+        "Level 2": [
+          "Is the editor reviewing the manuscript in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "29. Coach trains athlete",
+      "questions": {
+        "Level 1": [
+          "Is there a coach in the image?",
+          "Is there an athlete in the image?"
+        ],
+        "Level 2": [
+          "Is the coach training the athlete in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "30. Pharmacist dispenses prescription",
+      "questions": {
+        "Level 1": [
+          "Is there a pharmacist in the image?",
+          "Is there a prescription in the image?"
+        ],
+        "Level 2": [
+          "Is the pharmacist dispensing a prescription in the image?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "1. A doctor treats a patient",
+      "questions": {
+        "Level 1": [
+          "Is there a doctor in the image?",
+          "Is there a patient in the image?"
+        ],
+        "Level 2": [
+          "Is the doctor treating the patient in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A nurse administers medication",
+      "questions": {
+        "Level 1": [
+          "Is there a nurse in the image?",
+          "Is there medication in the image?"
+        ],
+        "Level 2": [
+          "Is the nurse administering medication in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. A surgeon performs surgery",
+      "questions": {
+        "Level 1": [
+          "Is there a surgeon in the image?",
+          "Is there a surgery being performed in the image?"
+        ],
+        "Level 2": [
+          "Is the surgeon performing surgery in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. A dentist examines teeth",
+      "questions": {
+        "Level 1": [
+          "Is there a dentist in the image?",
+          "Are there teeth in the image?"
+        ],
+        "Level 2": [
+          "Is the dentist examining the teeth in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. A paramedic transports a patient",
+      "questions": {
+        "Level 1": [
+          "Is there a paramedic in the image?",
+          "Is there a patient in the image?"
+        ],
+        "Level 2": [
+          "Is the paramedic transporting the patient in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A pharmacist dispenses medicine",
+      "questions": {
+        "Level 1": [
+          "Is there a pharmacist in the image?",
+          "Is there medicine in the image?"
+        ],
+        "Level 2": [
+          "Is the pharmacist dispensing medicine in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. An optometrist tests vision",
+      "questions": {
+        "Level 1": [
+          "Is there an optometrist in the image?",
+          "Is there a vision test in the image?"
+        ],
+        "Level 2": [
+          "Is the optometrist testing vision in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. An allergist diagnoses allergies",
+      "questions": {
+        "Level 1": [
+          "Is there an allergist in the image?",
+          "Is there evidence of allergies in the image?"
+        ],
+        "Level 2": [
+          "Is the allergist diagnosing allergies in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "9. A patient visits a clinic",
+      "questions": {
+        "Level 1": [
+          "Is there a patient in the image?",
+          "Is there a clinic in the image?"
+        ],
+        "Level 2": [
+          "Is the patient visiting the clinic in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. A radiologist analyzes X-rays",
+      "questions": {
+        "Level 1": [
+          "Is there a radiologist in the image?",
+          "Is there an X-ray in the image?"
+        ],
+        "Level 2": [
+          "Is the radiologist analyzing X-rays in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. A therapist counsels a client",
+      "questions": {
+        "Level 1": [
+          "Is there a therapist in the image?",
+          "Is there a client in the image?"
+        ],
+        "Level 2": [
+          "Is the therapist counseling the client in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "12. A chiropractor adjusts a spine",
+      "questions": {
+        "Level 1": [
+          "Is there a chiropractor in the image?",
+          "Is there a spine in the image?"
+        ],
+        "Level 2": [
+          "Is the chiropractor adjusting the spine in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. A midwife assists childbirth",
+      "questions": {
+        "Level 1": [
+          "Is there a midwife in the image?",
+          "Is there a childbirth taking place in the image?"
+        ],
+        "Level 2": [
+          "Is the midwife assisting with the childbirth in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. A podiatrist examines a foot",
+      "questions": {
+        "Level 1": [
+          "Is there a podiatrist in the image?",
+          "Is there a foot in the image?"
+        ],
+        "Level 2": [
+          "Is the podiatrist examining the foot in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "15. A dietitian plans a meal",
+      "questions": {
+        "Level 1": [
+          "Is there a dietitian in the image?",
+          "Is there a meal in the image?"
+        ],
+        "Level 2": [
+          "Is the dietitian planning a meal in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "16. A physical therapist rehabilitates an injury",
+      "questions": {
+        "Level 1": [
+          "Is there a physical therapist in the image?",
+          "Is there an injury in the image?"
+        ],
+        "Level 2": [
+          "Is the physical therapist rehabilitating an injury in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "17. A psychologist conducts therapy",
+      "questions": {
+        "Level 1": [
+          "Is there a psychologist in the image?",
+          "Is there a therapy session taking place in the image?"
+        ],
+        "Level 2": [
+          "Is the psychologist conducting therapy in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. A veterinarian vaccinates a pet",
+      "questions": {
+        "Level 1": [
+          "Is there a veterinarian in the image?",
+          "Is there a pet in the image?"
+        ],
+        "Level 2": [
+          "Is the veterinarian vaccinating the pet in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "19. A cardiologist monitors a heart",
+      "questions": {
+        "Level 1": [
+          "Is there a cardiologist in the image?",
+          "Is there a heart in the image?"
+        ],
+        "Level 2": [
+          "Is the cardiologist monitoring the heart in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. A dermatologist assesses skin",
+      "questions": {
+        "Level 1": [
+          "Is there a dermatologist in the image?",
+          "Is there skin in the image?"
+        ],
+        "Level 2": [
+          "Is the dermatologist assessing the skin in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "21. A psychiatrist prescribes medication",
+      "questions": {
+        "Level 1": [
+          "Is there a psychiatrist in the image?",
+          "Is there medication in the image?"
+        ],
+        "Level 2": [
+          "Is the psychiatrist prescribing medication in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. A phlebotomist draws blood",
+      "questions": {
+        "Level 1": [
+          "Is there a phlebotomist in the image?",
+          "Is there blood in the image?"
+        ],
+        "Level 2": [
+          "Is the phlebotomist drawing blood in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. A technician operates an MRI",
+      "questions": {
+        "Level 1": [
+          "Is there a technician in the image?",
+          "Is there an MRI in the image?"
+        ],
+        "Level 2": [
+          "Is the technician operating the MRI in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. A researcher studies cells",
+      "questions": {
+        "Level 1": [
+          "Is there a researcher in the image?",
+          "Are there cells in the image?"
+        ],
+        "Level 2": [
+          "Is the researcher studying the cells in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. A caregiver assists a senior",
+      "questions": {
+        "Level 1": [
+          "Is there a caregiver in the image?",
+          "Is there a senior in the image?"
+        ],
+        "Level 2": [
+          "Is the caregiver assisting the senior in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. An acupuncturist inserts needles",
+      "questions": {
+        "Level 1": [
+          "Is there an acupuncturist in the image?",
+          "Are there needles in the image?"
+        ],
+        "Level 2": [
+          "Is the acupuncturist inserting needles in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. An audiologist tests hearing",
+      "questions": {
+        "Level 1": [
+          "Is there an audiologist in the image?",
+          "Is there a hearing test in the image?"
+        ],
+        "Level 2": [
+          "Is the audiologist testing hearing in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. A homeopath prescribes a remedy",
+      "questions": {
+        "Level 1": [
+          "Is there a homeopath in the image?",
+          "Is there a remedy in the image?"
+        ],
+        "Level 2": [
+          "Is the homeopath prescribing a remedy in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "29. A speech therapist improves articulation",
+      "questions": {
+        "Level 1": [
+          "Is there a speech therapist in the image?",
+          "Is there evidence of articulation improvement in the image?"
+        ],
+        "Level 2": [
+          "Is the speech therapist improving articulation in the image?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "1. A ball bounces off a wall",
+      "questions": {
+        "Level 1": [
+          "Is there a ball in the image?",
+          "Is there a wall in the image?"
+        ],
+        "Level 2": [
+          "Is the ball bouncing off the wall in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A bat hits a ball",
+      "questions": {
+        "Level 1": [
+          "Is there a bat in the image?",
+          "Is there a ball in the image?"
+        ],
+        "Level 2": [
+          "Is the bat hitting the ball in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. A player kicks a soccer ball",
+      "questions": {
+        "Level 1": [
+          "Is there a player in the image?",
+          "Is there a soccer ball in the image?"
+        ],
+        "Level 2": [
+          "Is the player kicking the soccer ball in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. A racket strikes a tennis ball",
+      "questions": {
+        "Level 1": [
+          "Is there a racket in the image?",
+          "Is there a tennis ball in the image?"
+        ],
+        "Level 2": [
+          "Is the racket striking the tennis ball in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. A cyclist rides a bicycle",
+      "questions": {
+        "Level 1": [
+          "Is there a cyclist in the image?",
+          "Is there a bicycle in the image?"
+        ],
+        "Level 2": [
+          "Is the cyclist riding the bicycle in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A runner crosses a finish line",
+      "questions": {
+        "Level 1": [
+          "Is there a runner in the image?",
+          "Is there a finish line in the image?"
+        ],
+        "Level 2": [
+          "Has the runner crossed the finish line in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. A swimmer dives into a pool",
+      "questions": {
+        "Level 1": [
+          "Is there a swimmer in the image?",
+          "Is there a pool in the image?"
+        ],
+        "Level 2": [
+          "Is the swimmer diving into the pool in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A goalie saves a shot",
+      "questions": {
+        "Level 1": [
+          "Is there a goalie in the image?",
+          "Is there a shot in the image?"
+        ],
+        "Level 2": [
+          "Is the goalie saving the shot in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "9. A fan cheers for a team",
+      "questions": {
+        "Level 1": [
+          "Is there a fan in the image?",
+          "Is there a team in the image?"
+        ],
+        "Level 2": [
+          "Is the fan cheering for the team in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. A coach instructs a player",
+      "questions": {
+        "Level 1": [
+          "Is there a coach in the image?",
+          "Is there a player in the image?"
+        ],
+        "Level 2": [
+          "Is the coach instructing the player in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. A referee whistles a foul",
+      "questions": {
+        "Level 1": [
+          "Is there a referee in the image?",
+          "Is there a whistle in the image?"
+        ],
+        "Level 2": [
+          "Is the referee whistling for a foul in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "12. A horse jumps over a hurdle",
+      "questions": {
+        "Level 1": [
+          "Is there a horse in the image?",
+          "Is there a hurdle in the image?"
+        ],
+        "Level 2": [
+          "Is the horse jumping over the hurdle in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. A golfer swings a club",
+      "questions": {
+        "Level 1": [
+          "Is there a golfer in the image?",
+          "Is there a club in the image?"
+        ],
+        "Level 2": [
+          "Is the golfer swinging the club in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. A skier glides down a slope",
+      "questions": {
+        "Level 1": [
+          "Is there a skier in the image?",
+          "Is there a slope in the image?"
+        ],
+        "Level 2": [
+          "Is the skier gliding down the slope in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "15. A surfer rides a wave",
+      "questions": {
+        "Level 1": [
+          "Is there a surfer in the image?",
+          "Is there a wave in the image?"
+        ],
+        "Level 2": [
+          "Is the surfer riding the wave in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "16. A climber scales a mountain",
+      "questions": {
+        "Level 1": [
+          "Is there a climber in the image?",
+          "Is there a mountain in the image?"
+        ],
+        "Level 2": [
+          "Is the climber scaling the mountain in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "17. A skateboarder tricks a ramp",
+      "questions": {
+        "Level 1": [
+          "Is there a skateboarder in the image?",
+          "Is there a ramp in the image?"
+        ],
+        "Level 2": [
+          "Is the skateboarder tricking the ramp in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. A gymnast performs a routine",
+      "questions": {
+        "Level 1": [
+          "Is there a gymnast in the image?",
+          "Is there a routine being performed in the image?"
+        ],
+        "Level 2": [
+          "Is the gymnast performing a routine in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "19. A fielder catches a ball",
+      "questions": {
+        "Level 1": [
+          "Is there a fielder in the image?",
+          "Is there a ball in the image?"
+        ],
+        "Level 2": [
+          "Is the fielder catching the ball in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. A boxer punches a bag",
+      "questions": {
+        "Level 1": [
+          "Is there a boxer in the image?",
+          "Is there a bag in the image?"
+        ],
+        "Level 2": [
+          "Is the boxer punching the bag in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "21. A car overtakes another car",
+      "questions": {
+        "Level 1": [
+          "Is there a car in the image?",
+          "Is there another car in the image?"
+        ],
+        "Level 2": [
+          "Is one car overtaking another car in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. A javelin pierces the ground",
+      "questions": {
+        "Level 1": [
+          "Is there a javelin in the image?",
+          "Is there ground in the image?"
+        ],
+        "Level 2": [
+          "Is the javelin piercing the ground in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. A kayaker paddles a river",
+      "questions": {
+        "Level 1": [
+          "Is there a kayaker in the image?",
+          "Is there a river in the image?"
+        ],
+        "Level 2": [
+          "Is the kayaker paddling on the river in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. A hiker explores a trail",
+      "questions": {
+        "Level 1": [
+          "Is there a hiker in the image?",
+          "Is there a trail in the image?"
+        ],
+        "Level 2": [
+          "Is the hiker exploring a trail in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. A cheerleader performs a stunt",
+      "questions": {
+        "Level 1": [
+          "Is there a cheerleader in the image?",
+          "Is there a stunt being performed in the image?"
+        ],
+        "Level 2": [
+          "Is the cheerleader performing a stunt in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. A scorer makes a goal",
+      "questions": {
+        "Level 1": [
+          "Is there a scorer in the image?",
+          "Is there a goal in the image?"
+        ],
+        "Level 2": [
+          "Is the scorer making a goal in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. A team wins a tournament",
+      "questions": {
+        "Level 1": [
+          "Is there a team in the image?",
+          "Is there a tournament in the image?"
+        ],
+        "Level 2": [
+          "Is the team winning the tournament in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "29. A stopwatch times a race",
+      "questions": {
+        "Level 1": [
+          "Is there a stopwatch in the image?",
+          "Is there a race in the image?"
+        ],
+        "Level 2": [
+          "Is the stopwatch timing the race in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "30. A trophy awards a champion",
+      "questions": {
+        "Level 1": [
+          "Is there a trophy in the image?",
+          "Is there a champion in the image?"
+        ],
+        "Level 2": [
+          "Is the trophy awarding the champion in the image?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "1. A smartphone rings a notification.",
+      "questions": {
+        "Level 1": [
+          "Is there a smartphone in the image?",
+          "Is there a notification in the image?"
+        ],
+        "Level 2": [
+          "Is the smartphone ringing a notification in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A computer displays a warning.",
+      "questions": {
+        "Level 1": [
+          "Is there a computer in the image?",
+          "Is there a warning in the image?"
+        ],
+        "Level 2": [
+          "Is the computer displaying a warning in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. A drone captures a video.",
+      "questions": {
+        "Level 1": [
+          "Is there a drone in the image?",
+          "Is there a video in the image?"
+        ],
+        "Level 2": [
+          "Is the drone capturing a video in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. A server processes a request.",
+      "questions": {
+        "Level 1": [
+          "Is there a server in the image?",
+          "Is there a request in the image?"
+        ],
+        "Level 2": [
+          "Is the server processing a request in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A pen writes on paper.",
+      "questions": {
+        "Level 1": [
+          "Is there a pen in the image?",
+          "Is there paper in the image?"
+        ],
+        "Level 2": [
+          "Is the pen writing on the paper in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. A printer prints a document.",
+      "questions": {
+        "Level 1": [
+          "Is there a printer in the image?",
+          "Is there a document in the image?"
+        ],
+        "Level 2": [
+          "Is the printer printing a document in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A laptop boots an operating system.",
+      "questions": {
+        "Level 1": [
+          "Is there a laptop in the image?",
+          "Is there an operating system in the image?"
+        ],
+        "Level 2": [
+          "Is the laptop booting an operating system in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "9. A light bulb illuminates a room.",
+      "questions": {
+        "Level 1": [
+          "Is there a light bulb in the image?",
+          "Is there a room in the image?"
+        ],
+        "Level 2": [
+          "Is the light bulb illuminating the room in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. A router connects to the internet.",
+      "questions": {
+        "Level 1": [
+          "Is there a router in the image?",
+          "Is there the internet in the image?"
+        ],
+        "Level 2": [
+          "Is the router connecting to the internet in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. A smartwatch tracks a heartbeat.",
+      "questions": {
+        "Level 1": [
+          "Is there a smartwatch in the image?",
+          "Is there a heartbeat in the image?"
+        ],
+        "Level 2": [
+          "Is the smartwatch tracking a heartbeat in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "12. A camera snaps a photo.",
+      "questions": {
+        "Level 1": [
+          "Is there a camera in the image?",
+          "Is there a photo in the image?"
+        ],
+        "Level 2": [
+          "Is the camera snapping a photo in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. A keyboard inputs text.",
+      "questions": {
+        "Level 1": [
+          "Is there a keyboard in the image?",
+          "Is there text in the image?"
+        ],
+        "Level 2": [
+          "Is the keyboard inputting text in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. A tablet downloads an app.",
+      "questions": {
+        "Level 1": [
+          "Is there a tablet in the image?",
+          "Is there an app in the image?"
+        ],
+        "Level 2": [
+          "Is the tablet downloading an app in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "15. A microwave heats leftovers.",
+      "questions": {
+        "Level 1": [
+          "Is there a microwave in the image?",
+          "Are there leftovers in the image?"
+        ],
+        "Level 2": [
+          "Is the microwave heating the leftovers in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "16. A television streams a show.",
+      "questions": {
+        "Level 1": [
+          "Is there a television in the image?",
+          "Is there a show in the image?"
+        ],
+        "Level 2": [
+          "Is the television streaming a show in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "17. A speaker plays music.",
+      "questions": {
+        "Level 1": [
+          "Is there a speaker in the image?",
+          "Is there music in the image?"
+        ],
+        "Level 2": [
+          "Is the speaker playing music in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. A vacuum cleans a carpet.",
+      "questions": {
+        "Level 1": [
+          "Is there a vacuum in the image?",
+          "Is there a carpet in the image?"
+        ],
+        "Level 2": [
+          "Is the vacuum cleaning the carpet in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "19. A refrigerator stores groceries.",
+      "questions": {
+        "Level 1": [
+          "Is there a refrigerator in the image?",
+          "Are there groceries in the image?"
+        ],
+        "Level 2": [
+          "Is the refrigerator storing the groceries in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. A washing machine cycles laundry.",
+      "questions": {
+        "Level 1": [
+          "Is there a washing machine in the image?",
+          "Is there laundry in the image?"
+        ],
+        "Level 2": [
+          "Is the washing machine cycling the laundry in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "21. A projector displays a presentation.",
+      "questions": {
+        "Level 1": [
+          "Is there a projector in the image?",
+          "Is there a presentation in the image?"
+        ],
+        "Level 2": [
+          "Is the projector displaying the presentation in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. A thermostat regulates temperature.",
+      "questions": {
+        "Level 1": [
+          "Is there a thermostat in the image?",
+          "Is there a depiction of temperature in the image?"
+        ],
+        "Level 2": [
+          "Is the thermostat regulating the temperature in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. A mouse clicks a link.",
+      "questions": {
+        "Level 1": [
+          "Is there a mouse in the image?",
+          "Is there a link in the image?"
+        ],
+        "Level 2": [
+          "Is the mouse clicking a link in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. A doorbell rings a chime.",
+      "questions": {
+        "Level 1": [
+          "Is there a doorbell in the image?",
+          "Is there a chime in the image?"
+        ],
+        "Level 2": [
+          "Is the doorbell ringing a chime in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. A fan cools a room.",
+      "questions": {
+        "Level 1": [
+          "Is there a fan in the image?",
+          "Is there a room in the image?"
+        ],
+        "Level 2": [
+          "Is the fan cooling the room in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. A GPS navigates a route.",
+      "questions": {
+        "Level 1": [
+          "Is there a GPS in the image?",
+          "Is there a route in the image?"
+        ],
+        "Level 2": [
+          "Is the GPS navigating a route in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. A smart lock secures a house.",
+      "questions": {
+        "Level 1": [
+          "Is there a smart lock in the image?",
+          "Is there a house in the image?"
+        ],
+        "Level 2": [
+          "Is the smart lock securing the house in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "29. A coffee maker brews coffee.",
+      "questions": {
+        "Level 1": [
+          "Is there a coffee maker in the image?",
+          "Is there coffee in the image?"
+        ],
+        "Level 2": [
+          "Is the coffee maker brewing coffee in the image?"
+        ]
+      }
+    }
+  ]
+}

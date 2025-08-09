@@ -1,0 +1,172 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "A mouse",
+      "questions": {
+        "Level 1": [
+          "Is there a mouse in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "A monkey",
+      "questions": {
+        "Level 1": [
+          "Is there a monkey in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "An antelope",
+      "questions": {
+        "Level 1": [
+          "Is there an antelope in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "A fawn",
+      "questions": {
+        "Level 1": [
+          "Is there a fawn in the image?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "An elderly person",
+      "questions": {
+        "Level 1": [
+          "Is there an elderly person in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "A carpenter",
+      "questions": {
+        "Level 1": [
+          "Is there a carpenter in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "A farmer",
+      "questions": {
+        "Level 1": [
+          "Is there a farmer in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "A stonemason",
+      "questions": {
+        "Level 1": [
+          "Is there a stonemason in the image?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "A syringe",
+      "questions": {
+        "Level 1": [
+          "Is there a syringe in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "An IV bag",
+      "questions": {
+        "Level 1": [
+          "Is there an IV bag in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "A bandage",
+      "questions": {
+        "Level 1": [
+          "Is there a bandage in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "A surgical scalpel",
+      "questions": {
+        "Level 1": [
+          "Is there a surgical scalpel in the image?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "A basketball",
+      "questions": {
+        "Level 1": [
+          "Is there a basketball in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "A frisbee",
+      "questions": {
+        "Level 1": [
+          "Is there a frisbee in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "A hockey puck",
+      "questions": {
+        "Level 1": [
+          "Is there a hockey puck in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "A soccer ball",
+      "questions": {
+        "Level 1": [
+          "Is there a soccer ball in the image?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "A drone",
+      "questions": {
+        "Level 1": [
+          "Is there a drone in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "A laser rangefinder",
+      "questions": {
+        "Level 1": [
+          "Is there a laser rangefinder in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "An autonomous vehicle",
+      "questions": {
+        "Level 1": [
+          "Is there an autonomous vehicle in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "A circuit board",
+      "questions": {
+        "Level 1": [
+          "Is there a circuit board in the image?"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "A brown dog chases a white rabbit, the rabbit leaps over a small creek.",
+      "questions": {
+        "Level 1": [
+          "Is there a brown dog in the image?",
+          "Is there a white rabbit in the image?",
+          "Is there a small creek in the image?"
+        ],
+        "Level 2": [
+          "Is the brown dog chasing the white rabbit in the image?",
+          "Is the rabbit leaping over the small creek in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a brown dog chasing a white rabbit, followed by the rabbit leaping over a small creek?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "A red, square, glossy car parks beside a crowded, rectangular, metallic skyscraper, the skyscraper casts a long, dark, wavy shadow onto a wide, smooth, grey sidewalk.",
+      "questions": {
+        "Level 1": [
+          "Is there a red, square, glossy car in the image?",
+          "Is there a crowded, rectangular, metallic skyscraper in the image?",
+          "Is there a wide, smooth, grey sidewalk in the image?"
+        ],
+        "Level 2": [
+          "Is the red, square, glossy car parked beside the crowded, rectangular, metallic skyscraper in the image?",
+          "Is the skyscraper casting a long, dark, wavy shadow onto the wide, smooth, grey sidewalk in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a red, square, glossy car parking beside a crowded, rectangular, metallic skyscraper with the skyscraper casting a long, dark, wavy shadow onto a wide, smooth, grey sidewalk?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "A doctor in a pristine white coat examines a shiny steel stethoscope, the stethoscope dangles from a navy blue lanyard against his neck.",
+      "questions": {
+        "Level 1": [
+          "Is there a doctor wearing a pristine white coat in the image?",
+          "Is there a shiny steel stethoscope in the image?",
+          "Is there a navy blue lanyard in the image?"
+        ],
+        "Level 2": [
+          "Is the doctor examining the stethoscope in the image?",
+          "Is the stethoscope dangling from the lanyard around the doctor's neck in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a doctor in a pristine white coat examining a shiny steel stethoscope that dangles from a navy blue lanyard against his neck?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "A red jerseyed athlete kicks a round black-striped soccer ball, the soccer ball hits a tall metal goalpost.",
+      "questions": {
+        "Level 1": [
+          "Is there a red jerseyed athlete in the image?",
+          "Is there a round black-striped soccer ball in the image?",
+          "Is there a tall metal goalpost in the image?"
+        ],
+        "Level 2": [
+          "Is the athlete kicking the soccer ball in the image?",
+          "Is the soccer ball hitting the goalpost in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a red jerseyed athlete kicking a round black-striped soccer ball, followed by the soccer ball hitting a tall metal goalpost?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "A shiny blue car hits a red brick wall, the red brick wall collapses onto a green metal fence.",
+      "questions": {
+        "Level 1": [
+          "Is there a shiny blue car in the image?",
+          "Is there a red brick wall in the image?",
+          "Is there a green metal fence in the image?"
+        ],
+        "Level 2": [
+          "Is the shiny blue car hitting the red brick wall in the image?",
+          "Is the red brick wall collapsing onto the green metal fence in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a shiny blue car hitting a red brick wall, followed by the wall collapsing onto a green metal fence?"
+        ]
+      }
+    }
+  ]
+}

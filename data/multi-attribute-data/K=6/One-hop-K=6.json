@@ -1,0 +1,72 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "A bird with three long feathers on its tail flies over a red, round aluminum mailbox.",
+      "questions": {
+        "Level 1": [
+          "Is there a bird with three long feathers on its tail in the image?",
+          "Is there a red, round aluminum mailbox in the image?"
+        ],
+        "Level 2": [
+          "Is the bird flying over the red, round aluminum mailbox in the image?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "A construction worker assembles a metal beam with 2 yellow beams, rectangular shape, steel material, smooth texture, horizontal alignment, parallel positioning.",
+      "questions": {
+        "Level 1": [
+          "Is there a construction worker in the image assembling a beam?",
+          "Is there a metal beam with 2 yellow beams, rectangular shape, steel material, smooth texture, horizontal alignment, and parallel positioning in the image?"
+        ],
+        "Level 2": [
+          "Is the construction worker assembling the metal beam as described in the image?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "A doctor examines a patient. Number: two; Color: white coat, blue scrubs; Shape: rectangle clipboard; Material: plastic stethoscope; Texture: smooth skin; Spatial relation: standing near.",
+      "questions": {
+        "Level 1": [
+          "Is there a doctor in the image wearing a white coat with a rectangle clipboard and a plastic stethoscope?",
+          "Is there a patient in the image with smooth skin wearing blue scrubs?"
+        ],
+        "Level 2": [
+          "Is the doctor standing near the patient in the image?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "A red soccer ball rolls past three yellow cones on green grass under a blue sky.",
+      "questions": {
+        "Level 1": [
+          "Is there a red soccer ball on green grass under a blue sky in the image?",
+          "Are there three yellow cones on green grass under a blue sky in the image?"
+        ],
+        "Level 2": [
+          "Is the red soccer ball rolling past the three yellow cones in the image?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "A robot assembles a phone: silver, rectangular, shiny, smooth, metallic, beside",
+      "questions": {
+        "Level 1": [
+          "Is there a robot in the image?",
+          "Is there a phone in the image that is silver, rectangular, shiny, smooth, and metallic?"
+        ],
+        "Level 2": [
+          "Is the robot assembling the phone and are they positioned beside each other in the image?"
+        ]
+      }
+    }
+  ]
+}

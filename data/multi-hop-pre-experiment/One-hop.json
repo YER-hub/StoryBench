@@ -1,0 +1,290 @@
+{
+    "Animals and Nature": [
+      {
+        "prompt": "A cat chases a mouse",
+        "questions": {
+          "Level 1": [
+            "Is there a cat in the image?",
+            "Is there a mouse in the image?"
+          ],
+          "Level 2": [
+            "Is the cat chasing the mouse in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "A monkey grabs a tree branch",
+        "questions": {
+          "Level 1": [
+            "Is there a monkey in the image?",
+            "Is there a tree branch in the image?"
+          ],
+          "Level 2": [
+            "Is the monkey grabbing the tree branch in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "A cat plays with a ball of yarn",
+        "questions": {
+          "Level 1": [
+            "Is there a cat in the image?",
+            "Is there a ball of yarn in the image?"
+          ],
+          "Level 2": [
+            "Is the cat playing with the ball of yarn in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "A tiger pounces on a fawn",
+        "questions": {
+          "Level 1": [
+            "Is there a tiger in the image?",
+            "Is there a fawn in the image?"
+          ],
+          "Level 2": [
+            "Is the tiger pouncing on the fawn in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "A cheetah chases an antelope",
+        "questions": {
+          "Level 1": [
+            "Is there a cheetah in the image?",
+            "Is there an antelope in the image?"
+          ],
+          "Level 2": [
+            "Is the cheetah chasing the antelope in the image?"
+          ]
+        }
+      }
+    ],
+    "Labor": [
+      {
+        "prompt": "An elderly person cuts a tree branch",
+        "questions": {
+          "Level 1": [
+            "Is there an elderly person in the image?",
+            "Is there a tree branch in the image?"
+          ],
+          "Level 2": [
+            "Is the elderly person cutting the tree branch in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "A gardener pulls weeds",
+        "questions": {
+          "Level 1": [
+            "Is there a gardener in the image?",
+            "Are there weeds in the image?"
+          ],
+          "Level 2": [
+            "Is the gardener pulling the weeds in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "A gardener trims a bush",
+        "questions": {
+          "Level 1": [
+            "Is there a gardener in the image?",
+            "Is there a bush in the image?"
+          ],
+          "Level 2": [
+            "Is the gardener trimming the bush in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "A farmer cuts wheat",
+        "questions": {
+          "Level 1": [
+            "Is there a farmer in the image?",
+            "Are there wheat ears in the image?"
+          ],
+          "Level 2": [
+            "Is the farmer cutting the wheat in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "A stonemason carves a stone block",
+        "questions": {
+          "Level 1": [
+            "Is there a stonemason in the image?",
+            "Is there a stone block in the image?"
+          ],
+          "Level 2": [
+            "Is the stonemason carving the stone block in the image?"
+          ]
+        }
+      }
+    ],
+    "Medical": [
+      {
+        "prompt": "A doctor slaps a patient",
+        "questions": {
+          "Level 1": [
+            "Is there a doctor in the image?",
+            "Is there a patient in the image?"
+          ],
+          "Level 2": [
+            "Is the doctor slapping the patient in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "A caregiver helps a patient to stand up",
+        "questions": {
+          "Level 1": [
+            "Is there a caregiver in the image?",
+            "Is there a patient in the image?"
+          ],
+          "Level 2": [
+            "Is the caregiver helping the patient to stand up in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "A doctor taps a patient's knee",
+        "questions": {
+          "Level 1": [
+            "Is there a doctor in the image?",
+            "Is there a patient in the image?"
+          ],
+          "Level 2": [
+            "Is the doctor tapping the patient's knee in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "A nurse removes a patient's bandage",
+        "questions": {
+          "Level 1": [
+            "Is there a nurse in the image?",
+            "Is there a patient in the image?",
+            "Is there a bandage in the image?"
+          ],
+          "Level 2": [
+            "Is the nurse removing the patient's bandage in the image?"
+          ]
+        }
+      }
+    ],
+    "Sport": [
+      {
+        "prompt": "A coach throws a basketball",
+        "questions": {
+          "Level 1": [
+            "Is there a coach in the image?",
+            "Is there a basketball in the image?"
+          ],
+          "Level 2": [
+            "Is the coach throwing a basketball in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "A child throws a frisbee",
+        "questions": {
+          "Level 1": [
+            "Is there a child in the image?",
+            "Is there a frisbee in the image?"
+          ],
+          "Level 2": [
+            "Is the child throwing a frisbee in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "A hockey player hits a puck",
+        "questions": {
+          "Level 1": [
+            "Is there a hockey player in the image?",
+            "Is there a hockey puck in the image?"
+          ],
+          "Level 2": [
+            "Is the hockey player hitting the puck with a hockey stick in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "A soccer player kicks a soccer ball",
+        "questions": {
+          "Level 1": [
+            "Is there a soccer player in the image?",
+            "Is there a soccer ball in the image?"
+          ],
+          "Level 2": [
+            "Is the soccer player kicking the soccer ball in the image?"
+          ]
+        }
+      }
+    ],
+    "Technology": [
+      {
+        "prompt": "An engineer operates a drone",
+        "questions": {
+          "Level 1": [
+            "Is there an engineer in the image?",
+            "Is there a drone in the image?"
+          ],
+          "Level 2": [
+            "Is the engineer operating the drone in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "An architect operates a laser rangefinder",
+        "questions": {
+          "Level 1": [
+            "Is there an architect in the image?",
+            "Is there a laser rangefinder in the image?"
+          ],
+          "Level 2": [
+            "Is the architect operating the laser rangefinder in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "A programmer tests an autonomous vehicle",
+        "questions": {
+          "Level 1": [
+            "Is there a programmer in the image?",
+            "Is there an autonomous vehicle in the image?"
+          ],
+          "Level 2": [
+            "Is the programmer testing the autonomous vehicle in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "An electrical engineer adjusts a circuit board",
+        "questions": {
+          "Level 1": [
+            "Is there an electrical engineer in the image?",
+            "Is there a circuit board in the image?"
+          ],
+          "Level 2": [
+            "Is the electrical engineer adjusting the circuit board in the image?"
+          ]
+        }
+      },
+      {
+        "prompt": "A technician adjusts a microscope lens",
+        "questions": {
+          "Level 1": [
+            "Is there a technician in the image?",
+            "Is there a microscope in the image?"
+          ],
+          "Level 2": [
+            "Is the technician adjusting the microscope lens in the image?"
+          ]
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,2512 @@
+{
+  "Animals and Nature": [
+       {
+      "prompt": "2. A squirrel drops an acorn, the acorn rolls down a hill, and the hill causes the acorn to hit a rock.",
+      "questions": {
+        "Level 1": [
+          "Is there a squirrel in the image?",
+          "Is there an acorn in the image?",
+          "Is there a hill in the image?",
+          "Is there a rock in the image?"
+        ],
+        "Level 2": [
+          "Does the image show a squirrel dropping an acorn?",
+          "Is the acorn rolling down the hill in the image?",
+          "Does the acorn hit a rock in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of the squirrel dropping the acorn, the acorn rolling down the hill, and then hitting a rock depicted correctly in the image?",
+          "Is the final state of the acorn consistent with it hitting a rock after rolling down the hill in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. A child kicks a soccer ball, the ball collides with a trash can, and the trash can tips over.",
+      "questions": {
+        "Level 1": [
+          "Is there a child in the image?",
+          "Is there a soccer ball in the image?",
+          "Is there a trash can in the image?",
+          "Is the trash can tipped over in the image?"
+        ],
+        "Level 2": [
+          "Is the child kicking the soccer ball in the image?",
+          "Is the soccer ball colliding with the trash can in the image?",
+          "Is the trash can tipping over because of the soccer ball in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence where a child kicks a soccer ball, which then collides with a trash can, causing it to tip over depicted accurately in the image?",
+          "Is the position of the soccer ball and the tipped-over trash can consistent with the event description of it being knocked over by the soccer ball?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. A bird pecks at a tree branch, the branch snaps, and the snapped branch falls on a garden bed.",
+      "questions": {
+        "Level 1": [
+          "Is there a bird in the image?",
+          "Is there a tree branch in the image?",
+          "Is there a snapped branch in the image?",
+          "Is there a garden bed in the image?"
+        ],
+        "Level 2": [
+          "Is the bird pecking at the tree branch in the image?",
+          "Does the snapped branch appear to fall in the image?",
+          "Does the snapped branch fall onto the garden bed in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of events depicted correctly in the image?",
+          "Is the final state of each object consistent with the description of the event in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. A dog pulls at a leash, the leash breaks, and the broken leash causes the dog to run freely.",
+      "questions": {
+        "Level 1": [
+          "Does the image contain a dog?",
+          "Is there a leash visible in the image?",
+          "Is the leash broken in the image?",
+          "Is the dog running freely in the image?"
+        ],
+        "Level 2": [
+          "Is the dog pulling at the leash in the image?",
+          "Is the leash breaking because of the dog pulling in the image?",
+          "Is the dog running freely as a result of the broken leash in the image?"
+        ],
+        "Level 3": [
+          "Does the image depict the sequence of events where the dog pulls at the leash, the leash breaks, and then the dog runs freely?",
+          "Is the state of each object (dog and leash) consistent with a broken leash and the dog running freely depicted in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A bicycle crashes into a mailbox, the mailbox tumbles, and the tumble spills letters onto the sidewalk.",
+      "questions": {
+        "Level 1": [
+          "Is there a bicycle in the image?",
+          "Is there a mailbox in the image?",
+          "Are there letters in the image?",
+          "Is there a sidewalk in the image?"
+        ],
+        "Level 2": [
+          "Is the bicycle crashing into the mailbox correctly shown in the image?",
+          "Is the mailbox tumbling correctly portrayed in the image?",
+          "Are the letters spilled onto the sidewalk depicted accurately in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events, starting from the bicycle crash and ending with letters on the sidewalk, accurately shown in the image?",
+          "Are the final states of all objects, like the position of the mailbox and letters on the sidewalk, consistent with the described event in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. A hiker steps on a loose stone, the stone rolls downhill, and the rolling stone startles a rabbit.",
+      "questions": {
+        "Level 1": [
+          "Is there a hiker in the image?",
+          "Is there a loose stone in the image?",
+          "Is there a hill downhill depicted in the image?",
+          "Is there a rabbit in the image?"
+        ],
+        "Level 2": [
+          "Is the hiker stepping on a stone depicted correctly in the image?",
+          "Is the stone shown rolling downhill in the image?",
+          "Is the rabbit shown being startled by the rolling stone in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of the hiker stepping on a stone, the stone rolling, and startling a rabbit depicted correctly in the image?",
+          "Does the image show the stone at a distance from the rabbit, indicating it had rolled downhill to startle it?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A car drives through mud, the mud splatters, and the splatters stain a nearby fence.",
+      "questions": {
+        "Level 1": [
+          "Is there a car in the image?",
+          "Is there mud in the image?",
+          "Is there a fence in the image?",
+          "Are there splatters in the image?"
+        ],
+        "Level 2": [
+          "Does the car drive through the mud in the image?",
+          "Does the mud splatter in the image?",
+          "Do the splatters stain the fence in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of the car driving through mud, mud splattering, and the splatters staining the fence depicted correctly in the image?",
+          "Has the fence been stained by the mud splatters as described in the event?"
+        ]
+      }
+    },
+    {
+      "prompt": "9. A bee lands on a flower, the flower bends under the bee's weight, and the bending flower releases pollen.",
+      "questions": {
+        "Level 1": [
+          "Is there a bee present in the image?",
+          "Is there a flower present in the image?",
+          "Is pollen visible in the image?",
+          "Is the ground visible in the image?"
+        ],
+        "Level 2": [
+          "Is the bee shown landing on the flower?",
+          "Is the flower depicted bending under the weight of the bee?",
+          "Is pollen released as the flower bends in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a bee landing on a flower, the flower bending, and pollen being released?",
+          "Are the states of the bee landing, the flower bending, and pollen releasing rational and consistent with the event description?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. A child tosses a stick, the stick hits a fence, and the fence shakes loose a robin's nest.",
+      "questions": {
+        "Level 1": [
+          "Is there a child in the image?",
+          "Is there a stick in the image?",
+          "Is there a fence in the image?",
+          "Is there a robin's nest in the image?"
+        ],
+        "Level 2": [
+          "Is the stick being tossed by the child in the image?",
+          "Is the stick hitting the fence in the image?",
+          "Is the fence shaking loose the robin's nest in the image?"
+        ],
+        "Level 3": [
+          "Does the image correctly depict the sequence of events where a child tosses a stick, the stick hits a fence, and the fence shakes loose a robin's nest?",
+          "Are the objects in the correct final state in the image, with the robin's nest having been shaken loose from the fence?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. A horse gallops past a dust patch, the horse's hooves stir up dust, and the stirred dust obscures a nearby sign.",
+      "questions": {
+        "Level 1": [
+          "Is there a horse in the image?",
+          "Is there a dust patch in the image?",
+          "Is there dust in the image?",
+          "Is there a sign in the image?"
+        ],
+        "Level 2": [
+          "Does the image show the horse's hooves stirring up dust?",
+          "Is there a dust patch being stirred by the horse?",
+          "Does the image show the dust obscuring a sign?"
+        ],
+        "Level 3": [
+          "Is the sequence of events where a horse gallops past a dust patch, stirring up dust that obscures a nearby sign depicted correctly in the image?",
+          "Is the final state of the stirred dust consistently obscuring the sign in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "12. A deer jumps over a stream, the stream splashes, and the splash wets a patch of grass.",
+      "questions": {
+        "Level 1": [
+          "Is there a deer in the image?",
+          "Is there a stream in the image?",
+          "Is there a splash in the image?",
+          "Is there a patch of grass in the image?"
+        ],
+        "Level 2": [
+          "Is the deer jumping over the stream in the image?",
+          "Is there a splash coming from the stream in the image?",
+          "Is the splash wetting a patch of grass in the image?"
+        ],
+        "Level 3": [
+          "Does the image correctly depict the sequence of the deer jumping, causing a splash, and the splash wetting the grass?",
+          "Is the final state, where the patch of grass is wet from the splash, clearly shown in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. A kite is caught by the wind, the wind drags the kite, and the kite catches on a tree branch.",
+      "questions": {
+        "Level 1": [
+          "Is there a kite in the image?",
+          "Is there wind depicted in the image?",
+          "Is there a tree in the image?",
+          "Is there a branch in the image?"
+        ],
+        "Level 2": [
+          "Is the kite being caught by the wind in the image?",
+          "Is the wind dragging the kite in the image?",
+          "Is the kite caught on a tree branch in the image?"
+        ],
+        "Level 3": [
+          "Does the image depict the sequence of a kite being caught by the wind, dragged, and then caught on a tree branch?",
+          "Is the final state of the kite consistent with it being caught on a tree branch as described in the event?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. A rain shower wets a sidewalk, the wet sidewalk becomes slippery, and the slipperiness causes a person to slip.",
+      "questions": {
+        "Level 1": [
+          "Does the image show a rain shower?",
+          "Is there a sidewalk visible in the image?",
+          "Can a wet surface be seen in the image?",
+          "Is there a person in the image?"
+        ],
+        "Level 2": [
+          "Does the image illustrate that the rain shower caused the sidewalk to get wet?",
+          "Does the image show that the wet sidewalk became slippery?",
+          "Is there an indication in the image that the slipperiness caused a person to slip?"
+        ],
+        "Level 3": [
+          "Is the full sequence of events involving the rain, wet sidewalk, slipperiness, and person slipping accurately depicted in the image?",
+          "Does the image consistently show the final state where a person has slipped due to the slippery sidewalk caused by the rain?"
+        ]
+      }
+    },
+    {
+      "prompt": "15. A truck drives over a pothole, the truck's tire kicks up a pebble, and the pebble strikes a window.",
+      "questions": {
+        "Level 1": [
+          "Is there a truck in the image?",
+          "Is there a pothole in the image?",
+          "Is there a pebble in the image?",
+          "Is there a window in the image?"
+        ],
+        "Level 2": [
+          "Is the truck driving over a pothole in the image?",
+          "Is the truck's tire kicking up a pebble in the image?",
+          "Is the pebble striking a window in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events depicted correctly in the image?",
+          "Are the states of the truck, pothole, pebble, and window consistent with the description of the event in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "16. A child breaks an egg, the broken egg spills yolk, and the yolk attracts ants.",
+      "questions": {
+        "Level 1": [
+          "Is there a child in the image?",
+          "Is there an egg in the image?",
+          "Is there yolk in the image?",
+          "Are there ants in the image?"
+        ],
+        "Level 2": [
+          "Is the child breaking the egg in the image?",
+          "Is the broken egg spilling yolk in the image?",
+          "Is the yolk attracting ants in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of a child breaking an egg, with yolk spilling and attracting ants depicted in the image?",
+          "Is the state of each object, such as the broken egg or the presence of ants, consistent with the described event in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "17. A gardener pulls weeds from a bed, the weeds disturb the soil, and the disturbed soil uncovers earthworms.",
+      "questions": {
+        "Level 1": [
+          "Is there a gardener in the image?",
+          "Is there a weed in the image?",
+          "Is there soil in the image?",
+          "Are there earthworms in the image?"
+        ],
+        "Level 2": [
+          "Is the gardener pulling weeds in the image?",
+          "Do the weeds disturb the soil in the image?",
+          "Does the disturbed soil uncover earthworms in the image?"
+        ],
+        "Level 3": [
+          "Does the image correctly depict the sequence of the gardener pulling weeds, which disturbs the soil and uncovers earthworms?",
+          "Are the states of the weeds, soil, and earthworms consistent with them being pulled, disturbed, and uncovered in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. A bat flies into a cave, the cave echoes, and the echo startles another bat.",
+      "questions": {
+        "Level 1": [
+          "Does the image show a bat?",
+          "Is there a cave depicted in the image?",
+          "Can you see an echo represented in the image?",
+          "Is there another bat shown in the image?"
+        ],
+        "Level 2": [
+          "Is the first bat shown flying into the cave?",
+          "Is there an indication that the cave is echoing?",
+          "Does the image show the second bat being startled by the echo?"
+        ],
+        "Level 3": [
+          "Does the image depict a bat flying into a cave, followed by the cave echoing, and then startling another bat?",
+          "Is the state of each object, including both bats and the echo, consistent with the described series of events?"
+        ]
+      }
+    },
+    {
+      "prompt": "19. A basketball bounces off the rim, the bounce deflects toward bleachers, and hits a spectator’s hat.",
+      "questions": {
+        "Level 1": [
+          "Is there a basketball in the image?",
+          "Is there a rim in the image?",
+          "Are there bleachers in the image?",
+          "Is there a spectator's hat in the image?"
+        ],
+        "Level 2": [
+          "Is the basketball bouncing off the rim correctly depicted?",
+          "Is the basketball bouncing towards the bleachers shown accurately?",
+          "Does the image correctly show the basketball hitting a spectator's hat?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of the basketball bouncing off the rim, deflecting toward the bleachers, and hitting a spectator’s hat?",
+          "Is the state of each object in the final depiction consistent with the description, such as the hat being affected by the ball?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. A frog leaps from a lily pad, the lily pad wobbles, and the wobbling lily pad causes nearby tadpoles to scatter.",
+      "questions": {
+        "Level 1": [
+          "Is there a frog in the image?",
+          "Is there a lily pad in the image?",
+          "Are there tadpoles in the image?",
+          "Is the water depicted in the image?"
+        ],
+        "Level 2": [
+          "Is the frog leaping from the lily pad?",
+          "Is the lily pad wobbling due to the frog's leap?",
+          "Are the tadpoles scattering because of the wobbling lily pad?"
+        ],
+        "Level 3": [
+          "Does the image depict the sequence of a frog leaping, the lily pad wobbling, and tadpoles scattering correctly?",
+          "Are the states of the frog, lily pad, and tadpoles consistent with the description of the event?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. A cat chases a butterfly, the butterfly dives into a bush, and the bush rustles.",
+      "questions": {
+        "Level 1": [
+          "Is there a cat in the image?",
+          "Is there a butterfly in the image?",
+          "Is there a bush in the image?",
+          "Are there rustling leaves in the image?"
+        ],
+        "Level 2": [
+          "Is the cat depicted as chasing the butterfly in the image?",
+          "Is the butterfly depicted as diving into the bush in the image?",
+          "Is the bush depicted as rustling in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of events: a cat chases a butterfly, the butterfly dives into a bush, and the bush rustles, depicted correctly in the image?",
+          "Is the final state of each object, with the butterfly in the bush and the bush rustling, rational and consistent with the events described?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. A sheep grazes near a bush, the bush sheds leaves due to the sheep's movement, and the leaves are blown into a stream.",
+      "questions": {
+        "Level 1": [
+          "Is there a sheep in the image?",
+          "Is there a bush in the image?",
+          "Are there leaves in the image?",
+          "Is there a stream in the image?"
+        ],
+        "Level 2": [
+          "Is the sheep near the bush in the image?",
+          "Do the leaves appear to be shed due to the sheep's movement in the image?",
+          "Are the leaves shown being blown into the stream in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events from grazing sheep to leaves in the stream depicted correctly in the image?",
+          "Is the final state of all objects (sheep, bush, leaves, and stream) consistent with the event description in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. A jogger runs past a puddle, the puddle splashes, and the splash hits a parked bicycle.",
+      "questions": {
+        "Level 1": [
+          "Is there a jogger in the image?",
+          "Is there a puddle in the image?",
+          "Is there a splash in the image?",
+          "Is there a parked bicycle in the image?"
+        ],
+        "Level 2": [
+          "Is the jogger depicted running past the puddle in the image?",
+          "Is the puddle shown splashing in the image?",
+          "Is the splash shown hitting the parked bicycle in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of the jogger running past the puddle, causing a splash, and the splash hitting the parked bicycle depicted correctly in the image?",
+          "Is the splash shown correctly hitting the parked bicycle, consistent with the final state described in the event sequence?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. A clumsy hiker trips over a log, the log rolls down a slope, and the rolling log settles against a boulder.",
+      "questions": {
+        "Level 1": [
+          "Is there a hiker in the image?",
+          "Is there a log in the image?",
+          "Is there a slope in the image?",
+          "Is there a boulder in the image?"
+        ],
+        "Level 2": [
+          "Is the hiker tripping over the log in the image?",
+          "Is the log rolling down the slope in the image?",
+          "Is the log settling against the boulder in the image?"
+        ],
+        "Level 3": [
+          "Does the image correctly depict the sequence of the hiker tripping, the log rolling, and it settling against a boulder?",
+          "Is the final state showing the log next to the boulder consistent with the described event in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. A heavy book falls off a shelf, the book hits the floor, and the floor vibrates causing a nearby lamp to flicker.",
+      "questions": {
+        "Level 1": [
+          "Is there a book in the image?",
+          "Is there a shelf in the image?",
+          "Is there a floor in the image?",
+          "Is there a lamp in the image?"
+        ],
+        "Level 2": [
+          "Is the book shown falling off the shelf?",
+          "Is the floor depicted as vibrating?",
+          "Is the lamp shown flickering?"
+        ],
+        "Level 3": [
+          "Does the image depict the entire sequence of the book falling, the floor vibrating, and the lamp flickering?",
+          "Are the states of the book, floor, and lamp consistent with the sequence of events described (book fallen, floor vibrating, lamp flickering)?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. A mouse scurries under a picnic table, the table shakes, and the shake causes a salt shaker to tip over.",
+      "questions": {
+        "Level 1": [
+          "Is there a mouse visible in the image?",
+          "Is there a picnic table in the image?",
+          "Is there any visible motion or shaking of the table in the image?",
+          "Is a salt shaker present in the image?"
+        ],
+        "Level 2": [
+          "Is the mouse depicted as being under the picnic table in the image?",
+          "Does the image show the picnic table shaking?",
+          "Is there evidence in the image that the salt shaker has tipped over due to the shake?"
+        ],
+        "Level 3": [
+          "Does the image accurately represent the sequence of events: a mouse scurries under a picnic table, causing the table to shake, which then results in a salt shaker tipping over?",
+          "Is the final state of the salt shaker shown as tipped over and consistent with the sequence of events described?"
+        ]
+      }
+    },
+    {
+      "prompt": "29. A plane flies over a lake, the lake is disturbed by the sound, and the disturbance scatters birds.",
+      "questions": {
+        "Level 1": [
+          "Does the image include a plane?",
+          "Does the image include a lake?",
+          "Are there birds in the image?",
+          "Does the image show some form of disturbance?"
+        ],
+        "Level 2": [
+          "Is the plane flying over the lake in the image?",
+          "Is the lake shown as being disturbed in the image?",
+          "Are the birds depicted as being scattered due to a disturbance in the image?"
+        ],
+        "Level 3": [
+          "Is the depicted sequence of events, where a plane flies over a lake causing a disturbance that scatters birds, correct in the image?",
+          "Are all objects depicted in such a way that the plane causes a sound disturbance over the lake, resulting in birds being scattered?"
+        ]
+      }
+    },
+    {
+      "prompt": "30. A raccoon topples a garbage can, the garbage spills, and the spill attracts another raccoon.",
+      "questions": {
+        "Level 1": [
+          "Is there a raccoon in the image?",
+          "Is there a garbage can in the image?",
+          "Is there garbage in the image?",
+          "Is there another raccoon in the image?"
+        ],
+        "Level 2": [
+          "Is the raccoon toppling the garbage can?",
+          "Is the garbage spilled from the garbage can?",
+          "Is the spilled garbage attracting another raccoon?"
+        ],
+        "Level 3": [
+          "Does the image depict a raccoon toppling a garbage can, leading to another raccoon being attracted?",
+          "Are the objects' positions and states consistent with the description of the raccoon toppling the garbage can and the spill attracting another raccoon?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "1. A dog pulls on a leash, the leash pulls a post, and the post falls onto a fence.",
+      "questions": {
+        "Level 1": [
+          "Is there a dog in the image?",
+          "Is there a leash in the image?",
+          "Is there a post in the image?",
+          "Is there a fence in the image?"
+        ],
+        "Level 2": [
+          "Is the dog pulling on the leash in the image?",
+          "Is the leash pulling on the post in the image?",
+          "Is the post falling onto the fence in the image?"
+        ],
+        "Level 3": [
+          "Does the image depict the sequence from the dog pulling the leash to the post falling onto the fence?",
+          "Is the final state of the post falling onto the fence consistent with the description in the event?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A basketball bounces off a wall, the wall causes the ball to hit a vase, and the vase shatters on the floor.",
+      "questions": {
+        "Level 1": [
+          "Is there a basketball in the image?",
+          "Is there a wall in the image?",
+          "Is there a vase in the image?",
+          "Is there shattered glass on the floor in the image?"
+        ],
+        "Level 2": [
+          "Does the image show the basketball bouncing off the wall?",
+          "Does the image depict the ball hitting a vase?",
+          "Is the vase shown shattering on the floor in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of the basketball bouncing off the wall, hitting a vase, and the vase shattering on the floor depicted correctly in the image?",
+          "Is the shattered state of the vase consistent with the described event of it being hit by the basketball?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. A gust of wind blows a newspaper, the newspaper hits a cup of coffee, and the coffee spills on a laptop.",
+      "questions": {
+        "Level 1": [
+          "Is there a newspaper in the image?",
+          "Is there a gust of wind in the image?",
+          "Is there a cup of coffee in the image?",
+          "Is there a laptop in the image?"
+        ],
+        "Level 2": [
+          "Is the gust of wind blowing the newspaper in the image?",
+          "Is the newspaper hitting the cup of coffee in the image?",
+          "Is the coffee spilling on the laptop in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events, where a gust of wind blows a newspaper, the newspaper hits a cup of coffee, and the coffee spills on a laptop, depicted correctly in the image?",
+          "Is the final state of the objects, with coffee spilled on the laptop, consistent with the events described?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. A child kicks a soccer ball, the ball hits a garbage can, and the garbage can tips over, spilling its contents.",
+      "questions": {
+        "Level 1": [
+          "Is there a child in the image?",
+          "Is there a soccer ball in the image?",
+          "Is there a garbage can in the image?",
+          "Are there the contents of a garbage can in the image?"
+        ],
+        "Level 2": [
+          "Is the child kicking the soccer ball?",
+          "Is the soccer ball hitting the garbage can?",
+          "Is the garbage can tipping over and spilling its contents?"
+        ],
+        "Level 3": [
+          "Is the sequence of the child kicking a soccer ball, the ball hitting a garbage can, and the garbage can tipping over depicted correctly in the image?",
+          "Is the final state, with the garbage can tipped over and its contents spilled, rational according to the description of the event?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. A bicycle rider skids on gravel, the bicycle crashes into a mailbox, and the mailbox door swings open, scattering letters.",
+      "questions": {
+        "Level 1": [
+          "Is there a bicycle in the image?",
+          "Is there gravel visible in the image?",
+          "Is there a mailbox in the image?",
+          "Are there letters shown scattered in the image?"
+        ],
+        "Level 2": [
+          "Does the image show the bicycle skidding on gravel?",
+          "Is the bicycle crashing into the mailbox in the image?",
+          "Does the image depict the mailbox door swinging open?"
+        ],
+        "Level 3": [
+          "Does the image accurately capture the sequence where a bicycle rider skids on gravel, crashes into a mailbox, and the mailbox door swings open, scattering letters?",
+          "Is the final state of the mailbox with its door open and letters scattered consistent with the sequence of events in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A branch falls from a tree, the branch lands on a car, and the car's windshield cracks.",
+      "questions": {
+        "Level 1": [
+          "Is there a tree in the image?",
+          "Is there a branch in the image?",
+          "Is there a car in the image?",
+          "Is there a cracked windshield in the image?"
+        ],
+        "Level 2": [
+          "Is there a branch falling from the tree in the image?",
+          "Is there a branch landing on the car in the image?",
+          "Is the car's windshield cracked by the branch in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of a branch falling from a tree, landing on a car, and cracking the windshield depicted correctly in the image?",
+          "Is the cracked state of the car's windshield consistent with the branch landing on it in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. A skateboard rolls down a hill, the skateboard hits a pebble, and the pebble shoots out and hits a car tire.",
+      "questions": {
+        "Level 1": [
+          "Is there a skateboard in the image?",
+          "Is there a hill in the image?",
+          "Is there a pebble in the image?",
+          "Is there a car tire in the image?"
+        ],
+        "Level 2": [
+          "Does the skateboard appear to be rolling down the hill in the image?",
+          "Does the skateboard hit the pebble in the image?",
+          "Does the pebble hit the car tire in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events where a skateboard rolls down a hill, hits a pebble, and then the pebble hits a car tire depicted correctly in the image?",
+          "Is the final state of the skateboard, pebble, and car tire consistent with the described sequence of events?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A painter’s ladder tips over, the painter drops a bucket of paint, and the paint splatters onto the floor.",
+      "questions": {
+        "Level 1": [
+          "Is there a painter depicted in the image?",
+          "Is there a ladder depicted in the image?",
+          "Is there a bucket of paint depicted in the image?",
+          "Is there paint splattered on the floor depicted in the image?"
+        ],
+        "Level 2": [
+          "Is the ladder shown tipping over in the image?",
+          "Is the bucket of paint shown being dropped in the image?",
+          "Is the paint shown splattering onto the floor in the image?"
+        ],
+        "Level 3": [
+          "Does the image depict the entire sequence of the ladder tipping over, leading to the painter dropping the bucket of paint, which then splatters on the floor?",
+          "Is the resulting state of the paint being splattered on the floor consistent with the events described in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. A train rumbles by, the train shakes the tracks, and the vibrations cause nearby bottles to fall off a shelf.",
+      "questions": {
+        "Level 1": [
+          "Is there a train in the image?",
+          "Are there tracks in the image?",
+          "Are there bottles in the image?",
+          "Is there a shelf in the image?"
+        ],
+        "Level 2": [
+          "Is the train positioned in such a way that it causes the tracks to shake?",
+          "Are the vibrations from the shaking tracks causing the bottles to fall?",
+          "Do the falling bottles originate from the shelf in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of the train causing vibrations that lead to bottles falling off a shelf?",
+          "Are the positions and conditions of the train, tracks, bottles, and shelf consistent with the described event of the bottles falling off due to vibrations?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. A strong wind slams a door, the door pulls down a hanging picture, and the picture frame shatters on the ground.",
+      "questions": {
+        "Level 1": [
+          "Is there a strong wind in the image?",
+          "Is there a door in the image?",
+          "Is there a hanging picture in the image?",
+          "Is there a picture frame on the ground in the image?"
+        ],
+        "Level 2": [
+          "Is the door being slammed by the wind in the image?",
+          "Does the door pull down the hanging picture in the image?",
+          "Is the picture frame shattered on the ground in the image?"
+        ],
+        "Level 3": [
+          "Does the image depict the sequence of the door being slammed by the wind, pulling down the picture, and shattering the frame on the ground correctly?",
+          "Does the image show the final state of each object as described, with the picture frame shattered on the ground?"
+        ]
+      }
+    },
+    {
+      "prompt": "12. A runner trips over a curb, the runner’s shoe flies off, and the shoe lands in a puddle.",
+      "questions": {
+        "Level 1": [
+          "Is there a runner in the image?",
+          "Is there a curb in the image?",
+          "Is there a shoe in the image?",
+          "Is there a puddle in the image?"
+        ],
+        "Level 2": [
+          "Is the runner tripping over the curb?",
+          "Is the runner's shoe flying off?",
+          "Is the shoe landing in a puddle?"
+        ],
+        "Level 3": [
+          "Does the image correctly depict the sequence of events described?",
+          "Is the final state of each object consistent with the events described, such as the shoe being in the puddle after flying off?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. A kite snags on a tree, the tree shakes in the wind, and an apple falls to the ground.",
+      "questions": {
+        "Level 1": [
+          "Is there a kite depicted in the image?",
+          "Is there a tree depicted in the image?",
+          "Is there an apple depicted in the image?",
+          "Is there the ground depicted in the image?"
+        ],
+        "Level 2": [
+          "Is the kite snagged on the tree?",
+          "Is the tree shaking in the wind?",
+          "Is the apple falling from the tree to the ground?"
+        ],
+        "Level 3": [
+          "Does the image accurately show the sequence of a kite snagging, the tree shaking, and an apple falling to the ground?",
+          "Are the kite, tree, apple, and ground depicted in a state consistent with the sequence described?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. A truck reverses into a streetlight, the streetlight bends, and sparks shower onto the sidewalk.",
+      "questions": {
+        "Level 1": [
+          "Is there a truck in the image?",
+          "Is there a streetlight in the image?",
+          "Is there a sidewalk in the image?",
+          "Are there sparks in the image?"
+        ],
+        "Level 2": [
+          "Is the truck reversing into the streetlight?",
+          "Is the streetlight bending?",
+          "Are sparks showering onto the sidewalk?"
+        ],
+        "Level 3": [
+          "Is the sequence of the truck reversing into a streetlight, causing it to bend, and sparks showering onto the sidewalk depicted correctly?",
+          "Are all objects like the truck, streetlight, sidewalk, and sparks shown in the correct final state as described in the sequence of events?"
+        ]
+      }
+    },
+    {
+      "prompt": "15. A hailstone cracks a window, the window shatters, and the broken glass scatters onto the floor.",
+      "questions": {
+        "Level 1": [
+          "Is there a hailstone visible in the image?",
+          "Is there a window visible in the image?",
+          "Is there any shattered glass visible in the image?",
+          "Is there broken glass scattered on the floor in the image?"
+        ],
+        "Level 2": [
+          "Does the image show a hailstone causing a crack on the window?",
+          "Is the window shown as shattered in the image?",
+          "Is there broken glass depicted as scattered onto the floor in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of events where a hailstone cracks a window, the window shatters, and the glass scatters?",
+          "Is it logical in the image that the window is shattered and glass is on the floor as a result of a hailstone impact?"
+        ]
+      }
+    },
+    {
+      "prompt": "17. A backpack falls from a desk, the backpack hits a chair, and the chair slides across the floor.",
+      "questions": {
+        "Level 1": [
+          "Is there a backpack in the image?",
+          "Is there a desk in the image?",
+          "Is there a chair in the image?",
+          "Is there a floor in the image?"
+        ],
+        "Level 2": [
+          "Does the backpack fall from the desk in the image?",
+          "Does the backpack hit the chair in the image?",
+          "Does the chair slide across the floor in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of the backpack falling from the desk, hitting the chair, and causing the chair to slide across the floor depicted correctly in the image?",
+          "Is the final state of the backpack, chair, and floor consistent with the described events in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. A balloon pops near a cake, the sudden sound startles a cat, and the cat knocks over a chair.",
+      "questions": {
+        "Level 1": [
+          "Is there a balloon in the image?",
+          "Is there a cake in the image?",
+          "Is there a cat in the image?",
+          "Is there a chair in the image?"
+        ],
+        "Level 2": [
+          "Is the balloon shown to be popped near the cake in the image?",
+          "Is the cat shown to be startled by the sound of the popped balloon in the image?",
+          "Is the chair shown to be knocked over by the cat in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of events 'a balloon pops, startling a cat, which then knocks over a chair' depicted correctly in the image?",
+          "Is the final state of each object (balloon popped, cat startled, chair knocked over) consistent with the sequence of events described in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "19. A snowball hits a stop sign, the sign shakes, and snow falls from the sign onto a pedestrian.",
+      "questions": {
+        "Level 1": [
+          "Is there a snowball in the image?",
+          "Is there a stop sign in the image?",
+          "Is there snow in the image?",
+          "Is there a pedestrian in the image?"
+        ],
+        "Level 2": [
+          "Is the snowball hitting the stop sign in the image?",
+          "Is the sign shaking in the image?",
+          "Is snow falling from the sign onto a pedestrian in the image?"
+        ],
+        "Level 3": [
+          "Does the image correctly depict a snowball hitting a stop sign, causing it to shake and snow to fall onto a pedestrian?",
+          "Does the final state of each object, such as the pedestrian having snow on them, match the described event?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. A delivery truck bumps a fire hydrant, the hydrant bursts open, and water floods the street.",
+      "questions": {
+        "Level 1": [
+          "Is there a delivery truck in the image?",
+          "Is there a fire hydrant in the image?",
+          "Is water visible in the image?",
+          "Is the street visible in the image?"
+        ],
+        "Level 2": [
+          "Is the delivery truck shown bumping into the fire hydrant in the image?",
+          "Is the fire hydrant shown bursting open in the image?",
+          "Is water shown flooding the street in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of the truck bumping the hydrant, the hydrant bursting, and the water flooding the street depicted correctly in the image?",
+          "Is the state of each object consistent with the description, such as the hydrant being damaged and the street being flooded with water?"
+        ]
+      }
+    },
+    {
+      "prompt": "21. A squirrel jumps onto a power line, the line sways, and a nearby transformer box buzzes loudly.",
+      "questions": {
+        "Level 1": [
+          "Is there a squirrel in the image?",
+          "Is there a power line in the image?",
+          "Is there a transformer box in the image?",
+          "Is there an indication of buzzing in the image?"
+        ],
+        "Level 2": [
+          "Is the squirrel depicted as jumping onto the power line in the image?",
+          "Does the power line appear to be swaying in the image?",
+          "Is the transformer box shown buzzing loudly in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of a squirrel jumping onto the power line, causing it to sway, and resulting in the transformer box buzzing depicted correctly in the image?",
+          "Do the conditions of the squirrel, power line, and transformer box in the image make sense under the described events?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. A child pushes a toy car off a windowsill, the car hits a windowscreen, and the screen falls to the ground.",
+      "questions": {
+        "Level 1": [
+          "Is there a child in the image?",
+          "Is there a toy car in the image?",
+          "Is there a windowscreen in the image?",
+          "Is there a windowsill in the image?"
+        ],
+        "Level 2": [
+          "Is the toy car being pushed off the windowsill by the child in the image?",
+          "Is the toy car hitting the windowscreen in the image?",
+          "Is the windowscreen falling to the ground in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of the child pushing a toy car that hits a windowscreen and causes it to fall depicted correctly in the image?",
+          "Does the image show the final state where the windowscreen is on the ground as a result of the toy car collision?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. A baseball hits a neighbor's fence, the fence rattles, and leaves fall from a nearby tree.",
+      "questions": {
+        "Level 1": [
+          "Is there a baseball in the image?",
+          "Is there a fence in the image?",
+          "Is there a tree in the image?",
+          "Are there leaves in the image?"
+        ],
+        "Level 2": [
+          "Does the image show the baseball hitting the neighbor's fence?",
+          "Does the image show the fence rattling?",
+          "Does the image show leaves falling from the tree?"
+        ],
+        "Level 3": [
+          "Does the image depict the sequence of events where a baseball hits a fence, the fence rattles, and leaves fall from a nearby tree?",
+          "Does the image show each object in the correct state with the baseball hitting the fence, the fence rattling, and leaves falling from the tree as described?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. A cyclist hits a pothole, the cyclist’s helmet flies off, and the helmet rolls into a storm drain.",
+      "questions": {
+        "Level 1": [
+          "Does the image contain a cyclist?",
+          "Is there a pothole visible in the image?",
+          "Can you see a helmet in the image?",
+          "Is there a storm drain depicted in the image?"
+        ],
+        "Level 2": [
+          "Is the cyclist hitting the pothole in the image?",
+          "Is the helmet flying off the cyclist in the image?",
+          "Does the helmet roll into the storm drain in the image?"
+        ],
+        "Level 3": [
+          "Does the image show the complete sequence where a cyclist hits a pothole, and the helmet flies off into a storm drain?",
+          "Is the final state of the helmet consistent with it having rolled into the storm drain after flying off due to the cyclist hitting a pothole?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. A skateboarder falls off their board, the board rolls into a garage door, and the door vibrates.",
+      "questions": {
+        "Level 1": [
+          "Is there a skateboarder in the image?",
+          "Is there a skateboard in the image?",
+          "Is there a garage door in the image?",
+          "Is there evidence of the door vibrating in the image?"
+        ],
+        "Level 2": [
+          "Is the skateboarder falling off the skateboard in the image?",
+          "Is the skateboard rolling towards the garage door in the image?",
+          "Is the garage door shown vibrating in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of a skateboarder falling, the board rolling into a garage door, and the door vibrating depicted correctly in the image?",
+          "Is the state of each object (the skateboarder, the skateboard, and the garage door) consistent with the described sequence of events in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. A bird crashes into a window, the window shakes, and a nearby alarm clock falls off a shelf.",
+      "questions": {
+        "Level 1": [
+          "Is there a bird in the image?",
+          "Is there a window in the image?",
+          "Is there an alarm clock in the image?",
+          "Is there a shelf in the image?"
+        ],
+        "Level 2": [
+          "Is there a bird crashing into the window in the image?",
+          "Is the window shaking in the image?",
+          "Is the alarm clock shown falling off the shelf in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of events where a bird crashes into a window, causing the window to shake and the alarm clock to fall off the shelf?",
+          "Is the final state, where the alarm clock has fallen off the shelf, depicted rationally in the image given the previous events?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. A blown tire on a car, the car lurches forward, and a nearby street cone topples over.",
+      "questions": {
+        "Level 1": [
+          "Is there a car in the image?",
+          "Is there a car tire in the image?",
+          "Is there a street cone in the image?",
+          "Is there a road shown in the image?"
+        ],
+        "Level 2": [
+          "Does the image show the car lurching forward?",
+          "Does the image depict the blown tire causing the car to move?",
+          "Is the image showing a street cone that has toppled over due to the car's movement?"
+        ],
+        "Level 3": [
+          "Does the sequence of events starting with a blown tire, leading to the car lurching forward and the street cone toppling over, accurately depicted in the image?",
+          "Does the final state of the street cone being toppled make sense considering the movement of the car shown in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. A table is bumped during a party, the tablecloth slides, cuase a plate of food falls off.",
+      "questions": {
+        "Level 1": [
+          "Is there a table shown in the image?",
+          "Is there a tablecloth visible in the image?",
+          "Is there a plate visible in the image?",
+          "Is there food shown in the image?"
+        ],
+        "Level 2": [
+          "Is the tablecloth shown sliding off the table in the image?",
+          "Is a plate illustrated falling off the table in the image?",
+          "Is the food depicted falling off the table along with the plate in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of events in which the table is bumped, causing the tablecloth and a plate of food to fall off depicted correctly?",
+          "Does the final state indicate that the plate and food have fallen to the ground as expected from the description?"
+        ]
+      }
+    },
+    {
+      "prompt": "29. A gardener accidentally hits a flower pot with a hose, the pot topples over, and soil spills onto the path.",
+      "questions": {
+        "Level 1": [
+          "Is there a gardener in the image?",
+          "Is there a flower pot in the image?",
+          "Is there a hose in the image?",
+          "Is there soil in the image?"
+        ],
+        "Level 2": [
+          "Is the gardener holding or using the hose in the image?",
+          "Is the flower pot toppled over in the image?",
+          "Is the soil spilled onto the path in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of the gardener accidentally hitting the flower pot with the hose, causing the pot to topple over and spill soil, depicted correctly in the image?",
+          "Is the final state, where the pot is toppled over and soil is on the path, accurately shown in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "30. A pet parrot flaps its wings vigorously, the air current knocks over a figurine, and the figurine breaks into pieces.",
+      "questions": {
+        "Level 1": [
+          "Is there a pet parrot in the image?",
+          "Is there a figurine in the image?",
+          "Is the air current visible in the image?",
+          "Are there pieces of the broken figurine in the image?"
+        ],
+        "Level 2": [
+          "Is the parrot shown flapping its wings vigorously in the image?",
+          "Is the air current knocking over the figurine in the image?",
+          "Is the figurine shown broken into pieces in the image?"
+        ],
+        "Level 3": [
+          "Does the image depict the sequence of the parrot flapping its wings, causing the figurine to fall and break?",
+          "Are the objects in their correct states: a parrot flapping, the air current affecting the figurine, and the figurine being broken into pieces?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "2. A doctor wears a surgical mask, the mask covers the doctor's nose and mouth, the mouth speaks instructions to a nurse.",
+      "questions": {
+        "Level 1": [
+          "Is there an image of a doctor?",
+          "Is there an image of a surgical mask?",
+          "Is there an image of a nose and mouth?",
+          "Is there an image of a nurse?"
+        ],
+        "Level 2": [
+          "Is the surgical mask shown covering the doctor's nose and mouth?",
+          "Is the doctor's mouth shown speaking?",
+          "Is the nurse receiving instructions from the doctor?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events, with the doctor wearing a mask and giving instructions to a nurse, correctly depicted?",
+          "Is it rational that the doctor's mask is worn over the nose and mouth and the doctor can still speak instructions to the nurse?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. An EKG monitor displays heart rhythms, the rhythms are printed onto paper, the paper is reviewed by a cardiologist.",
+      "questions": {
+        "Level 1": [
+          "Is there an EKG monitor in the image?",
+          "Is there a heart rhythm displayed in the image?",
+          "Is there paper with printed rhythms in the image?",
+          "Is there a cardiologist in the image reviewing the paper?"
+        ],
+        "Level 2": [
+          "Is the EKG monitor displaying heart rhythms in the image?",
+          "Are the heart rhythms printed onto paper in the image?",
+          "Is the paper being reviewed by a cardiologist in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events, from monitoring to review by a cardiologist, depicted correctly in the image?",
+          "Is the state of each object consistent with the description of the event, ensuring the paper accurately reflects the heart rhythms and the cardiologist is properly reviewing them?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. A nurse sterilizes a thermometer, the thermometer is placed under a patient's tongue, the patient's temperature registers on the monitor.",
+      "questions": {
+        "Level 1": [
+          "Does the image contain a nurse?",
+          "Is there a thermometer visible in the image?",
+          "Is a patient shown in the image?",
+          "Can a monitor be seen in the image?"
+        ],
+        "Level 2": [
+          "Is the thermometer being sterilized by the nurse in the image?",
+          "Is the thermometer shown placed under the patient's tongue in the image?",
+          "Is the patient's temperature displaying on the monitor in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of sterilizing a thermometer, using it under a patient's tongue, and showing the temperature on a monitor?",
+          "Are the objects (nurse, thermometer, patient, and monitor) in the image consistent with the described event states and roles?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. A stretcher carries an injured patient, the patient is wheeled into an operating room, the room is prepped for surgery.",
+      "questions": {
+        "Level 1": [
+          "Is there a stretcher in the image?",
+          "Is there an injured patient in the image?",
+          "Is there an operating room in the image?",
+          "Is the room prepped for surgery in the image?"
+        ],
+        "Level 2": [
+          "Is the injured patient being carried on the stretcher in the image?",
+          "Is the patient being wheeled into the operating room in the image?",
+          "Is the operating room prepared for surgery in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of events from a stretcher carrying a patient to the room being prepped for surgery depicted correctly in the image?",
+          "Is the state of the stretcher, patient, and operating room consistent with the preparation for surgery as described in the event?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. An oxygen mask is placed over a patient's face, the face relaxes with deep breaths, the breaths are monitored by a nurse.",
+      "questions": {
+        "Level 1": [
+          "Does the image include an oxygen mask?",
+          "Is a patient's face shown in the image?",
+          "Are there visible signs of deep breaths in the image?",
+          "Is a nurse present in the image monitoring the patient?"
+        ],
+        "Level 2": [
+          "Is the oxygen mask correctly placed over the patient's face in the image?",
+          "Does the patient's face appear relaxed with deep breaths in the image?",
+          "Is the nurse depicted monitoring the patient's breaths in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events depicted correctly in the image?",
+          "Is the state of each object consistent with the described event in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. A surgeon washes hands at a sink, the sink drains water quickly, the water splashes onto the floor.",
+      "questions": {
+        "Level 1": [
+          "Is there a surgeon in the image?",
+          "Is there a sink in the image?",
+          "Is there water in the image?",
+          "Is there a floor in the image?"
+        ],
+        "Level 2": [
+          "Is the surgeon washing hands at the sink?",
+          "Does the sink drain water quickly?",
+          "Does the water splash onto the floor?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events depicted correctly in the image?",
+          "Are all objects in their final state consistent with the described events?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A clipboard holds a patient's chart, the chart is read by a physician, the physician notes changes on the tablet.",
+      "questions": {
+        "Level 1": [
+          "Is there a clipboard in the image?",
+          "Is there a patient's chart in the image?",
+          "Is there a physician in the image?",
+          "Is there a tablet in the image?"
+        ],
+        "Level 2": [
+          "Is the patient's chart held by a clipboard in the image?",
+          "Is the chart being read by a physician in the image?",
+          "Are changes being noted by the physician on a tablet in the image?"
+        ],
+        "Level 3": [
+          "Does the image correctly depict the sequence of the clipboard holding a patient's chart, then a physician reading the chart, followed by the physician noting changes on the tablet?",
+          "Is the state of the clipboard, chart, physician, and tablet consistent with the described events in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "9. A nurse inflates a blood pressure cuff, the cuff tightens around the patient's arm, the arm remains still for the measurement.",
+      "questions": {
+        "Level 1": [
+          "Is there a nurse in the image?",
+          "Is there a blood pressure cuff in the image?",
+          "Is there a patient's arm in the image?",
+          "Is there any other medical equipment visible in the image?"
+        ],
+        "Level 2": [
+          "Is the nurse inflating the blood pressure cuff in the image?",
+          "Is the blood pressure cuff tightening around the patient's arm in the image?",
+          "Is the patient's arm still for the measurement in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of inflating the blood pressure cuff, tightening around the patient's arm, and keeping the arm still depicted correctly in the image?",
+          "Are the nurse, blood pressure cuff, and patient's arm in the proper state for a blood pressure measurement as described in the event?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. An IV pole holds a bag of saline, the saline drips through a tube, the tube enters a patient's vein.",
+      "questions": {
+        "Level 1": [
+          "Is there an IV pole in the image?",
+          "Is there a bag of saline in the image?",
+          "Is there a tube in the image?",
+          "Is there a patient's vein in the image?"
+        ],
+        "Level 2": [
+          "Is the IV pole holding the bag of saline in the image?",
+          "Is the saline dripping through the tube in the image?",
+          "Is the tube entering a patient's vein in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events depicted correctly in the image?",
+          "Are the states of each object consistent with the description of the event in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. A wheelchair is brought to a patient, the patient sits down carefully, the wheels roll smoothly toward the exit.",
+      "questions": {
+        "Level 1": [
+          "Is there a wheelchair in the image?",
+          "Is there a patient in the image?",
+          "Is there an exit in the image?",
+          "Do the wheels of the wheelchair appear in the image?"
+        ],
+        "Level 2": [
+          "Is the patient sitting carefully on the wheelchair in the image?",
+          "Are the wheels of the wheelchair rolling smoothly in the image?",
+          "Is the wheelchair heading toward the exit in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of events, where a wheelchair is brought, the patient sits down, and then the wheels roll toward the exit, depicted correctly in the image?",
+          "Is the final state of the wheelchair, patient, and exit consistent with the described events, such as the patient sitting in the wheelchair and it moving towards the exit?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. A lab technician prepares a slide under a microscope, the microscope lens focuses sharply, the image reveals details of a cell culture.",
+      "questions": {
+        "Level 1": [
+          "Is there a microscope in the image?",
+          "Is there a slide prepared by a lab technician in the image?",
+          "Is there a microscope lens shown in the image?",
+          "Is there an image of a cell culture in the image?"
+        ],
+        "Level 2": [
+          "Is the slide properly aligned under the microscope?",
+          "Is the microscope lens focusing sharply on the slide?",
+          "Does the image reveal the details of the cell culture clearly?"
+        ],
+        "Level 3": [
+          "Does the image depict the correct sequence of the lab technician preparing the slide, the microscope focusing, and revealing details of the cell culture?",
+          "Are all objects—the slide, microscope, lens, and cell culture—shown in the correct state described in the sequence of events?"
+        ]
+      }
+    },
+    {
+      "prompt": "15. A patient swallows a pill with water, the water is poured from a cup, the cup is placed back on the bedside table.",
+      "questions": {
+        "Level 1": [
+          "Is there a pill in the image?",
+          "Is there water in the image?",
+          "Is there a cup in the image?",
+          "Is there a bedside table in the image?"
+        ],
+        "Level 2": [
+          "Is the pill swallowed with the water in the image?",
+          "Is the water poured from the cup in the image?",
+          "Is the cup placed back on the bedside table in the image?"
+        ],
+        "Level 3": [
+          "Does the image show the sequence: the patient swallowing the pill with water, the water poured from a cup, and the cup placed back on the bedside table?",
+          "Are the objects (pill, water, cup, bedside table) in their correct final states as described after the events?"
+        ]
+      }
+    },
+    {
+      "prompt": "16. A defibrillator is charged by a nurse, the nurse places paddles on the patient's chest, the chest contracts with a shock.",
+      "questions": {
+        "Level 1": [
+          "Is there a defibrillator in the image?",
+          "Is there a nurse in the image?",
+          "Is there a patient's chest in the image?",
+          "Are there paddles in the image?"
+        ],
+        "Level 2": [
+          "Is the nurse charging the defibrillator in the image?",
+          "Is the nurse placing paddles on the patient's chest in the image?",
+          "Is the patient's chest contracting with a shock in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of charging the defibrillator, placing paddles on the chest, and chest contraction depicted correctly in the image?",
+          "Is the final state of the patient's chest consistent with having received a shock in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. An MRI machine hums loudly in a room, the room is dimly lit for concentration, the concentration aids the technician.",
+      "questions": {
+        "Level 1": [
+          "Is there an MRI machine in the image?",
+          "Is the room shown in the image?",
+          "Is there dim lighting in the image?",
+          "Is there a technician visible in the image?"
+        ],
+        "Level 2": [
+          "Is the MRI machine depicted as humming loudly in the image?",
+          "Is the room depicted as dimly lit to aid concentration in the image?",
+          "Is the technician shown being aided by the concentration in the image?"
+        ],
+        "Level 3": [
+          "Does the image depict an MRI machine humming loudly in a dimly lit room aiding the technician's concentration?",
+          "Is the image consistent in showing the state of the MRI machine, room lighting, and technician concentration according to the described sequence of events?"
+        ]
+      }
+    },
+    {
+      "prompt": "21. A patient wears a hospital gown, the gown is tied securely at the back, the back rests against a sterile sheet.",
+      "questions": {
+        "Level 1": [
+          "Is there a patient in the image?",
+          "Is there a hospital gown in the image?",
+          "Is there a secure tie in the image?",
+          "Is there a sterile sheet in the image?"
+        ],
+        "Level 2": [
+          "Is the gown tied securely at the back of the patient?",
+          "Is the back of the patient resting against the sterile sheet?",
+          "Is the sterile sheet present in a way that maintains a sterile environment?"
+        ],
+        "Level 3": [
+          "Does the image depict the patient wearing a hospital gown that is securely tied at the back and resting against a sterile sheet?",
+          "Is the state of each object, such as the secure tie of the gown and the position of the sterile sheet, consistent with a medical setting as described?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. A technician calibrates a glucose meter, the meter reads instantly, the instantly read numbers are recorded in the logbook.",
+      "questions": {
+        "Level 1": [
+          "Is there a technician in the image?",
+          "Is there a glucose meter in the image?",
+          "Is there a logbook in the image?",
+          "Are there numbers visible in the image?"
+        ],
+        "Level 2": [
+          "Is the technician calibrating the glucose meter?",
+          "Does the meter show a reading instantly?",
+          "Are the numbers from the meter being recorded in the logbook?"
+        ],
+        "Level 3": [
+          "Does the image depict the sequence of calibrating a glucose meter, reading it instantly, and recording the numbers?",
+          "Are all objects such as the technician, glucose meter, and logbook in their correct states according to the event description?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. A physiotherapist guides a patient on crutches, the crutches support weight, the weight shifts carefully on each step.",
+      "questions": {
+        "Level 1": [
+          "Is there a physiotherapist in the image?",
+          "Is there a patient in the image?",
+          "Are there crutches visible in the image?",
+          "Is there any depiction of weight being shifted in the image?"
+        ],
+        "Level 2": [
+          "Is the physiotherapist guiding the patient in the image?",
+          "Are the crutches supporting the patient's weight in the image?",
+          "Is the weight being shifted carefully on each step in the image?"
+        ],
+        "Level 3": [
+          "Does the image correctly depict a physiotherapist guiding a patient on crutches, supporting weight, and shifting it carefully?",
+          "Is the depiction in the image consistent with the final state described, showing proper guidance and weight distribution with the use of crutches?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. A thermometer beeps after a reading, the reading is noted on a chart, the chart is handed to a medical assistant.",
+      "questions": {
+        "Level 1": [
+          "Is there a thermometer in the image?",
+          "Is there a reading chart in the image?",
+          "Is there a medical assistant in the image?",
+          "Is there a note being made on the chart in the image?"
+        ],
+        "Level 2": [
+          "Does the thermometer beep after taking a reading in the image?",
+          "Is the reading noted on the chart in the image?",
+          "Is the chart handed to a medical assistant in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of the thermometer beeping, the reading being noted, and the chart being handed to a medical assistant depicted correctly in the image?",
+          "Is the final state with the medical assistant holding the chart consistent with the description of the event in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. A nurse pushes a supply cart down a hallway, the hallway leads to the emergency room, the room bustles with activity.",
+      "questions": {
+        "Level 1": [
+          "Is there a nurse in the image?",
+          "Is there a supply cart in the image?",
+          "Is there a hallway in the image?",
+          "Is there an emergency room in the image?"
+        ],
+        "Level 2": [
+          "Is the nurse pushing the supply cart in the image?",
+          "Does the hallway lead to an emergency room in the image?",
+          "Is the emergency room bustling with activity in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of the nurse pushing a cart down a hallway that leads to a bustling emergency room depicted correctly in the image?",
+          "Is the state of each element, such as the nurse, cart, hallway, and emergency room, consistent with the described sequence of events in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. An anesthetist administers gas from a mask, the mask releases a calming agent, the agent helps the patient relax on the table.",
+      "questions": {
+        "Level 1": [
+          "Is there an anesthetist visible in the image?",
+          "Is there a gas mask present in the image?",
+          "Is there a calming agent shown in the image?",
+          "Is there a patient visible on the table in the image?"
+        ],
+        "Level 2": [
+          "Is the anesthetist shown administering gas from the mask?",
+          "Is the mask releasing a calming agent?",
+          "Is the calming agent helping the patient relax on the table?"
+        ],
+        "Level 3": [
+          "Does the image depict the entire sequence of administering gas, releasing a calming agent, and helping the patient relax on the table correctly?",
+          "Are the anesthetist, gas mask, calming agent, and patient in a state that is consistent with the described events of the patient relaxing on the table after administration?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. A doctor prescribes medication from a chart, the chart lists several allergies, the allergies are communicated to the pharmacy.",
+      "questions": {
+        "Level 1": [
+          "Is there a doctor depicted in the image?",
+          "Is there a medication chart depicted in the image?",
+          "Are allergies listed on the chart depicted in the image?",
+          "Is a pharmacy depicted in the image?"
+        ],
+        "Level 2": [
+          "Is the doctor prescribing medication using the chart shown in the image?",
+          "Is the chart showing several allergies depicted in the image?",
+          "Are the allergies from the chart being communicated to the pharmacy depicted in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of the doctor prescribing medication, handling allergy information, and communicating with the pharmacy depicted correctly in the image?",
+          "Is the state of the doctor, medication chart, allergies, and pharmacy consistent with the described sequence of events in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. A radiologist examines an X-ray film, the film is clipped onto a lightbox, the lightbox highlights fractures clearly.",
+      "questions": {
+        "Level 1": [
+          "Is there a radiologist in the image?",
+          "Is there an X-ray film in the image?",
+          "Is there a lightbox in the image?",
+          "Are fractures visible in the image?"
+        ],
+        "Level 2": [
+          "Is the radiologist examining the X-ray film in the image?",
+          "Is the X-ray film clipped onto the lightbox in the image?",
+          "Does the lightbox highlight fractures clearly in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of the radiologist examining the X-ray on a lightbox with clearly highlighted fractures depicted correctly in the image?",
+          "Is the final state of the lightbox showing the fractures clearly consistent with the event description in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "29. A ventilator assists a patient's breathing, the breathing is synchronized with gentle whirring, the whirring soothes the quiet space.",
+      "questions": {
+        "Level 1": [
+          "Is there a ventilator present in the image?",
+          "Is there a patient in the image?",
+          "Is there an indication of breathing in the image?",
+          "Is the image showing a quiet space?"
+        ],
+        "Level 2": [
+          "Is the patient's breathing being assisted by the ventilator in the image?",
+          "Is the breathing synchronized with the gentle whirring in the image?",
+          "Does the whirring appear to soothe the quiet space in the image?"
+        ],
+        "Level 3": [
+          "Does the image depict a ventilator assisting a patient's breathing, synchronized with gentle whirring?",
+          "Are all objects and their states, such as the soothing effect of whirring on the quiet space, consistent with the described situation in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "30. A dentist prepares a syringe with an anesthetic, the anesthetic numbs a specific area, the area relaxes in the dental chair.",
+      "questions": {
+        "Level 1": [
+          "Is there a dentist in the image?",
+          "Is there a syringe in the image?",
+          "Is there a specific area being numbed in the image?",
+          "Is there a dental chair in the image?"
+        ],
+        "Level 2": [
+          "Is the dentist preparing a syringe with an anesthetic in the image?",
+          "Is the anesthetic numbing a specific area in the image?",
+          "Is the area relaxing in the dental chair in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events, from preparing a syringe with an anesthetic to the area relaxing in the dental chair, depicted correctly in the image?",
+          "Is the state of the specific area consistent with being numbed and relaxed in the dental chair according to the event description?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "1. A soccer ball hits a tree, the tree shakes loose an apple, and the apple falls onto a park bench.",
+      "questions": {
+        "Level 1": [
+          "Is there a soccer ball in the image?",
+          "Is there a tree in the image?",
+          "Is there an apple in the image?",
+          "Is there a park bench in the image?"
+        ],
+        "Level 2": [
+          "Does the image show a soccer ball hitting the tree?",
+          "Does the image show the tree shaking loose an apple?",
+          "Does the image show the apple falling onto a park bench?"
+        ],
+        "Level 3": [
+          "Does the image correctly depict the sequence where a soccer ball hits a tree, an apple falls, and it lands on the park bench?",
+          "Does the image portray the soccer ball, tree, apple, and park bench in a state consistent with the described event sequence?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A tennis player swings at a ball, the ball hits a flower pot, and the pot shatters on the patio.",
+      "questions": {
+        "Level 1": [
+          "Is there a tennis player in the image?",
+          "Is there a ball in the image?",
+          "Is there a flower pot in the image?",
+          "Is there a patio in the image?"
+        ],
+        "Level 2": [
+          "Is the tennis player swinging at the ball in the image?",
+          "Is the ball hitting the flower pot in the image?",
+          "Is the flower pot shattering on the patio in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of the tennis player swinging, the ball hitting the flower pot, and the pot shattering depicted in the image?",
+          "Is the flower pot shown in a shattered state on the patio in the image, consistent with the described event?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. A cyclist bumps into a mailbox, the mailbox tips over, and the mail scatters onto the driveway.",
+      "questions": {
+        "Level 1": [
+          "Is there a cyclist in the image?",
+          "Is there a mailbox in the image?",
+          "Is there mail in the image?",
+          "Is there a driveway in the image?"
+        ],
+        "Level 2": [
+          "Is the cyclist bumping into the mailbox in the image?",
+          "Is the mailbox tipping over in the image?",
+          "Is the mail scattered onto the driveway in the image?"
+        ],
+        "Level 3": [
+          "Does the image depict the sequence of a cyclist bumping into a mailbox, causing mail to scatter?",
+          "Is the mailbox tipped over and is the mail scattered, consistent with the sequence described?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. A kid kicks a football, the football lands in a puddle, and the water splashes onto a nearby dog.",
+      "questions": {
+        "Level 1": [
+          "Is there a kid in the image?",
+          "Is there a football in the image?",
+          "Is there a puddle in the image?",
+          "Is there a dog in the image?"
+        ],
+        "Level 2": [
+          "Is the kid kicking the football in the image?",
+          "Is the football landing in a puddle in the image?",
+          "Is water splashing onto the dog in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of the kid kicking the football, the football landing in a puddle, and water splashing onto the nearby dog depicted correctly in the image?",
+          "Is the final state showing the football in the puddle and the dog with splashed water accurate to the described event in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. A baseball hits a window, the window breaks, and glass shards scatter onto the sidewalk.",
+      "questions": {
+        "Level 1": [
+          "Is there a baseball in the image?",
+          "Is there a window in the image?",
+          "Are there glass shards in the image?",
+          "Is there a sidewalk in the image?"
+        ],
+        "Level 2": [
+          "Is the baseball hitting the window in the image?",
+          "Is the window breaking in the image?",
+          "Are the glass shards scattering onto the sidewalk in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events, with the baseball hitting a window, the window breaking, and the glass shards scattering onto the sidewalk, depicted correctly in the image?",
+          "Are the states of the baseball, window, glass shards, and sidewalk consistent with the description of the window breaking due to the baseball and the shards scattering onto the sidewalk in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A skateboard rolls into a fence, the fence gate swings open, and a cat runs out into the yard.",
+      "questions": {
+        "Level 1": [
+          "Is there a skateboard in the image?",
+          "Is there a fence in the image?",
+          "Is there a gate in the image?",
+          "Is there a cat in the image?"
+        ],
+        "Level 2": [
+          "Is the skateboard rolling towards the fence in the image?",
+          "Is the gate swinging open in the image?",
+          "Is the cat running into the yard in the image?"
+        ],
+        "Level 3": [
+          "Does the image depict the sequence of the skateboard hitting the fence, the gate opening, and the cat running?",
+          "Is the state of the objects consistent with the event, with the skateboard near the fence, the gate open, and the cat in the yard?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. A golfer hits a ball, the ball lands in a sand trap, and the sand scatters into the air.",
+      "questions": {
+        "Level 1": [
+          "Is there a golfer in the image?",
+          "Is there a golf ball in the image?",
+          "Is there a sand trap in the image?",
+          "Is there sand visible in the image?"
+        ],
+        "Level 2": [
+          "Does the golfer appear to be hitting the golf ball in the image?",
+          "Does the ball appear to land in the sand trap in the image?",
+          "Is there sand being scattered into the air in the image?"
+        ],
+        "Level 3": [
+          "Does the image show the sequence of a golfer hitting a ball, the ball landing in a sand trap, and the sand scattering?",
+          "Is the final state of scattered sand consistent with a golf ball landing in a sand trap in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A basketball player dribbles the ball, the ball bounces off a shoe, and it rolls down the court.",
+      "questions": {
+        "Level 1": [
+          "Is there a basketball player in the image?",
+          "Is there a basketball in the image?",
+          "Is there a shoe in the image?",
+          "Is there a court in the image?"
+        ],
+        "Level 2": [
+          "Is the basketball player dribbling the basketball in the image?",
+          "Does the basketball appear to bounce off the shoe in the image?",
+          "Is the basketball rolling down the court in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events where the basketball player dribbles, the ball bounces off a shoe, and rolls down the court depicted correctly in the image?",
+          "Is the state of the basketball consistent with it having bounced off a shoe and now rolling down the court in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "9. A ping pong ball hits a paddle, the paddle tips over a water glass, and the water spills onto the table.",
+      "questions": {
+        "Level 1": [
+          "Is there a ping pong ball in the image?",
+          "Is there a paddle in the image?",
+          "Is there a water glass in the image?",
+          "Is there water spilled onto the table in the image?"
+        ],
+        "Level 2": [
+          "Does the ping pong ball hit the paddle in the image?",
+          "Does the paddle tip over the water glass in the image?",
+          "Does the water spill onto the table in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events from the ping pong ball hitting the paddle to water spilling onto the table depicted accurately in the image?",
+          "Is the state of the objects, with the paddle tipped over, the glass tipped over, and water clearly spilled onto the table, consistent with the description of the events?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. A runner kicks a rock, the rock rolls into a bush, and a bird flies out startled.",
+      "questions": {
+        "Level 1": [
+          "Is there a runner in the image?",
+          "Is there a rock in the image?",
+          "Is there a bush in the image?",
+          "Is there a bird in the image?"
+        ],
+        "Level 2": [
+          "Is the runner kicking the rock in the image?",
+          "Is the rock rolling into a bush in the image?",
+          "Is a bird flying out of the bush in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of the runner kicking a rock, the rock rolling into a bush, and a bird flying out depicted correctly in the image?",
+          "Does the image show the final state with the bird having flown out of the bush and all other objects in their expected positions?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. A frisbee hits a tree branch, the branch shakes loose a bird nest, and the nest tips slightly.",
+      "questions": {
+        "Level 1": [
+          "Is there a frisbee in the image?",
+          "Is there a tree branch in the image?",
+          "Is there a bird nest in the image?",
+          "Is there a slight tipping of the bird nest in the image?"
+        ],
+        "Level 2": [
+          "Is the frisbee depicted as hitting the tree branch in the image?",
+          "Is the tree branch shown shaking loose a bird nest in the image?",
+          "Is the bird nest illustrated as tipping slightly in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of events as described, with the frisbee hitting the tree branch causing the nest to tip slightly?",
+          "Is the state of each object consistent with the description of the event, showing an affected tree branch and tipped bird nest?"
+        ]
+      }
+    },
+    {
+      "prompt": "12. A cricket ball smashes into a garden light, the light breaks, and glass covers the lawn.",
+      "questions": {
+        "Level 1": [
+          "Is there a cricket ball in the image?",
+          "Is there a garden light in the image?",
+          "Is there broken glass in the image?",
+          "Is there a lawn in the image?"
+        ],
+        "Level 2": [
+          "Does the image show the cricket ball hitting the garden light?",
+          "Does the image depict the garden light breaking?",
+          "Does the image show broken glass scattered on the lawn?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events, where the cricket ball smashes the garden light and glass covers the lawn, depicted correctly in the image?",
+          "Are the conditions of the cricket ball, garden light, and lawn depicted consistently with the description of the sequence of events in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. A child hits a piñata with a stick, candy spills out, and an ant starts to carry a piece away.",
+      "questions": {
+        "Level 1": [
+          "Is there a child in the image?",
+          "Is there a piñata in the image?",
+          "Is there candy in the image?",
+          "Is there an ant in the image?"
+        ],
+        "Level 2": [
+          "Is the child hitting the piñata with a stick in the image?",
+          "Is the candy spilling out of the piñata in the image?",
+          "Is the ant carrying a piece of candy away in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of a child hitting a piñata, candy spilling out, and an ant carrying a piece away depicted correctly in the image?",
+          "Does the image correctly show the state of each object as described in the sequence of events?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. A kite crashes into a lamp post, the post vibrates, and a street sign clatters to the ground.",
+      "questions": {
+        "Level 1": [
+          "Is there a kite in the image?",
+          "Is there a lamp post in the image?",
+          "Is there a street sign in the image?",
+          "Is there a ground depicted in the image?"
+        ],
+        "Level 2": [
+          "Is the kite shown crashing into the lamp post?",
+          "Is the lamp post shown vibrating?",
+          "Is the street sign shown clattering to the ground?"
+        ],
+        "Level 3": [
+          "Is the sequence of events starting from the kite crash to the street sign clattering depicted correctly in the image?",
+          "Does the image show the kite crashing, causing the lamp post to vibrate, and resulting in the street sign clattering to the ground as described?"
+        ]
+      }
+    },
+    {
+      "prompt": "15. A snowball hits a snowman, the snowman's hat falls off, and it rolls onto a patch of ice.",
+      "questions": {
+        "Level 1": [
+          "Is there a snowball in the image?",
+          "Is there a snowman in the image?",
+          "Is there a hat in the image?",
+          "Is there a patch of ice in the image?"
+        ],
+        "Level 2": [
+          "Is the snowball hitting the snowman in the image?",
+          "Is the hat falling off the snowman in the image?",
+          "Is the hat rolling onto a patch of ice in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of the snowball hitting the snowman, the hat falling off, and then rolling onto a patch of ice depicted correctly in the image?",
+          "Is the final state of the hat on the patch of ice consistent with the description of the event in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "16. A horse kicks a bucket, the bucket tumbles over, and a frog jumps out in surprise.",
+      "questions": {
+        "Level 1": [
+          "Is there a horse in the image?",
+          "Is there a bucket in the image?",
+          "Is there a frog in the image?",
+          "Is there evidence of a bucket being kicked in the image?"
+        ],
+        "Level 2": [
+          "Is the horse depicted as kicking the bucket in the image?",
+          "Is the bucket shown tumbling over in the image?",
+          "Is the frog depicted as jumping out in surprise in the image?"
+        ],
+        "Level 3": [
+          "Does the image depict the sequence of a horse kicking a bucket, followed by the bucket tumbling over, and a frog jumping out in surprise?",
+          "Are the horse, bucket, and frog in states that are consistent with a recently kicked bucket: the horse appears active, the bucket is overturned, and the frog is in mid-jump or appears startled?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. A volleyball slams into a sandcastle, the castle collapses, and a crab scuttles out.",
+      "questions": {
+        "Level 1": [
+          "Does the image contain a volleyball?",
+          "Is there a sandcastle in the image?",
+          "Can a crab be seen in the image?",
+          "Is there sand depicted in the image?"
+        ],
+        "Level 2": [
+          "Does the image show a volleyball hitting a sandcastle?",
+          "Is the sandcastle shown collapsing in the image?",
+          "Is there a crab shown scuttling out in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of events - volleyball hitting the sandcastle, castle collapsing, crab scuttling out - depicted correctly in the image?",
+          "Are all objects in their final states as described, with a collapsed sandcastle and a crab scuttling away?"
+        ]
+      }
+    },
+    {
+      "prompt": "21. A surfer's board hits a wave, the wave splashes water, and the water showers a seagull.",
+      "questions": {
+        "Level 1": [
+          "Is there a surfer in the image?",
+          "Is there a surfboard in the image?",
+          "Is there a wave in the image?",
+          "Is there a seagull in the image?"
+        ],
+        "Level 2": [
+          "Is the surfer’s board hitting a wave in the image?",
+          "Is the wave splashing water in the image?",
+          "Is the water showering a seagull in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of the surfer's board hitting the wave, followed by the wave splashing water, and then the water showering the seagull depicted correctly in the image?",
+          "Is the seagull shown to be showered with water as a rational result of the wave splashing in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. A basketball hits a net, the net pulls down, and a leaf trapped in it is freed.",
+      "questions": {
+        "Level 1": [
+          "Is there a basketball in the image?",
+          "Is there a net in the image?",
+          "Is there a leaf in the image?",
+          "Is there a hoop in the image?"
+        ],
+        "Level 2": [
+          "Is the basketball hitting the net in the image?",
+          "Is the net pulling down in the image?",
+          "Is the leaf being freed from the net in the image?"
+        ],
+        "Level 3": [
+          "Does the image depict a basketball hitting a net, causing a leaf to be freed?",
+          "Are all objects such as the basketball, net, and leaf in their final states as described by the event?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. A tennis ball rolls into a patch of mud, the mud splatters, and it stains a white shoe.",
+      "questions": {
+        "Level 1": [
+          "Is there a tennis ball in the image?",
+          "Is there a patch of mud in the image?",
+          "Is there mud splattered in the image?",
+          "Is there a white shoe in the image?"
+        ],
+        "Level 2": [
+          "Is the tennis ball shown rolling into the patch of mud in the image?",
+          "Is the mud shown splattering from the patch in the image?",
+          "Is the mud shown staining the white shoe in the image?"
+        ],
+        "Level 3": [
+          "Does the image depict the entire sequence of the tennis ball rolling into the mud, causing it to splatter onto the shoe?",
+          "Is the final state of the objects consistent with the description, such as the shoe being stained by the mud?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. A fishing line snags a twig, the twig bends and releases tension, flipping a leaf up.",
+      "questions": {
+        "Level 1": [
+          "Is there a fishing line in the image?",
+          "Is there a twig in the image?",
+          "Is there a leaf in the image?",
+          "Is there any indication of tension in the image?"
+        ],
+        "Level 2": [
+          "Is the fishing line snagged on a twig in the image?",
+          "Is the twig bending in the image?",
+          "Is the leaf flipping up in the image?"
+        ],
+        "Level 3": [
+          "Does the image depict the entire sequence of events where a fishing line snags a twig, causing it to bend and release a leaf that flips up?",
+          "Does the state of each object in the image match the description where the twig releases tension after being bent and the leaf is flipped up as a result?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. A boomerang flies into a tree, the tree branch shakes, and a lone leaf falls.",
+      "questions": {
+        "Level 1": [
+          "Is there a boomerang in the image?",
+          "Is there a tree in the image?",
+          "Is there a tree branch in the image?",
+          "Is there a lone leaf in the image?"
+        ],
+        "Level 2": [
+          "Is the boomerang lodged in the tree in the image?",
+          "Is the tree branch shaking in the image?",
+          "Is the leaf falling from the branch in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of a boomerang flying into a tree, causing the branch to shake and a leaf to fall depicted correctly in the image?",
+          "Is the final state showing only one leaf having fallen while the branch and tree remain upright and undisturbed after the event correctly depicted in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. A hockey puck hits a goal post, the post vibrates, and the goal net wobbles.",
+      "questions": {
+        "Level 1": [
+          "Is there a hockey puck in the image?",
+          "Is there a goal post in the image?",
+          "Is there a goal net in the image?",
+          "Is there vibration visible on the post in the image?"
+        ],
+        "Level 2": [
+          "Is there a visible impact between the hockey puck and the goal post in the image?",
+          "Does the goal post appear to vibrate as described in the image?",
+          "Does the goal net appear to wobble in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of the hockey puck hitting the goal post, causing the post to vibrate and the net to wobble depicted correctly in the image?",
+          "Are the states of the goal post and goal net consistent with the description of vibration and wobbling in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. A track runner's foot strikes the ground, the ground vibrates, and dust rises.",
+      "questions": {
+        "Level 1": [
+          "Is there an image of a track runner?",
+          "Is there an image of the runner's foot?",
+          "Is there an image of the ground?",
+          "Is there an image of dust rising?"
+        ],
+        "Level 2": [
+          "Does the image show the runner's foot striking the ground?",
+          "Does the image show the ground vibrating?",
+          "Does the image show dust rising?"
+        ],
+        "Level 3": [
+          "Does the image depict the entire sequence of the runner's foot striking the ground, the ground vibrating, and dust rising?",
+          "Is the state of the dust consistent with it being disturbed by a runner's foot striking the ground?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. A cheerleader's pom-pom brushes against a balloon, the balloon pops, and confetti spills out.",
+      "questions": {
+        "Level 1": [
+          "Is there a cheerleader in the image?",
+          "Is there a pom-pom in the image?",
+          "Is there a balloon in the image?",
+          "Is there confetti in the image?"
+        ],
+        "Level 2": [
+          "Is the cheerleader's pom-pom brushing against the balloon in the image?",
+          "Is the balloon popping in the image?",
+          "Is the confetti spilling out in the image?"
+        ],
+        "Level 3": [
+          "Does the image depict the sequence of events where a pom-pom brushes against a balloon, leading to it popping and confetti spilling out?",
+          "Is the final state of each object, such as the popped balloon and spilled confetti, consistent with the described event?"
+        ]
+      }
+    },
+    {
+      "prompt": "30. A rugby ball bounces off a wall, the wall brick crumbles slightly, and mortar dust settles.",
+      "questions": {
+        "Level 1": [
+          "Is there a rugby ball in the image?",
+          "Is there a wall in the image?",
+          "Is there brick in the image?",
+          "Is there mortar dust in the image?"
+        ],
+        "Level 2": [
+          "Is the rugby ball bouncing off the wall?",
+          "Is the wall brick crumbling slightly?",
+          "Is the mortar dust settling?"
+        ],
+        "Level 3": [
+          "Is the sequence of events, where a rugby ball bounces off a wall, the wall brick crumbles slightly, and mortar dust settles, depicted correctly in the image?",
+          "Are the final states of the rugby ball, wall brick, and mortar dust consistent with the event description in the image?"
+        ]
+      }
+    }
+  ],
+"technology": [
+    {
+      "prompt": "1. A robot arm assembles a circuit board, the circuit board powers an LED, the LED illuminates a sensor.",
+      "questions": {
+        "Level 1": [
+          "Is there a robot arm in the image?",
+          "Is there a circuit board in the image?",
+          "Is there an LED in the image?",
+          "Is there a sensor in the image?"
+        ],
+        "Level 2": [
+          "Does the robot arm assemble the circuit board in the image?",
+          "Does the circuit board power the LED in the image?",
+          "Does the LED illuminate the sensor in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of the robot arm assembling the circuit board, which then powers the LED, and the LED illuminating the sensor depicted correctly in the image?",
+          "Is each object in the described event shown in the correct state so that the circuit board powers the LED and the LED illuminates the sensor as described?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. A server sends an alert to a smart watch, the smart watch vibrates to notify a user, the user acknowledges on a touchscreen.",
+      "questions": {
+        "Level 1": [
+          "Does the image contain a server?",
+          "Does the image include a smart watch?",
+          "Is there a user depicted in the image?",
+          "Is a touchscreen present in the image?"
+        ],
+        "Level 2": [
+          "Does the image show a relationship where the server sends an alert to the smart watch?",
+          "Is the smart watch vibrating to notify the user in the image?",
+          "Does the user acknowledge the alert on the touchscreen in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of events where a server sends an alert to a smart watch, the watch vibrates, and the user acknowledges depicted correctly in the image?",
+          "Are all objects in their final state as described, with the user correctly acknowledging on the touchscreen in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. A remote control operates a drone, the drone captures images, the images are transmitted to a laptop.",
+      "questions": {
+        "Level 1": [
+          "Is there a remote control present in the image?",
+          "Is there a drone present in the image?",
+          "Are there images captured by the drone present in the image?",
+          "Is there a laptop present in the image?"
+        ],
+        "Level 2": [
+          "Is there a correct relationship between the remote control and the drone in the image?",
+          "Do the images captured by the drone correctly relate to their transmission in the image?",
+          "Is there a correct relationship between the transmitted images and the laptop in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence from the remote control operating the drone to the images being transmitted to the laptop depicted correctly in the image?",
+          "Is the state of each object consistent with the event description from the operation of the drone by the remote control to the reception of images by the laptop in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A smartphone activates a smart lock, the smart lock secures a door, the door sensor updates status on an app.",
+      "questions": {
+        "Level 1": [
+          "Is there a smartphone in the image?",
+          "Is there a smart lock in the image?",
+          "Is there a door in the image?",
+          "Is there a door sensor in the image?"
+        ],
+        "Level 2": [
+          "Is the smartphone activating the smart lock in the image?",
+          "Is the smart lock securing the door in the image?",
+          "Is the door sensor updating the status on an app in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of the smartphone activating the smart lock, the smart lock securing the door, and the door sensor updating the status on an app depicted correctly in the image?",
+          "Are the final states of the smartphone, smart lock, door, and door sensor consistent with the description of the events in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. A thermostat measures temperature, the temperature reading adjusts an HVAC system, the system circulates air through a vent.",
+      "questions": {
+        "Level 1": [
+          "Is there a thermostat present in the image?",
+          "Is there a temperature reading device in the image?",
+          "Is there an HVAC system in the image?",
+          "Is there an air vent in the image?"
+        ],
+        "Level 2": [
+          "Does the thermostat measure the temperature in the image?",
+          "Does the temperature reading adjust the HVAC system in the image?",
+          "Does the HVAC system circulate air through a vent in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of events from measuring temperature to circulating air depicted correctly in the image?",
+          "Is the final state of each object consistent with the HVAC system circulating air through the vent based on temperature readings?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A smartwatch detects heart rate, the heart rate data syncs with a fitness app, the app displays stats on a screen.",
+      "questions": {
+        "Level 1": [
+          "Is there a smartwatch in the image?",
+          "Is there heart rate data in the image?",
+          "Is there a fitness app in the image?",
+          "Is there a screen displaying stats in the image?"
+        ],
+        "Level 2": [
+          "Is the smartwatch detecting heart rate in the image?",
+          "Is the heart rate data syncing with a fitness app in the image?",
+          "Is the fitness app displaying stats on a screen in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence from smartwatch detection to fitness app display shown in the image?",
+          "Does the image depict a rational state where smartwatch, heart rate data, fitness app, and screen are functioning correctly in sequence?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. A barcode scanner reads a code, the code is processed by a cash register, the cash register prints a receipt.",
+      "questions": {
+        "Level 1": [
+          "Is there a barcode scanner in the image?",
+          "Is there a barcode visible in the image?",
+          "Is there a cash register in the image?",
+          "Is there a receipt in the image?"
+        ],
+        "Level 2": [
+          "Does the barcode scanner read the code correctly in the image?",
+          "Is the code processed by the cash register correctly in the image?",
+          "Does the cash register print the receipt correctly in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of reading a barcode, processing it, and printing a receipt depicted accurately in the image?",
+          "Is the final state of the receipt consistent with being printed by the cash register after processing a barcode in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. A Wi-Fi router connects to a laptop, the laptop streams a video, the video is projected via a projector.",
+      "questions": {
+        "Level 1": [
+          "Does the image contain a Wi-Fi router?",
+          "Is there a laptop visible in the image?",
+          "Can a video be seen in the image?",
+          "Is there a projector shown in the image?"
+        ],
+        "Level 2": [
+          "Is the Wi-Fi router connected to the laptop in the image?",
+          "Does the laptop appear to be streaming a video in the image?",
+          "Is the video from the laptop projected via a projector in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of events from the router to the laptop, from the laptop to the video, and from the video to the projector?",
+          "Is the state of each object (the Wi-Fi router, laptop, video, and projector) consistent with their described roles and connectivity in the event?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. A fingerprint sensor scans a finger, the scan unlocks a mobile phone, the phone displays a home screen.",
+      "questions": {
+        "Level 1": [
+          "Is there a fingerprint sensor in the image?",
+          "Is there a finger in the image?",
+          "Is there a mobile phone in the image?",
+          "Is there a home screen displayed in the image?"
+        ],
+        "Level 2": [
+          "Does the image show the fingerprint sensor scanning a finger?",
+          "Does the image show the scan unlocking a mobile phone?",
+          "Does the image show the phone displaying a home screen?"
+        ],
+        "Level 3": [
+          "Does the image depict the sequence where a fingerprint sensor scans a finger to unlock a mobile phone and then the phone displays a home screen?",
+          "Is the fingerprint sensor shown as active, the phone unlocked, and the home screen visible in the image, aligning with the described event?"
+        ]
+      }
+    },
+    {
+      "prompt": "15. A virtual assistant receives a voice command, the command triggers a smart bulb, the bulb changes color.",
+      "questions": {
+        "Level 1": [
+          "Does the image contain a virtual assistant device?",
+          "Is there a voice command depicted in the image?",
+          "Can a smart bulb be seen in the image?",
+          "Is there an indication of the bulb changing color in the image?"
+        ],
+        "Level 2": [
+          "Does the image show a virtual assistant receiving a voice command?",
+          "Is there a depiction of the voice command triggering a smart bulb?",
+          "Does the image depict the smart bulb changing color as a result of the command?"
+        ],
+        "Level 3": [
+          "Does the image correctly depict the sequence where a virtual assistant receives a voice command and triggers a smart bulb that changes color?",
+          "Does the image ensure that the final state of the smart bulb is consistent with a color change as described in the event?"
+        ]
+      }
+    },
+    {
+      "prompt": "17. An RFID tag is scanned by a reader, the reader updates a database, the database sends confirmation to a display.",
+      "questions": {
+        "Level 1": [
+          "Is there an RFID tag depicted in the image?",
+          "Is there a reader shown in the image?",
+          "Is there a database visible in the image?",
+          "Is there a display present in the image?"
+        ],
+        "Level 2": [
+          "Is the relationship where the RFID tag is scanned by the reader shown correctly in the image?",
+          "Is the relationship where the reader updates the database shown correctly in the image?",
+          "Is the relationship where the database sends confirmation to a display shown correctly in the image?"
+        ],
+        "Level 3": [
+          "Is the complete sequence of an RFID tag being scanned, the reader updating the database, and the database sending confirmation to a display depicted correctly in the image?",
+          "Is the state of the RFID tag, reader, database, and display consistent with the described sequence of events in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. A printer receives a document from a computer, the document is printed on paper, the paper trays an output bin.",
+      "questions": {
+        "Level 1": [
+          "Is there a printer visible in the image?",
+          "Is there a document visible in the image?",
+          "Is there paper visible in the image?",
+          "Is there an output bin visible in the image?"
+        ],
+        "Level 2": [
+          "Does the printer receive the document from a computer?",
+          "Is the document being printed on paper by the printer?",
+          "Is the paper being placed into an output bin?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of the printer receiving a document, printing it on paper, and the paper being placed in an output bin depicted correctly in the image?",
+          "Is the final state of all objects consistent with the descriptions, such as the printed paper being correctly in the output bin after printing?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. A charging station connects to an electric vehicle, the vehicle's battery level rises, the battery monitor updates in real-time.",
+      "questions": {
+        "Level 1": [
+          "Is there a charging station in the image?",
+          "Is there an electric vehicle in the image?",
+          "Is there a battery level indicator in the image?",
+          "Is there a battery monitor display in the image?"
+        ],
+        "Level 2": [
+          "Is the charging station connected to the electric vehicle in the image?",
+          "Is the vehicle's battery level increasing in the image?",
+          "Is the battery monitor updating in real-time in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of the charging station connecting to the electric vehicle, the vehicle's battery level rising, and the battery monitor updating shown correctly in the image?",
+          "Is the final state, where the battery monitor reflects the rising battery level of the vehicle, accurately depicted in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. An e-reader downloads an ebook, the ebook displays on a screen, the user swipes pages on the screen.",
+      "questions": {
+        "Level 1": [
+          "Does the image contain an e-reader?",
+          "Does the image show an ebook?",
+          "Is there a screen visible in the image?",
+          "Can we see a user in the image?"
+        ],
+        "Level 2": [
+          "Is the e-reader downloading an ebook?",
+          "Does the ebook display on the screen?",
+          "Is the user swiping pages on the screen?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of downloading an ebook, displaying it on the screen, and the user swiping through pages shown in the image?",
+          "Are the e-reader, ebook, screen, and user depicted in a manner consistent with the described actions in the sequence?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. A drone scans a QR code, the code directs the drone to a delivery location, the drone drops a package.",
+      "questions": {
+        "Level 1": [
+          "Does the image contain a drone?",
+          "Is there a QR code visible in the image?",
+          "Can you see a delivery location marked in the image?",
+          "Is there a package visible in the image?"
+        ],
+        "Level 2": [
+          "Does the drone scan the QR code?",
+          "Does the QR code lead the drone to a delivery location?",
+          "Does the drone drop the package at the delivery location?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of scanning a QR code, navigating to the location, and dropping a package depicted correctly in the image?",
+          "Is the rationality of the package being successfully delivered by the drone consistent with the image's depiction?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. A light sensor detects ambient light, the detection adjusts a device's screen brightness, the display becomes clearer.",
+      "questions": {
+        "Level 1": [
+          "Does the image contain a light sensor?",
+          "Is there ambient light shown in the image?",
+          "Is there a device with a screen present in the image?",
+          "Is the display of the device shown in the image?"
+        ],
+        "Level 2": [
+          "Does the light sensor detect the ambient light in the image?",
+          "Is the screen brightness adjusted based on the light detection in the image?",
+          "Does the display appear clearer in the image after the brightness adjustment?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of the light sensor detecting ambient light, adjusting screen brightness, and the display becoming clearer depicted in the image?",
+          "Is the final state of a clearer display consistent with the prior events illustrated in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. A smart thermostat communicates with a smartphone app, the app adjusts the temperature, the temperature level adjusts on the HVAC.",
+      "questions": {
+        "Level 1": [
+          "Is there a smart thermostat in the image?",
+          "Is there a smartphone app in the image?",
+          "Is there a temperature adjustment in the image?",
+          "Is there an HVAC system in the image?"
+        ],
+        "Level 2": [
+          "Does the smart thermostat communicate with the smartphone app in the image?",
+          "Does the app adjust the temperature in the image?",
+          "Does the temperature adjustment reflect on the HVAC system in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of events from smart thermostat to HVAC system adjustment depicted correctly in the image?",
+          "Is the temperature level on the HVAC consistent with the adjustment made by the app as described in the event?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. A smartwatch pings a notification from a calendar app, the app reminder vibrates on the watch, the user taps the screen to dismiss.",
+      "questions": {
+        "Level 1": [
+          "Is there a smartwatch in the image?",
+          "Is there a notification displayed in the image?",
+          "Is there a calendar app in the image?",
+          "Is there a user interacting with the smartwatch in the image?"
+        ],
+        "Level 2": [
+          "Is the notification pinging on the smartwatch in the image?",
+          "Is the calendar app causing the smartwatch to vibrate in the image?",
+          "Is the user tapping the smartwatch screen to dismiss the notification in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a smartwatch pinging a notification, followed by a vibration, and the user dismissing it?",
+          "Are all depicted objects in their expected final states, such as the notification being dismissed on the smartwatch?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. A device charges via a solar-powered USB port, the charged device powers on, the screen displays a start menu.",
+      "questions": {
+        "Level 1": [
+          "Is there a solar panel in the image?",
+          "Is there a USB port in the image?",
+          "Is there a device that powers on in the image?",
+          "Is there a screen displaying a start menu in the image?"
+        ],
+        "Level 2": [
+          "Is the solar panel providing power to the USB port in the image?",
+          "Is the charged device visibly powered on in the image?",
+          "Is the device's screen displaying a start menu after powering on in the image?"
+        ],
+        "Level 3": [
+          "Does the image depict a device being charged via a solar-powered USB port and subsequently powering on and displaying a start menu?",
+          "Is the state of each object in the final event sequence consistent with the description, specifically showing a powered-on device and a correctly displayed start menu?"
+        ]
+      }
+    },
+    {
+      "prompt": "30. A video call is initiated from a tablet, the call connects to a remote meeting room system, the meeting is displayed on a conference screen.",
+      "questions": {
+        "Level 1": [
+          "Is there a tablet in the image?",
+          "Is there a remote meeting room system in the image?",
+          "Is there a conference screen in the image?",
+          "Is there a video call depicted in the image?"
+        ],
+        "Level 2": [
+          "Is the video call shown to connect the tablet and the remote meeting room system?",
+          "Is the meeting shown as being displayed on the conference screen?",
+          "Is the connection between the tablet and the conference screen represented?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of a video call initiated from a tablet and connecting to a conference room system shown correctly in the image?",
+          "Are the states of the tablet, remote meeting room system, and conference screen consistent with a connected video call being displayed as described?"
+        ]
+      }
+    }
+  ]
+}

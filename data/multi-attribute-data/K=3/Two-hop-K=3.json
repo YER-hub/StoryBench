@@ -1,0 +1,97 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "A shiny blue bird perches on a tall wrought-iron fence, the fence encircles a lush circular garden.",
+      "questions": {
+        "Level 1": [
+          "Is there a shiny blue bird in the image?",
+          "Is there a tall wrought-iron fence in the image?",
+          "Is there a lush circular garden in the image?"
+        ],
+        "Level 2": [
+          "Is the shiny blue bird perching on the tall wrought-iron fence in the image?",
+          "Does the tall wrought-iron fence encircle the lush circular garden in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict a shiny blue bird perching on a tall wrought-iron fence, and the fence encircling a lush circular garden?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "A red car blocks a narrow driveway, the driveway leads to a tall house.",
+      "questions": {
+        "Level 1": [
+          "Is there a red car in the image?",
+          "Is there a narrow driveway in the image?",
+          "Is there a tall house in the image?"
+        ],
+        "Level 2": [
+          "Is the red car blocking the narrow driveway in the image?",
+          "Does the narrow driveway lead to the tall house in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a red car blocking a narrow driveway, with the driveway leading to a tall house?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "'A red kite soars above green fields, the green fields stretch toward a blue horizon.'",
+      "questions": {
+        "Level 1": [
+          "Is there a red kite in the image?",
+          "Are there green fields in the image?",
+          "Is there a blue horizon in the image?"
+        ],
+        "Level 2": [
+          "Is the red kite soaring above the green fields in the image?",
+          "Do the green fields stretch toward a blue horizon in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict a sequence of a red kite soaring above green fields, with the green fields stretching toward a blue horizon?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "A blue soccer ball rolls swiftly down the grassy field, the grassy field stretches widely under the clear sky.",
+      "questions": {
+        "Level 1": [
+          "Is there a blue soccer ball in the image?",
+          "Is there a grassy field in the image?",
+          "Is there a clear sky in the image?"
+        ],
+        "Level 2": [
+          "Is the blue soccer ball rolling down the grassy field in the image?",
+          "Does the grassy field stretch widely under the clear sky in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a blue soccer ball rolling swiftly down the grassy field, with the field stretching widely under the clear sky?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "A blue kite dances in the sky, the sky fills with fluffy clouds, fluffy clouds form a white pattern.",
+      "questions": {
+        "Level 1": [
+          "Is there a blue kite in the image?",
+          "Are there fluffy clouds in the sky in the image?",
+          "Is there a white pattern formed by the clouds in the image?"
+        ],
+        "Level 2": [
+          "Is the blue kite dancing in the sky in the image?",
+          "Are the fluffy clouds forming a white pattern in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a blue kite dancing in the sky, followed by the sky filling with fluffy clouds that form a white pattern?"
+        ]
+      }
+    }
+  ]
+}

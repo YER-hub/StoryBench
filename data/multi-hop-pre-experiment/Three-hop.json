@@ -1,0 +1,496 @@
+{
+    "Animal_Nature": [
+      {
+        "prompt": "A cat chases a mouse, the mouse runs into a hole, and the grass at the hole entrance is bent",
+        "questions": {
+          "Level 1": [
+            "Is there a cat in the image?",
+            "Is there a mouse in the image?",
+            "Is there a hole in the image?",
+            "Is there grass in the image?",
+            "Is the grass at the hole entrance bent?"
+          ],
+          "Level 2": [
+            "Is the cat chasing the mouse in the image?",
+            "Is the mouse running into the hole in the image?",
+            "Is the grass at the hole entrance bent because of the cat or mouse?"
+          ],
+          "Level 3": [
+            "Does the image naturally depict the cat chasing the mouse as part of its hunting behavior?",
+            "Is the mouse’s reaction to escape into the hole and the bending of the grass at the entrance realistic?"
+          ],
+          "Level 4": [
+            "Do the events in the image, including the cat chasing the mouse and the mouse hiding in the hole, follow a logical causal sequence?"
+          ]
+        }
+      },
+      {
+        "prompt": "A monkey grabs a branch, the branch breaks and falls to the ground, and the fallen leaves are crushed into a pile",
+        "questions": {
+          "Level 1": [
+            "Is there a monkey in the image?",
+            "Is there a branch in the image?",
+            "Are there fallen leaves in the image?",
+            "Is the branch broken in the image?",
+            "Are the fallen leaves crushed into a pile in the image?"
+          ],
+          "Level 2": [
+            "Is the monkey grabbing the branch in the image?",
+            "Is the branch breaking because of the monkey’s action in the image?",
+            "Are the fallen leaves being crushed into a pile when the branch falls to the ground?"
+          ],
+          "Level 3": [
+            "Is the monkey’s action of grabbing the branch natural and does the branch breaking follow the laws of physics?",
+            "Is it realistic that the branch breaking and falling to the ground would crush the leaves into a pile?"
+          ],
+          "Level 4": [
+            "Do the events in the image, including the monkey grabbing the branch, the branch breaking, and the interaction with the leaves, have a logical and realistic causal order?"
+          ]
+        }
+      },
+      {
+        "prompt": "A cat plays with a ball of yarn, the yarn gets tangled around the cat’s paw, and the cat accidentally pulls nearby objects",
+        "questions": {
+          "Level 1": [
+            "Is there a cat in the image?",
+            "Is there a ball of yarn in the image?",
+            "Is the cat’s paw tangled in the yarn?",
+            "Are there other objects nearby in the image?"
+          ],
+          "Level 2": [
+            "Is the cat playing with the ball of yarn in the image?",
+            "Is the yarn tangled around the cat’s paw in the image?",
+            "Is the cat accidentally pulling nearby objects because of the yarn?"
+          ],
+          "Level 3": [
+            "Is the cat playing with the yarn in a way that aligns with common cat behavior, and does the yarn naturally get tangled around the paw?",
+            "Do the objects around the cat realistically move or get pulled as a result of the cat’s actions with the yarn?"
+          ],
+          "Level 4": [
+            "Do the interactions between the cat, the yarn, and the nearby objects make sense and follow natural physical laws?"
+          ]
+        }
+      },
+      {
+        "prompt": "A tiger pounces on a deer, the deer quickly jumps into a bush, and the branches of the bush are bent",
+        "questions": {
+          "Level 1": [
+            "Is there a tiger in the image?",
+            "Is there a deer in the image?",
+            "Is there a bush in the image?",
+            "Are the branches of the bush bent in the image?"
+          ],
+          "Level 2": [
+            "Is the tiger pouncing on the deer in the image?",
+            "Is the deer jumping into the bush to escape in the image?",
+            "Are the branches of the bush bent because of the deer jumping into it?"
+          ],
+          "Level 3": [
+            "Does the tiger’s pounce on the deer align with hunting behavior, and is the deer’s escape into the bush realistic?",
+            "Are the branches of the bush bending in a manner consistent with the deer’s jump?"
+          ],
+          "Level 4": [
+            "Do the events in the image, including the tiger’s pounce, the deer’s escape, and the bending of the bush branches, form a logically coherent and natural sequence of actions?"
+          ]
+        }
+      }
+    ],
+    "Labor": [
+      {
+        "prompt": "An elderly person cuts a tree branch, the branch falls to the ground and kicks up dust",
+        "questions": {
+          "Level 1": [
+            "Is there an elderly person in the image?",
+            "Is there a tree branch in the image?",
+            "Is there a ground in the image?",
+            "Is there dust in the image?"
+          ],
+          "Level 2": [
+            "Is the elderly person cutting the tree branch?",
+            "Has the tree branch been cut and fallen to the ground?",
+            "Has the falling branch kicked up dust?"
+          ],
+          "Level 3": [
+            "Does the elderly person seem to be putting effort into cutting the branch? Does the branch appear to be cut and falling?",
+            "When the branch falls to the ground, does dust kick up into the air? Is the dust visible and realistic?",
+            "Does the scene's action make sense? For example, does the falling branch cause dust to rise naturally?"
+          ]
+        }
+      },
+      {
+        "prompt": "A gardener pulls weeds, the weeds are dropped on the ground and cover flowers",
+        "questions": {
+          "Level 1": [
+            "Is there a gardener in the image?",
+            "Are there weeds in the image?",
+            "Are there flowers in the image?",
+            "Are the weeds on the ground?"
+          ],
+          "Level 2": [
+            "Is the gardener pulling the weeds?",
+            "Have the weeds been pulled and dropped on the ground?",
+            "Are the weeds covering the flowers on the ground?"
+          ],
+          "Level 3": [
+            "Does the gardener seem to be naturally pulling the weeds with effort?",
+            "Are the weeds visibly dropped on the ground and covering the flowers?",
+            "Does the process of weeds covering the flowers make logical sense? Do the weeds appear to cover the flowers fully or partially?"
+          ]
+        }
+      },
+      {
+        "prompt": "A gardener trims a bush, branches are blown to the ground by wind, and dust flies in the air",
+        "questions": {
+          "Level 1": [
+            "Is there a gardener in the image?",
+            "Is there a bush in the image?",
+            "Is there wind blowing dust in the image?",
+            "Is there ground in the image?",
+            "Are branches visible on the ground?"
+          ],
+          "Level 2": [
+            "Is the gardener trimming the bush?",
+            "Have the branches been blown to the ground by wind?",
+            "Has the wind caused dust to fly in the air?"
+          ],
+          "Level 3": [
+            "Does the gardener seem to be trimming the bush? After trimming, do the branches fall naturally to the ground due to the wind?",
+            "Does the wind create a realistic dust effect, and is the dust visible in the air?",
+            "Do all elements in the scene interact naturally? For example, does the wind cause the branches to fall and stir up dust?"
+          ]
+        }
+      },
+      {
+        "prompt": "A farmer cuts wheat, the wheat falls on the field, and other wheat stalks are blown by the wind",
+        "questions": {
+          "Level 1": [
+            "Is there a farmer in the image?",
+            "Are there wheat stalks in the image?",
+            "Is there ground in the image?",
+            "Is there wind in the image?"
+          ],
+          "Level 2": [
+            "Is the farmer cutting wheat?",
+            "Is the wheat falling on the field?",
+            "Are other wheat stalks being blown by the wind?"
+          ],
+          "Level 3": [
+            "Does the farmer seem to be cutting wheat naturally? Does the wheat fall in a realistic way?",
+            "Do the wheat stalks fall on the ground and are others blown by the wind?",
+            "Does the wind logically blow the wheat, and is it reasonable for the wheat to be blown by it?"
+          ]
+        }
+      },
+      {
+        "prompt": "A stonemason carves a stone block, fragments fall to the ground and dust is kicked up",
+        "questions": {
+          "Level 1": [
+            "Is there a stonemason in the image?",
+            "Is there a stone block in the image?",
+            "Are there fragments in the image?",
+            "Is there ground in the image?",
+            "Is there dust in the image?"
+          ],
+          "Level 2": [
+            "Is the stonemason carving the stone block?",
+            "Are the stone fragments falling to the ground?",
+            "Is dust being kicked up by the falling fragments?"
+          ],
+          "Level 3": [
+            "Does the stonemason seem to be carving the stone block naturally? Are the fragments falling realistically?",
+            "When the fragments fall to the ground, does dust rise from the ground? Is the dust reasonable for the scene?",
+            "Do the falling fragments and dust flying logically follow the usual scene of stonemasons working?"
+          ]
+        }
+      }
+    ],
+    "Medical": [
+      {
+        "prompt": "A doctor slaps a patient's back, the patient coughs out a date pit, and the pit rolls to the bedside",
+        "questions": {
+          "Level 1": [
+            "Is there a doctor in the image?",
+            "Is there a patient in the image?",
+            "Is there a date pit in the image?",
+            "Is there a bed in the image?",
+            "Is the date pit near the bedside?"
+          ],
+          "Level 2": [
+            "Is the doctor slapping the patient's back in the image?",
+            "Is the patient coughing out a date pit?",
+            "Is the date pit rolling to the bedside?"
+          ],
+          "Level 3": [
+            "Does the doctor's action of slapping the patient's back make sense?",
+            "Can the patient realistically cough out a date pit?",
+            "Is the rolling of the date pit plausible given the image setup?"
+          ]
+        }
+      },
+      {
+        "prompt": "A caregiver helps a patient get up, the patient accidentally bumps into a chair, and the chair is pushed against the wall",
+        "questions": {
+          "Level 1": [
+            "Is there a caregiver in the image?",
+            "Is there a patient in the image?",
+            "Is there a chair in the image?",
+            "Is there a wall in the image?"
+          ],
+          "Level 2": [
+            "Is the caregiver helping the patient get up?",
+            "Did the patient accidentally bump into the chair?",
+            "Is the chair pushed against the wall?"
+          ],
+          "Level 3": [
+            "Does the caregiver's action of helping the patient seem natural?",
+            "Is the patient's bumping into the chair a reasonable reaction?",
+            "Does the chair being pushed against the wall make sense in this situation?"
+          ]
+        }
+      },
+      {
+        "prompt": "A doctor taps a patient's knee, the patient kicks over a small stool, and the stool rolls under the bed",
+        "questions": {
+          "Level 1": [
+            "Is there a doctor in the image?",
+            "Is there a patient in the image?",
+            "Is there a knee in the image?",
+            "Is there a small stool in the image?",
+            "Is there a bed in the image?",
+            "Is the stool under the bed?"
+          ],
+          "Level 2": [
+            "Is the doctor tapping the patient's knee?",
+            "Did the patient kick over the small stool?",
+            "Is the stool rolling under the bed?"
+          ],
+          "Level 3": [
+            "Is the doctor's action of tapping the knee a reasonable reflex test?",
+            "Does the patient kicking the stool seem realistic?",
+            "Is the stool's movement under the bed natural?"
+          ]
+        }
+      },
+      {
+        "prompt": "A nurse removes a patient's bandage, the bandage slides to the floor, and the dust on the floor is disturbed",
+        "questions": {
+          "Level 1": [
+            "Is there a nurse in the image?",
+            "Is there a patient in the image?",
+            "Is there a bandage in the image?",
+            "Is there a floor in the image?",
+            "Is there dust on the floor?"
+          ],
+          "Level 2": [
+            "Is the nurse removing the patient's bandage?",
+            "Is the bandage sliding to the floor?",
+            "Is the dust disturbed by the bandage's movement?"
+          ],
+          "Level 3": [
+            "Does the nurse's action of removing the bandage seem natural?",
+            "Does the bandage's movement to the floor make sense?",
+            "Is the disturbance of the dust a reasonable outcome of the bandage sliding?"
+          ]
+        }
+      }
+    ],
+    "Sport": [
+      {
+        "prompt": "A coach throws a basketball, the basketball goes into the hoop, and a student cheers",
+        "questions": {
+          "Level 1": [
+            "Is there a coach in the image?",
+            "Is there a basketball in the image?",
+            "Is there a hoop in the image?",
+            "Is there a student in the image?",
+            "Can you see the student's expression or action, are they cheering?"
+          ],
+          "Level 2": [
+            "Is the coach throwing the basketball in the image?",
+            "Is the basketball going into the hoop?",
+            "Is the student watching the basketball shot and cheering?"
+          ],
+          "Level 3": [
+            "Does the coach seem to be putting effort into throwing the basketball? Does the basketball appear to be aiming towards the hoop and going in?",
+            "Is the student's action reasonable? Do their expressions and body language reflect that they are cheering for the basketball shot?",
+            "Does this scene fit the typical sports event scenario? For example, is the timing of the student's cheering appropriate?"
+          ]
+        }
+      },
+      {
+        "prompt": "A child throws a frisbee, the frisbee flies into a bush and bends its branches",
+        "questions": {
+          "Level 1": [
+            "Is there a child in the image?",
+            "Is there a frisbee in the image?",
+            "Is there a bush in the image?",
+            "Can you see the bush's branches bending?"
+          ],
+          "Level 2": [
+            "Is the child throwing the frisbee in the image?",
+            "Is the frisbee flying into the bush?",
+            "After the frisbee enters the bush, are the branches bent?"
+          ],
+          "Level 3": [
+            "Does the child's action seem natural? Do they appear to be throwing the frisbee with effort?",
+            "Is the frisbee flying towards the bush and successfully entering? After entering, does the bush's branches appear bent?",
+            "Does the scene's reaction make sense? For example, when the frisbee enters the bush, does the bush's reaction follow natural physical laws?"
+          ]
+        }
+      },
+      {
+        "prompt": "A hockey player hits a puck, the puck hits the ice, and slides towards the goal",
+        "questions": {
+          "Level 1": [
+            "Is there a hockey player in the image?",
+            "Is there a puck in the image?",
+            "Is there ice in the image?",
+            "Is there a goal in the image?"
+          ],
+          "Level 2": [
+            "Is the hockey player hitting the puck in the image?",
+            "Is the puck hitting the ice?",
+            "Is the puck sliding towards the goal after hitting the ice?"
+          ],
+          "Level 3": [
+            "Does the hockey player seem to be putting effort into hitting the puck? Does the puck show a clear trajectory towards the ice?",
+            "Does the puck slide naturally towards the goal after hitting the ice? Does the puck stay on the predicted path?",
+            "Are the actions and reactions in this scene logical? For example, after the puck hits the ice, does it slide towards the goal?"
+          ]
+        }
+      },
+      {
+        "prompt": "A soccer player kicks a soccer ball, the soccer ball goes into the goal, and the net tightens",
+        "questions": {
+          "Level 1": [
+            "Is there a soccer player in the image?",
+            "Is there a soccer ball in the image?",
+            "Is there a goal in the image?",
+            "Is there a net in the image?"
+          ],
+          "Level 2": [
+            "Is the soccer player kicking the soccer ball?",
+            "Is the soccer ball going into the goal?",
+            "Is the net tightening due to the soccer ball going into the goal?"
+          ],
+          "Level 3": [
+            "Does the soccer player seem to be putting effort into kicking the soccer ball? Does the soccer ball appear to be heading straight for the goal?",
+            "Does the soccer ball go into the goal successfully and cause the net to tighten clearly?",
+            "Is the net's reaction logical? After the soccer ball enters the goal, does the net tighten appropriately?"
+          ]
+        }
+      }
+    ],
+    "Technology": [
+    {
+      "prompt": "An engineer operates a drone, the drone crashes into the ceiling, causing the light on the ceiling to shake",
+      "questions": {
+        "Level 1": [
+          "Is there an engineer in the image?",
+          "Is there a drone in the image?",
+          "Is there a ceiling in the image?",
+          "Is there a light in the image?",
+          "Does the light show signs of shaking?"
+        ],
+        "Level 2": [
+          "Is the engineer operating the drone in the image?",
+          "Has the drone crashed into the ceiling?",
+          "Is the light shaking due to the crash in the image?"
+        ],
+        "Level 3": [
+          "Does the engineer's action of operating the drone appear natural?",
+          "Does the drone show clear signs of crashing into the ceiling?",
+          "Is the shaking of the light visible and does it make sense given the crash?"
+        ]
+      }
+    },
+    {
+      "prompt": "An architect operates a laser rangefinder, the laser beam hits the window, and the window's glass reflects the light",
+      "questions": {
+        "Level 1": [
+          "Is there an architect in the image?",
+          "Is there a laser rangefinder in the image?",
+          "Is there a window in the image?",
+          "Is there glass in the window?",
+          "Is the glass reflecting light?"
+        ],
+        "Level 2": [
+          "Is the architect operating the laser rangefinder in the image?",
+          "Is the laser beam hitting the window?",
+          "Is the window's glass reflecting the laser beam's light?"
+        ],
+        "Level 3": [
+          "Does the architect's action of operating the laser rangefinder appear correct?",
+          "Is the laser beam clearly hitting the window?",
+          "Is the glass realistically reflecting the laser light, and is this behavior physically plausible?"
+        ]
+      }
+    },
+    {
+      "prompt": "A programmer tests an autonomous vehicle, the vehicle crashes into a guardrail, and the guardrail gets a dent",
+      "questions": {
+        "Level 1": [
+          "Is there a programmer in the image?",
+          "Is there an autonomous vehicle in the image?",
+          "Is there a guardrail in the image?",
+          "Does the guardrail show signs of a dent?"
+        ],
+        "Level 2": [
+          "Is the programmer testing the autonomous vehicle in the image?",
+          "Has the autonomous vehicle crashed into the guardrail?",
+          "Has the guardrail been dented due to the crash?"
+        ],
+        "Level 3": [
+          "Does the programmer's action of testing the vehicle appear natural?",
+          "Does the vehicle's movement show it crashing into the guardrail?",
+          "Is the dent in the guardrail visible and plausible given the crash?"
+        ]
+      }
+    },
+    {
+      "prompt": "An electrical engineer adjusts a circuit board, a short circuit causes sparks, and the sparks ignite nearby paper",
+      "questions": {
+        "Level 1": [
+          "Is there an electrical engineer in the image?",
+          "Is there a circuit board in the image?",
+          "Is there paper in the image?",
+          "Does the circuit board show signs of a short circuit and sparks?",
+          "Do the sparks ignite the paper?"
+        ],
+        "Level 2": [
+          "Is the electrical engineer adjusting the circuit board in the image?",
+          "Does the circuit board short circuit and produce sparks?",
+          "Do the sparks cause the paper to ignite?"
+        ],
+        "Level 3": [
+          "Does the electrical engineer's action of adjusting the circuit board seem correct?",
+          "Are the sparks clearly visible and realistic for a short circuit?",
+          "Does the ignition of paper by sparks seem plausible based on the intensity of the sparks?"
+        ]
+      }
+    },
+    {
+      "prompt": "A technician adjusts a microscope, the lens accidentally touches a sample, and the sample is scratched",
+      "questions": {
+        "Level 1": [
+          "Is there a technician in the image?",
+          "Is there a microscope in the image?",
+          "Is there a sample in the image?",
+          "Does the microscope lens touch the sample?",
+          "Is there a visible scratch on the sample?"
+        ],
+        "Level 2": [
+          "Is the technician adjusting the microscope lens in the image?",
+          "Has the lens accidentally touched the sample?",
+          "Is the sample scratched from the lens' contact?"
+        ],
+        "Level 3": [
+          "Does the technician's action of adjusting the microscope lens appear natural?",
+          "Does the lens touching the sample make sense in the context?",
+          "Does the sample realistically show signs of damage from the lens?"
+        ]
+      }
+    }
+  ]
+  }
+  

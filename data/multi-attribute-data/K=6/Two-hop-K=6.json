@@ -1,0 +1,97 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "A large yellow bee buzzes near a circular red flower, the red flower sways with the gentle breeze towards a tall green tree.",
+      "questions": {
+        "Level 1": [
+          "Is there a large yellow bee in the image?",
+          "Is there a circular red flower in the image?",
+          "Is there a tall green tree in the image?"
+        ],
+        "Level 2": [
+          "Is the large yellow bee buzzing near the circular red flower in the image?",
+          "Is the circular red flower swaying with the gentle breeze towards the tall green tree in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a large yellow bee buzzing near a circular red flower, followed by the red flower swaying with the gentle breeze towards a tall green tree?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "A yellow dog barks at a scared cat, the scared cat jumps onto a high stone wall.",
+      "questions": {
+        "Level 1": [
+          "Is there a yellow dog in the image?",
+          "Is there a scared cat in the image?",
+          "Is there a high stone wall in the image?"
+        ],
+        "Level 2": [
+          "Is the yellow dog barking at the scared cat in the image?",
+          "Is the scared cat jumping onto a high stone wall in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a yellow dog barking at a scared cat, followed by the scared cat jumping onto a high stone wall?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "A nurse in a white uniform wraps a blue bandage around a patient's swollen ankle, the patient sits on a brown wooden chair.",
+      "questions": {
+        "Level 1": [
+          "Is there a nurse in a white uniform in the image?",
+          "Is there a blue bandage in the image?",
+          "Is there a patient sitting on a brown wooden chair in the image?"
+        ],
+        "Level 2": [
+          "Is the nurse wrapping a blue bandage around the patient's swollen ankle in the image?",
+          "Is the patient sitting on a brown wooden chair in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a nurse in a white uniform wrapping a blue bandage around a patient's swollen ankle while the patient sits on a brown wooden chair?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "A red soccer ball rolls towards a tall player, the tall player kicks the soccer ball over a gray stone wall.",
+      "questions": {
+        "Level 1": [
+          "Is there a red soccer ball in the image?",
+          "Is there a tall player in the image?",
+          "Is there a gray stone wall in the image?"
+        ],
+        "Level 2": [
+          "Is the tall player kicking the soccer ball in the image?",
+          "Is the soccer ball being kicked over the gray stone wall in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a red soccer ball rolling towards a tall player, who then kicks it over a gray stone wall?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "A red car crashes into a green mailbox, the green mailbox falls on a square brown box.",
+      "questions": {
+        "Level 1": [
+          "Is there a red car in the image?",
+          "Is there a green mailbox in the image?",
+          "Is there a square brown box in the image?"
+        ],
+        "Level 2": [
+          "Is the red car crashing into the green mailbox in the image?",
+          "Is the green mailbox falling on a square brown box in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a red car crashing into a green mailbox, followed by the mailbox falling on a square brown box?"
+        ]
+      }
+    }
+  ]
+}

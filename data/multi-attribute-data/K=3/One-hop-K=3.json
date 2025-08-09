@@ -1,0 +1,72 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "1. A brown dog with fluffy fur and a long tail chases a small white rabbit.",
+      "questions": {
+        "Level 1": [
+          "Is there a brown dog with fluffy fur and a long tail in the image?",
+          "Is there a small white rabbit in the image?"
+        ],
+        "Level 2": [
+          "Is the brown dog chasing the small white rabbit in the image?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "1. A worker holds a blue hammer with a wooden handle in a circular motion.",
+      "questions": {
+        "Level 1": [
+          "Is there a worker in the image?",
+          "Is there a blue hammer with a wooden handle in the image?"
+        ],
+        "Level 2": [
+          "Is the worker holding the blue hammer with a wooden handle in a circular motion in the image?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "1. A syringe holds red liquid with a metal needle on a white surface.",
+      "questions": {
+        "Level 1": [
+          "Is there a syringe in the image?",
+          "Is there red liquid in the image?"
+        ],
+        "Level 2": [
+          "Is the syringe holding red liquid with a metal needle on a white surface in the image?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "1. A soccer player kicks a red ball with a round shape on green grass.",
+      "questions": {
+        "Level 1": [
+          "Is there a soccer player in the image?",
+          "Is there a red ball with a round shape in the image?"
+        ],
+        "Level 2": [
+          "Is the soccer player kicking the red ball in the image?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "1. A red robot with metallic texture lifts a cylindrical box.",
+      "questions": {
+        "Level 1": [
+          "Is there a red robot with a metallic texture in the image?",
+          "Is there a cylindrical box in the image?"
+        ],
+        "Level 2": [
+          "Is the red robot with a metallic texture lifting the cylindrical box in the image?"
+        ]
+      }
+    }
+  ]
+}

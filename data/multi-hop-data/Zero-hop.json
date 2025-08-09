@@ -1,0 +1,1212 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "1. A bald eagle",
+      "questions": {
+        "Level 1": [
+          "Is there a bald eagle in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A pine cone",
+      "questions": {
+        "Level 1": [
+          "Is there a pine cone in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. A coral reef",
+      "questions": {
+        "Level 1": [
+          "Is there a coral reef in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. A golden retriever",
+      "questions": {
+        "Level 1": [
+          "Is there a golden retriever in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. A sunflower",
+      "questions": {
+        "Level 1": [
+          "Is there a sunflower in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A rainforest",
+      "questions": {
+        "Level 1": [
+          "Is there a rainforest in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. A blue whale",
+      "questions": {
+        "Level 1": [
+          "Is there a blue whale in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A cactus",
+      "questions": {
+        "Level 1": [
+          "Is there a cactus in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "9. A butterfly",
+      "questions": {
+        "Level 1": [
+          "Is there a butterfly in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. A wolf",
+      "questions": {
+        "Level 1": [
+          "Is there a wolf in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. A parrot",
+      "questions": {
+        "Level 1": [
+          "Is there a parrot in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "12. A meadow",
+      "questions": {
+        "Level 1": [
+          "Is there a meadow in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. A honeybee",
+      "questions": {
+        "Level 1": [
+          "Is there a honeybee in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. A mountain range",
+      "questions": {
+        "Level 1": [
+          "Is there a mountain range in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "15. A river",
+      "questions": {
+        "Level 1": [
+          "Is there a river in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "16. A grizzly bear",
+      "questions": {
+        "Level 1": [
+          "Is there a grizzly bear in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "17. A seashell",
+      "questions": {
+        "Level 1": [
+          "Is there a seashell in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. A stork",
+      "questions": {
+        "Level 1": [
+          "Is there a stork in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "19. A squirrel",
+      "questions": {
+        "Level 1": [
+          "Is there a squirrel in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. A maple leaf",
+      "questions": {
+        "Level 1": [
+          "Is there a maple leaf in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "21. A desert",
+      "questions": {
+        "Level 1": [
+          "Is there a desert in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. A lion",
+      "questions": {
+        "Level 1": [
+          "Is there a lion in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. A penguin",
+      "questions": {
+        "Level 1": [
+          "Is there a penguin in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. A turtle",
+      "questions": {
+        "Level 1": [
+          "Is there a turtle in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. A waterfall",
+      "questions": {
+        "Level 1": [
+          "Is there a waterfall in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. A chameleon",
+      "questions": {
+        "Level 1": [
+          "Is there a chameleon in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. An ocean",
+      "questions": {
+        "Level 1": [
+          "Is there an ocean in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. A rabbit",
+      "questions": {
+        "Level 1": [
+          "Is there a rabbit in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "29. A peacock",
+      "questions": {
+        "Level 1": [
+          "Is there a peacock in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "30. A seahorse",
+      "questions": {
+        "Level 1": [
+          "Is there a seahorse in the image?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "1. A hammer",
+      "questions": {
+        "Level 1": [
+          "Is there a hammer in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A wrench",
+      "questions": {
+        "Level 1": [
+          "Is there a wrench in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. A shovel",
+      "questions": {
+        "Level 1": [
+          "Is there a shovel in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. A safety helmet",
+      "questions": {
+        "Level 1": [
+          "Is there a safety helmet in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. A pair of gloves",
+      "questions": {
+        "Level 1": [
+          "Are there a pair of gloves in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A toolbox",
+      "questions": {
+        "Level 1": [
+          "Is there a toolbox in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. A tape measure",
+      "questions": {
+        "Level 1": [
+          "Is there a tape measure in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A ladder",
+      "questions": {
+        "Level 1": [
+          "Is there a ladder in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "9. A plow",
+      "questions": {
+        "Level 1": [
+          "Is there a plow in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. A hard hat",
+      "questions": {
+        "Level 1": [
+          "Is there a hard hat in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. A welding torch",
+      "questions": {
+        "Level 1": [
+          "Is there a welding torch in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "12. A drill",
+      "questions": {
+        "Level 1": [
+          "Is there a drill in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. A rake",
+      "questions": {
+        "Level 1": [
+          "Is there a rake in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. A level",
+      "questions": {
+        "Level 1": [
+          "Is there a level in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "15. A saw",
+      "questions": {
+        "Level 1": [
+          "Is there a saw in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "16. A paintbrush",
+      "questions": {
+        "Level 1": [
+          "Is there a paintbrush in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "17. A screwdriver",
+      "questions": {
+        "Level 1": [
+          "Is there a screwdriver in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. An anvil",
+      "questions": {
+        "Level 1": [
+          "Is there an anvil in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "19. A jackhammer",
+      "questions": {
+        "Level 1": [
+          "Is there a jackhammer in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. A broom",
+      "questions": {
+        "Level 1": [
+          "Is there a broom in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "21. A wheelbarrow",
+      "questions": {
+        "Level 1": [
+          "Is there a wheelbarrow in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. A file",
+      "questions": {
+        "Level 1": [
+          "Is there a file in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. A workbench",
+      "questions": {
+        "Level 1": [
+          "Is there a workbench in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. A chisel",
+      "questions": {
+        "Level 1": [
+          "Is there a chisel in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. A trowel",
+      "questions": {
+        "Level 1": [
+          "Is there a trowel in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. A utility belt",
+      "questions": {
+        "Level 1": [
+          "Is there a utility belt in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. A crowbar",
+      "questions": {
+        "Level 1": [
+          "Is there a crowbar in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. A socket set",
+      "questions": {
+        "Level 1": [
+          "Is there a socket set in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "29. A nail gun",
+      "questions": {
+        "Level 1": [
+          "Is there a nail gun in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "30. A sledgehammer",
+      "questions": {
+        "Level 1": [
+          "Is there a sledgehammer in the image?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "1. A stethoscope",
+      "questions": {
+        "Level 1": [
+          "Is there a stethoscope in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A thermometer",
+      "questions": {
+        "Level 1": [
+          "Is there a thermometer in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. A scalpel",
+      "questions": {
+        "Level 1": [
+          "Is there a scalpel in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. An ultrasound machine",
+      "questions": {
+        "Level 1": [
+          "Is there an ultrasound machine in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. A blood pressure cuff",
+      "questions": {
+        "Level 1": [
+          "Is there a blood pressure cuff in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A surgical mask",
+      "questions": {
+        "Level 1": [
+          "Is there a surgical mask in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. An x-ray film",
+      "questions": {
+        "Level 1": [
+          "Is there an x-ray film in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A hospital bed",
+      "questions": {
+        "Level 1": [
+          "Is there a hospital bed in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "9. A pill bottle",
+      "questions": {
+        "Level 1": [
+          "Is there a pill bottle in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. A wheelchair",
+      "questions": {
+        "Level 1": [
+          "Is there a wheelchair in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. A defibrillator",
+      "questions": {
+        "Level 1": [
+          "Is there a defibrillator in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "12. A microscope",
+      "questions": {
+        "Level 1": [
+          "Is there a microscope in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. A bandage",
+      "questions": {
+        "Level 1": [
+          "Is there a bandage in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. An IV drip",
+      "questions": {
+        "Level 1": [
+          "Is there an IV drip in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "15. A heart monitor",
+      "questions": {
+        "Level 1": [
+          "Is there a heart monitor in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "16. A crutch",
+      "questions": {
+        "Level 1": [
+          "Is there a crutch in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "17. A dental chair",
+      "questions": {
+        "Level 1": [
+          "Is there a dental chair in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. A lab coat",
+      "questions": {
+        "Level 1": [
+          "Is there a lab coat in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "19. A tongue depressor",
+      "questions": {
+        "Level 1": [
+          "Is there a tongue depressor in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. A syringe",
+      "questions": {
+        "Level 1": [
+          "Is there a syringe in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "21. A pair of surgical gloves",
+      "questions": {
+        "Level 1": [
+          "Are there a pair of surgical gloves in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. A pair of forceps",
+      "questions": {
+        "Level 1": [
+          "Is there a pair of forceps in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. A hearing aid",
+      "questions": {
+        "Level 1": [
+          "Is there a hearing aid in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. A pair of eyeglasses",
+      "questions": {
+        "Level 1": [
+          "Is there a pair of eyeglasses in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. An oxygen tank",
+      "questions": {
+        "Level 1": [
+          "Is there an oxygen tank in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. A pacemaker",
+      "questions": {
+        "Level 1": [
+          "Is there a pacemaker in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. A medical chart",
+      "questions": {
+        "Level 1": [
+          "Is there a medical chart in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. A first aid kit",
+      "questions": {
+        "Level 1": [
+          "Is there a first aid kit in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "29. A ventilator",
+      "questions": {
+        "Level 1": [
+          "Is there a ventilator in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "30. A CT scan",
+      "questions": {
+        "Level 1": [
+          "Is there a CT scan in the image?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "1. A basketball",
+      "questions": {
+        "Level 1": [
+          "Is there a basketball in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A football helmet",
+      "questions": {
+        "Level 1": [
+          "Is there a football helmet in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. A tennis racket",
+      "questions": {
+        "Level 1": [
+          "Is there a tennis racket in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. A soccer ball",
+      "questions": {
+        "Level 1": [
+          "Is there a soccer ball in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. A baseball bat",
+      "questions": {
+        "Level 1": [
+          "Is there a baseball bat in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A golf club",
+      "questions": {
+        "Level 1": [
+          "Is there a golf club in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. A hockey puck",
+      "questions": {
+        "Level 1": [
+          "Is there a hockey puck in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A cricket bat",
+      "questions": {
+        "Level 1": [
+          "Is there a cricket bat in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "9. A volleyball",
+      "questions": {
+        "Level 1": [
+          "Is there a volleyball in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. A ping pong paddle",
+      "questions": {
+        "Level 1": [
+          "Is there a ping pong paddle in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. A swimming cap",
+      "questions": {
+        "Level 1": [
+          "Is there a swimming cap in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "12. A skateboard",
+      "questions": {
+        "Level 1": [
+          "Is there a skateboard in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. A lacrosse stick",
+      "questions": {
+        "Level 1": [
+          "Is there a lacrosse stick in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. A boxing glove",
+      "questions": {
+        "Level 1": [
+          "Is there a boxing glove in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "15. A bicycle",
+      "questions": {
+        "Level 1": [
+          "Is there a bicycle in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "16. A pair of running shoes",
+      "questions": {
+        "Level 1": [
+          "Are there a pair of running shoes in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "17. A gymnastics mat",
+      "questions": {
+        "Level 1": [
+          "Is there a gymnastics mat in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. A yoga mat",
+      "questions": {
+        "Level 1": [
+          "Is there a yoga mat in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "19. A javelin",
+      "questions": {
+        "Level 1": [
+          "Is there a javelin in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. A climbing harness",
+      "questions": {
+        "Level 1": [
+          "Is there a climbing harness in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "21. A shot put",
+      "questions": {
+        "Level 1": [
+          "Is there a shot put in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. A discus",
+      "questions": {
+        "Level 1": [
+          "Is there a discus in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. A curling stone",
+      "questions": {
+        "Level 1": [
+          "Is there a curling stone in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. A pair of ski goggles",
+      "questions": {
+        "Level 1": [
+          "Is there a pair of ski goggles in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. A rowing oar",
+      "questions": {
+        "Level 1": [
+          "Is there a rowing oar in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. A fencing foil",
+      "questions": {
+        "Level 1": [
+          "Is there a fencing foil in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. A martial arts belt",
+      "questions": {
+        "Level 1": [
+          "Is there a martial arts belt in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. A billiards cue",
+      "questions": {
+        "Level 1": [
+          "Is there a billiards cue in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "29. A surfboard",
+      "questions": {
+        "Level 1": [
+          "Is there a surfboard in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "30. A horse saddle",
+      "questions": {
+        "Level 1": [
+          "Is there a horse saddle in the image?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "1. A smartphone",
+      "questions": {
+        "Level 1": [
+          "Is there a smartphone in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A laptop",
+      "questions": {
+        "Level 1": [
+          "Is there a laptop in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. A smartwatch",
+      "questions": {
+        "Level 1": [
+          "Is there a smartwatch in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. A tablet",
+      "questions": {
+        "Level 1": [
+          "Is there a tablet in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. A desktop computer",
+      "questions": {
+        "Level 1": [
+          "Is there a desktop computer in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A printer",
+      "questions": {
+        "Level 1": [
+          "Is there a printer in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. A wireless router",
+      "questions": {
+        "Level 1": [
+          "Is there a wireless router in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A drone",
+      "questions": {
+        "Level 1": [
+          "Is there a drone in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "9. A virtual reality headset",
+      "questions": {
+        "Level 1": [
+          "Is there a virtual reality headset in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. A 3D printer",
+      "questions": {
+        "Level 1": [
+          "Is there a 3D printer in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. A USB flash drive",
+      "questions": {
+        "Level 1": [
+          "Is there a USB flash drive in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "12. A gaming console",
+      "questions": {
+        "Level 1": [
+          "Is there a gaming console in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. A digital camera",
+      "questions": {
+        "Level 1": [
+          "Is there a digital camera in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. A smart speaker",
+      "questions": {
+        "Level 1": [
+          "Is there a smart speaker in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "15. A smartwatch",
+      "questions": {
+        "Level 1": [
+          "Is there a smartwatch in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "16. A e-reader",
+      "questions": {
+        "Level 1": [
+          "Is there an e-reader in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "17. A smart thermostat",
+      "questions": {
+        "Level 1": [
+          "Is there a smart thermostat in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. A fitness tracker",
+      "questions": {
+        "Level 1": [
+          "Is there a fitness tracker in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "19. A power bank",
+      "questions": {
+        "Level 1": [
+          "Is there a power bank in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. A wireless mouse",
+      "questions": {
+        "Level 1": [
+          "Is there a wireless mouse in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "21. A mechanical keyboard",
+      "questions": {
+        "Level 1": [
+          "Is there a mechanical keyboard in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. A solid-state drive",
+      "questions": {
+        "Level 1": [
+          "Is there a solid-state drive in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. A external hard drive",
+      "questions": {
+        "Level 1": [
+          "Is there an external hard drive in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. A graphics card",
+      "questions": {
+        "Level 1": [
+          "Is there a graphics card in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. A microcontroller",
+      "questions": {
+        "Level 1": [
+          "Is there a microcontroller in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. A Bluetooth headset",
+      "questions": {
+        "Level 1": [
+          "Is there a Bluetooth headset in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. A Wi-Fi extender",
+      "questions": {
+        "Level 1": [
+          "Is there a Wi-Fi extender in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. A action camera",
+      "questions": {
+        "Level 1": [
+          "Is there an action camera in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "29. A portable charger",
+      "questions": {
+        "Level 1": [
+          "Is there a portable charger in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "30. A webcam",
+      "questions": {
+        "Level 1": [
+          "Is there a webcam in the image?"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+     "Animal Nature": [
+        {
+        "prompt": "A cat chases a mouse, the mouse runs into a hole",
+        "questions": {
+            "Level 1": [
+            "Is there a cat in the image?",
+            "Is there a mouse in the image?",
+            "Is there a hole in the image?"
+            ],
+            "Level 2": [
+            "Is the cat chasing the mouse in the image?",
+            "Is the mouse scared and running into the hole?"
+            ],
+            "Level 3": [
+            "Does the cat's posture and gaze suggest it's chasing the mouse?",
+            "Is the mouse showing fear and trying to escape into the hole?",
+            "Is the hole in a reasonable position, with the mouse either about to enter or already inside?"
+            ]
+        }
+        },
+        {
+        "prompt": "A monkey grabs a tree branch, the branch breaks and falls to the ground",
+        "questions": {
+            "Level 1": [
+            "Is there a monkey in the image?",
+            "Is there a tree branch in the image?",
+            "Is there a ground in the image?"
+            ],
+            "Level 2": [
+            "Is the monkey grabbing the tree branch in the image?",
+            "Does the tree branch break because of the monkey's grab?",
+            ],
+            "Level 3": [
+            "Does the monkey seem to be grabbing the branch forcefully, and does this action appear to be causing the branch to break?",
+            "Is the broken branch clearly falling to the ground?",
+            "Can broken pieces of the branch be seen on the ground, or signs of where the branch broke?"
+            ]
+        }
+        },
+        {
+        "prompt": "A cat plays with a ball of yarn, the yarn gets tangled around the cat's paw",
+        "questions": {
+            "Level 1": [
+            "Is there a cat in the image?",
+            "Is there a ball of yarn in the image?",
+            "Can the cat's paw be seen in the image?"
+            ],
+            "Level 2": [
+            "Is the cat playing with the ball of yarn in the image?",
+            "Is the yarn tangled around the cat's paw?"
+            ],
+            "Level 3": [
+            "Does the cat appear to be interacting with the yarn?",
+            "Does the yarn seem to be clearly tangled around the cat's paw?",
+            "Does the cat's behavior match typical cat play with yarn, and can the paw's interaction with the yarn be seen?"
+            ]
+        }
+        },
+        {
+        "prompt": "A tiger lunges at a deer, the deer quickly jumps into a bush",
+        "questions": {
+            "Level 1": [
+            "Is there a tiger in the image?",
+            "Is there a deer in the image?",
+            "Is there a bush in the image?"
+            ],
+            "Level 2": [
+            "Is the tiger lunging at the deer in the image?",
+            "Is the deer jumping quickly into a bush?"
+            ],
+            "Level 3": [
+            "Does the tiger appear to be lunging at the deer and chasing it?",
+            "Does the deer show a natural fleeing movement, and does it seem to jump into the bush?",
+            "Does the bush's location align with the deer's jump, and does it look like the deer successfully jumped into it?"
+            ]
+        }
+        },
+        {
+        "prompt": "A cheetah chases an antelope, the antelope jumps over a rock to escape",
+        "questions": {
+            "Level 1": [
+            "Is there a cheetah in the image?",
+            "Is there an antelope in the image?",
+            "Is there a rock in the image?"
+            ],
+            "Level 2": [
+            "Is the cheetah chasing the antelope in the image?",
+            "Is the antelope jumping over a rock to escape?"
+            ],
+            "Level 3": [
+            "Does the cheetah seem to be chasing the antelope closely?",
+            "Is the antelope's jump quick and forceful, suggesting it is trying to escape the cheetah?",
+            "Does the rock's location match the antelope's jump direction, and does the antelope appear to successfully leap over the rock?"
+            ]
+        }
+        }
+    ],
+
+    "Labor": [
+        {
+        "prompt": "An elderly person cuts a tree branch, and the branch falls to the ground",
+        "questions": {
+            "Level 1": [
+            "Is there an elderly person in the image?",
+            "Is there a tree branch in the image?",
+            "Is there a ground in the image?"
+            ],
+            "Level 2": [
+            "Is the elderly person cutting the tree branch in the image?",
+            "Does the tree branch appear to be falling or near the ground?"
+            ],
+            "Level 3": [
+            "Does the position of the tree branch look reasonable, as if it has just been cut and is falling toward the ground?",
+            "Does the ground show any signs of the branch falling, such as contact with the ground or the branch in the process of falling?",
+            "Does the elderly person's action align with the falling branch, as if the person is cutting the branch and the branch is falling?"
+            ]
+        }
+        },
+        {
+        "prompt": "A gardener pulls out weeds, and the weeds are thrown on the ground",
+        "questions": {
+            "Level 1": [
+            "Is there a gardener in the image?",
+            "Is there any weeds in the image?",
+            "Is there a ground in the image?"
+            ],
+            "Level 2": [
+            "Is the gardener pulling out the weeds in the image?",
+            "Are the weeds thrown on the ground, and can they be seen placed on the ground?"
+            ],
+            "Level 3": [
+            "Do the weeds look as though they were just pulled out and thrown on the ground?",
+            "Does the ground show signs of the weeds being thrown, such as soil marks or roots scattered around?",
+            "Does the gardener's action align with the state of the weeds being placed on the ground?"
+            ]
+        }
+        },
+        {
+        "prompt": "A gardener trims a bush, and the branches are blown to the ground by the wind",
+        "questions": {
+            "Level 1": [
+            "Is there a gardener in the image?",
+            "Is there a bush in the image?",
+            "Is there any branches in the image?",
+            "Is there a ground in the image?"
+            ],
+            "Level 2": [
+            "Is the gardener trimming the bush in the image?",
+            "Do the branches appear to be blown to the ground by the wind, and does their position align with the wind's action?"
+            ],
+            "Level 3": [
+            "Do the branches' positions look natural as if they are being blown by the wind?",
+            "Does the ground show the fallen branches in a reasonable state, such as pressed into the ground or resting at a specific spot?",
+            "Does the gardener's trimming action align with the falling branches, considering the influence of the wind?"
+            ]
+        }
+        },
+        {
+        "prompt": "A farmer cuts wheat stalks, and the wheat falls to the field",
+        "questions": {
+            "Level 1": [
+            "Is there a farmer in the image?",
+            "Is there any wheat in the image?",
+            "Is there a field in the image?"
+            ],
+            "Level 2": [
+            "Is the farmer cutting the wheat in the image?",
+            "Is the wheat falling in the field, and can it be seen on the ground?"
+            ],
+            "Level 3": [
+            "Does the position of the wheat in the field look reasonable, as if it has just been cut and is now falling on the ground?",
+            "Does the field show signs of the fallen wheat, such as scattered stalks or traces of wheat on the ground?",
+            "Does the farmer's action correspond with the wheat falling, showing a clear cut and the wheat dropping to the ground?"
+            ]
+        }
+        },
+        {
+        "prompt": "A stonemason carves a stone, and pieces of the stone fall to the ground",
+        "questions": {
+            "Level 1": [
+            "Is there a stonemason in the image?",
+            "Is there a stone in the image?",
+            "Are there pieces of the stone in the image?",
+            "Is there a ground in the image?"
+            ],
+            "Level 2": [
+            "Is the stonemason carving the stone in the image?",
+            "Does the stone show signs of being carved, and are pieces of stone visible on the ground?"
+            ],
+            "Level 3": [
+            "Does the stone appear to have carvings, such as marks or pieces missing, showing the carving process?",
+            "Does the ground show signs of the stone pieces falling, such as scattered fragments or indentation marks?",
+            "Does the stonemason's action align with the stone pieces falling, as if the carving process is causing the fragments to break off?"
+            ]
+        }
+        }
+    ],
+    "Medical": [
+        {
+        "prompt": "A doctor slaps a patient, and the patient coughs out a jujube pit",
+        "questions": {
+            "Level 1": [
+            "Is there a doctor in the image?",
+            "Is there a patient in the image?",
+            "Can the jujube pit be seen in the image?"
+            ],
+            "Level 2": [
+            "Is the doctor slapping the patient in the image?",
+            "Does the patient appear to be coughing in the image?",
+            "Is the jujube pit visible around the patient's mouth, as if it was coughed out?"
+            ],
+            "Level 3": [
+            "Does the patient look like they are coughing, with their expression or actions matching the coughing scenario?",
+            "Does the presence of the jujube pit match the coughing action? Can the pit be clearly seen in the image, or does it look like it was just coughed out from the patient's mouth?",
+            "Does the doctor’s slapping action seem natural, and does it align with the patient’s cough producing the jujube pit?"
+            ]
+        }
+        },
+        {
+        "prompt": "A caregiver helps a patient stand up, and the patient accidentally bumps into a chair",
+        "questions": {
+            "Level 1": [
+            "Is there a caregiver in the image?",
+            "Is there a patient in the image?",
+            "Is there a chair in the image?"
+            ],
+            "Level 2": [
+            "Is the caregiver helping the patient to stand up in the image?",
+            "Is the patient accidentally bumping into the chair? Does the patient's body lean toward the chair, as if it is about to make contact?"
+            ],
+            "Level 3": [
+            "Does the patient show the action of standing up, and is there a clear sign of bumping into the chair (e.g., the patient is close to the chair or their body is making contact)?",
+            "Is the chair positioned logically for the patient to bump into it? Does the patient’s movement align well with the caregiver’s assistance?",
+            "Does the caregiver's action look natural, and does the patient's posture of bumping into the chair seem realistic?"
+            ]
+        }
+        },
+        {
+        "prompt": "A doctor taps a patient's knee, and the patient kicks over a small stool",
+        "questions": {
+            "Level 1": [
+            "Is there a doctor in the image?",
+            "Is there a patient in the image?",
+            "Is there a small stool in the image?"
+            ],
+            "Level 2": [
+            "Is the doctor tapping the patient’s knee in the image?",
+            "Is the patient kicking over the small stool? Does the patient's leg appear raised, as if kicking the stool?"
+            ],
+            "Level 3": [
+            "Does the patient naturally lift their leg and kick over the small stool? Does the leg movement match the doctor's knee-tapping action?",
+            "Is the stool knocked over in a reasonable manner? Does it tilt or fall over in response to the patient's leg movement?",
+            "Do the doctor’s tapping action and the patient's leg movement align? Does the patient’s knee respond naturally to the tapping?"
+            ]
+        }
+        },
+        {
+        "prompt": "A nurse removes a patient’s bandage, and the bandage falls to the ground",
+        "questions": {
+            "Level 1": [
+            "Is there a nurse in the image?",
+            "Is there a patient in the image?",
+            "Is there a bandage in the image?",
+            "Is there a floor in the image?"
+            ],
+            "Level 2": [
+            "Is the nurse removing the patient's bandage in the image?",
+            "Is the bandage shown as being removed and falling to the ground?"
+            ],
+            "Level 3": [
+            "Does the bandage appear to be naturally removed from the patient’s body? Does it look loose and detached, beginning to fall?",
+            "Is the bandage’s state reasonable, appearing to fall to the ground? For example, does it show signs of falling or being dragged toward the floor?",
+            "Does the nurse’s action align with the falling bandage state? Is the nurse removing the bandage in a way that matches the patient’s injury location?"
+            ]
+        }
+        }
+    ],
+    "Sport": [
+      {
+        "prompt": "A coach throws a basketball, and the basketball hits the rim",
+        "questions": {
+          "Level 1": [
+            "Is there a coach in the image?",
+            "Is there a basketball in the image?",
+            "Is there a basketball hoop in the image?"
+          ],
+          "Level 2": [
+            "Is the coach throwing a basketball in the image?",
+            "Is the basketball near the rim? Is there any indication of the basketball hitting the rim (e.g., basketball touching the rim or the rim shaking)?"
+          ],
+          "Level 3": [
+            "Does the basketball appear to be in a shot trajectory? If it touches the rim, does it show a clear physical reaction (such as the rim moving or the basketball bouncing)?",
+            "Does the coach's action match the basketball's trajectory? Is the direction of the basketball's motion consistent with the coach's throwing action?",
+            "Are the positions of the hoop and basketball logical? Is the basketball reasonably close to the hoop and not deviating too much?"
+          ]
+        }
+      },
+      {
+        "prompt": "A child throws a frisbee, and the frisbee flies into a bush",
+        "questions": {
+          "Level 1": [
+            "Is there a child in the image?",
+            "Is there a frisbee in the image?",
+            "Is there a bush in the image?"
+          ],
+          "Level 2": [
+            "Is the child throwing a frisbee in the image?",
+            "Is the frisbee near the bush? Can it be clearly seen flying into the bush (e.g., frisbee's flying direction or partially obscured by the bush)?"
+          ],
+          "Level 3": [
+            "Does the frisbee's flying direction match the throwing action? Does the frisbee's position make sense, and does it appear to have already entered the bush or still flying?",
+            "Is the bush positioned logically? Does the frisbee entering the bush seem realistic (e.g., frisbee partially hidden or some part inside the bush)?",
+            "Does the child's throwing action match the frisbee's state? Does the frisbee's condition align with the throwing motion, and does it appear to stay on its flight path?"
+          ]
+        }
+      },
+      {
+        "prompt": "A hockey player hits a puck, and the puck hits the ice",
+        "questions": {
+          "Level 1": [
+            "Is there a hockey player in the image?",
+            "Is there a hockey puck in the image?",
+            "Is there ice in the image?"
+          ],
+          "Level 2": [
+            "Is the hockey player hitting the puck in the image?",
+            "Has the puck hit the ice?"
+          ],
+          "Level 3": [
+            "Does the puck's position make sense? Does it show a clear sign of hitting the ice, such as a visible trajectory or rebound (e.g., sliding on the ice)?",
+            "Does the hockey player's hitting action match the puck's state? If the puck appears on the ice, does it suggest the player's hit hasn't fully completed, and the puck is still in motion?",
+            "Does the ice show any interaction with the puck (e.g., marks left by the puck on the ice or reflections on the ice surface)?"
+          ]
+        }
+      },
+      {
+        "prompt": "A soccer player kicks a soccer ball, and the ball goes into the goal",
+        "questions": {
+          "Level 1": [
+            "Is there a soccer player in the image?",
+            "Is there a soccer ball in the image?",
+            "Is there a goal in the image?"
+          ],
+          "Level 2": [
+            "Is the soccer player kicking the soccer ball in the image?",
+            "Is the soccer ball near the goal? Does it appear to be in the goal's range, or does it seem to have entered the goal?"
+          ],
+          "Level 3": [
+            "Does the soccer player's kicking motion make sense and lead the ball toward or into the goal?",
+            "Does the soccer ball's condition follow a logical path from being kicked to entering the goal? Does it show the correct trajectory (e.g., heading toward the goal)?",
+            "Does the image show the correct effect of the ball entering the goal (e.g., net deformation or movement of the goal)?"
+          ]
+        }
+      }
+    ],
+    "Technology": [
+        {
+          "prompt": "An engineer operates a drone, and the drone crashes into the ceiling",
+          "questions": {
+            "Level 1": [
+              "Is there an engineer in the image?",
+              "Is there a drone in the image?",
+              "Is there a ceiling in the image?"
+            ],
+            "Level 2": [
+              "Is the engineer operating the drone in the image?",
+              "Does the drone appear to be flying and approaching the ceiling?"
+            ],
+            "Level 3": [
+              "Does the position of the drone make sense as it flies toward the ceiling?",
+              "Does the ceiling match the drone's flight path? Can signs of impact be seen (such as motion marks or ceiling reactions)?",
+              "Is the engineer's action reasonable, and does it seem like the engineer is controlling the drone as it approaches the ceiling?"
+            ]
+          }
+        },
+        {
+          "prompt": "An architect operates a laser distance meter, and the laser beam hits the window",
+          "questions": {
+            "Level 1": [
+              "Is there an architect in the image?",
+              "Is there a laser distance meter in the image?",
+              "Is there a window in the image?",
+              "Is the laser beam visible in the image?"
+            ],
+            "Level 2": [
+              "Is the architect operating the laser distance meter in the image?",
+              "Is the laser beam being emitted from the device?",
+              "Does the laser beam hit the window?"
+            ],
+            "Level 3": [
+              "Does the laser beam appear to be emitted from the meter and align with the window?",
+              "Does the window's position and the reflection of the laser match the physical reality? Does the beam look like it strikes the window and remains there?",
+              "Is the architect's action reasonable, and does the direction and intensity of the laser match the architect's stance and measuring behavior?"
+            ]
+          }
+        },
+        {
+          "prompt": "A programmer tests an autonomous car, and the car crashes into the guardrail",
+          "questions": {
+            "Level 1": [
+              "Is there a programmer in the image?",
+              "Is there an autonomous car in the image?",
+              "Is there a guardrail in the image?"
+            ],
+            "Level 2": [
+              "Is the programmer testing the autonomous car in the image?",
+              "Is the car close to the guardrail, with signs that it has crashed into it?"
+            ],
+            "Level 3": [
+              "Does the position of the autonomous car match the scenario of crashing into the guardrail? Is the car's direction of motion visible, clearly indicating the crash?",
+              "Does the guardrail show signs of impact or damage consistent with the collision of the car?",
+              "Is the programmer's action reasonable? Does it look like the programmer is testing the car, and the car crashes into the guardrail as part of the test?"
+            ]
+          }
+        },
+        {
+          "prompt": "An electrical engineer adjusts a circuit board, and a short circuit causes sparks",
+          "questions": {
+            "Level 1": [
+              "Is there an electrical engineer in the image?",
+              "Is there a circuit board in the image?",
+              "Are sparks visible in the image?"
+            ],
+            "Level 2": [
+              "Is the electrical engineer adjusting the circuit board in the image?",
+              "Does the circuit board show signs of a short circuit? Can sparks be seen as a result?"
+            ],
+            "Level 3": [
+              "Does the circuit board show reasonable signs of a short circuit, and can sparks be clearly seen as a result?",
+              "Do the sparks match the typical effects of a short circuit? For instance, is the position and size of the sparks consistent with common short circuit phenomena?",
+              "Is the electrical engineer's action reasonable, and does it look like the engineer's adjustments caused the short circuit?"
+            ]
+          }
+        },
+        {
+          "prompt": "A technician adjusts a microscope lens, and the lens accidentally touches the sample",
+          "questions": {
+            "Level 1": [
+              "Is there a technician in the image?",
+              "Is there a microscope in the image?",
+              "Is there a microscope lens in the image?",
+              "Is there a sample in the image?"
+            ],
+            "Level 2": [
+              "Is the technician adjusting the microscope lens in the image?",
+              "Does the microscope lens appear to be touching the sample?"
+            ],
+            "Level 3": [
+              "Does the position of the microscope lens seem reasonable, as if it is being adjusted? Can signs of contact between the lens and the sample be seen?",
+              "Does the sample show signs of being touched by the microscope lens, such as slight movement or contact at the edge of the sample?",
+              "Is the technician's action reasonable? Does it appear that the lens touched the sample while the technician was adjusting it?"
+            ]
+          }
+        }
+      ]
+
+  }
+  

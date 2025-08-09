@@ -1,0 +1,2020 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "1. A cat knocks a vase, the vase shatters on the floor.",
+      "questions": {
+        "Level 1": [
+          "Is there a cat in the image?",
+          "Is there a vase in the image?",
+          "Is there shattered glass on the floor in the image?"
+        ],
+        "Level 2": [
+          "Is the cat knocking over the vase in the image?",
+          "Is the shattered vase on the floor in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a cat knocking over a vase, resulting in the vase shattering on the floor?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A storm breaks a branch, the branch falls to the ground.",
+      "questions": {
+        "Level 1": [
+          "Is there a storm in the image?",
+          "Is there a branch in the image?",
+          "Is there ground in the image?"
+        ],
+        "Level 2": [
+          "Is the storm breaking a branch in the image?",
+          "Is the branch falling to the ground in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a storm breaking a branch, followed by the branch falling to the ground?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. A child kicks a ball, the ball hits a window.",
+      "questions": {
+        "Level 1": [
+          "Is there a child in the image?",
+          "Is there a ball in the image?",
+          "Is there a window in the image?"
+        ],
+        "Level 2": [
+          "Is the child kicking the ball in the image?",
+          "Is the ball hitting the window in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a child kicking a ball, followed by the ball hitting a window?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. A bee lands on a flower, the flower releases pollen.",
+      "questions": {
+        "Level 1": [
+          "Is there a bee in the image?",
+          "Is there a flower in the image?",
+          "Is there pollen in the image?"
+        ],
+        "Level 2": [
+          "Is the bee landing on the flower in the image?",
+          "Is the flower releasing pollen in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a bee landing on a flower followed by the flower releasing pollen?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. A bird pecks at a worm, the worm wriggles away.",
+      "questions": {
+        "Level 1": [
+          "Is there a bird in the image?",
+          "Is there a worm in the image?",
+          "Is there a patch of ground where the worm could be wriggling in the image?"
+        ],
+        "Level 2": [
+          "Is the bird pecking at the worm in the image?",
+          "Is the worm wriggling away in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a bird pecking at a worm, followed by the worm wriggling away?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A deer crosses a road, a car slows down.",
+      "questions": {
+        "Level 1": [
+          "Is there a deer in the image?",
+          "Is there a road in the image?",
+          "Is there a car in the image?"
+        ],
+        "Level 2": [
+          "Is the deer crossing the road in the image?",
+          "Is the car slowing down in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a deer crossing a road, followed by a car slowing down?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. A bear climbs a tree, the tree shakes.",
+      "questions": {
+        "Level 1": [
+          "Is there a bear in the image?",
+          "Is there a tree in the image?",
+          "Is there any shaking happening in the image?"
+        ],
+        "Level 2": [
+          "Is the bear climbing the tree in the image?",
+          "Is the tree shaking in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a bear climbing a tree followed by the tree shaking?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A horse gallops along a path, dust rises in the air.",
+      "questions": {
+        "Level 1": [
+          "Is there a horse in the image?",
+          "Is there a path in the image?",
+          "Is there dust in the image?"
+        ],
+        "Level 2": [
+          "Is the horse galloping along the path in the image?",
+          "Is dust rising in the air in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a horse galloping along a path with dust rising in the air?"
+        ]
+      }
+    },
+    {
+      "prompt": "9. A fish swims upstream, the water splashes on rocks.",
+      "questions": {
+        "Level 1": [
+          "Is there a fish in the image?",
+          "Is there water in the image?",
+          "Are there rocks in the image?"
+        ],
+        "Level 2": [
+          "Is the fish swimming upstream in the image?",
+          "Is the water splashing on the rocks in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a fish swimming upstream and water splashing on rocks?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. A squirrel nibbles a nut, the nut shell cracks.",
+      "questions": {
+        "Level 1": [
+          "Is there a squirrel in the image?",
+          "Is there a nut in the image?",
+          "Is there a nut shell in the image?"
+        ],
+        "Level 2": [
+          "Is the squirrel nibbling a nut in the image?",
+          "Is the nut shell cracking in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a squirrel nibbling a nut, followed by the nut shell cracking?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. A dog digs into the earth, the soil disrupts the plants.",
+      "questions": {
+        "Level 1": [
+          "Is there a dog in the image?",
+          "Is there soil in the image?",
+          "Are there plants in the image?"
+        ],
+        "Level 2": [
+          "Is the dog digging into the earth in the image?",
+          "Is the soil disrupting the plants in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a dog digging into the earth, resulting in the soil disrupting the plants?"
+        ]
+      }
+    },
+    {
+      "prompt": "12. A cow grazes in a field, the grass diminishes in height.",
+      "questions": {
+        "Level 1": [
+          "Is there a cow in the image?",
+          "Is there a field in the image?",
+          "Is there grass in the image?"
+        ],
+        "Level 2": [
+          "Is the cow grazing in the field in the image?",
+          "Is the grass diminishing in height in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a cow grazing in a field, resulting in the grass diminishing in height?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. Rain falls on a plant, the plant absorbs the water.",
+      "questions": {
+        "Level 1": [
+          "Is there rain in the image?",
+          "Is there a plant in the image?",
+          "Is there water in the image?"
+        ],
+        "Level 2": [
+          "Is the rain falling on the plant in the image?",
+          "Is the plant absorbing the water in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of rain falling on a plant and the plant absorbing the water?"
+        ]
+      }
+    },
+    {
+      "prompt": "15. A goat chews a rope, the rope snaps.",
+      "questions": {
+        "Level 1": [
+          "Is there a goat in the image?",
+          "Is there a rope in the image?",
+          "Is there a snapped rope in the image?"
+        ],
+        "Level 2": [
+          "Is the goat chewing the rope in the image?",
+          "Is the rope snapping in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a goat chewing a rope, followed by the rope snapping?"
+        ]
+      }
+    },
+    {
+      "prompt": "16. A lizard basks in the sun, the scales glisten.",
+      "questions": {
+        "Level 1": [
+          "Is there a lizard in the image?",
+          "Is there sunlight in the image?",
+          "Are there scales in the image?"
+        ],
+        "Level 2": [
+          "Is the lizard basking in the sun in the image?",
+          "Do the scales glisten in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a lizard basking in the sun with its scales glistening?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. A spider spins a web, the web catches a fly.",
+      "questions": {
+        "Level 1": [
+          "Is there a spider in the image?",
+          "Is there a web in the image?",
+          "Is there a fly in the image?"
+        ],
+        "Level 2": [
+          "Is the spider spinning a web in the image?",
+          "Is the web catching a fly in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a spider spinning a web, followed by the web catching a fly?"
+        ]
+      }
+    },
+    {
+      "prompt": "19. A horse kicks a fence, the fence shakes.",
+      "questions": {
+        "Level 1": [
+          "Is there a horse in the image?",
+          "Is there a fence in the image?",
+          "Is there any sign of shaking motion in the image?"
+        ],
+        "Level 2": [
+          "Is the horse kicking the fence in the image?",
+          "Is the fence shaking as a result in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a horse kicking a fence, followed by the fence shaking?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. A snail crawls across salt, the salt dissolves.",
+      "questions": {
+        "Level 1": [
+          "Is there a snail in the image?",
+          "Is there salt in the image?",
+          "Is there dissolved salt in the image?"
+        ],
+        "Level 2": [
+          "Is the snail crawling across the salt in the image?",
+          "Is the salt dissolving in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a snail crawling across salt, resulting in the salt dissolving?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. A mole digs a tunnel, the tunnel collapses.",
+      "questions": {
+        "Level 1": [
+          "Is there a mole in the image?",
+          "Is there a tunnel in the image?",
+          "Is there evidence of a collapsed tunnel in the image?"
+        ],
+        "Level 2": [
+          "Is the mole digging a tunnel in the image?",
+          "Is the tunnel shown collapsing in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a mole digging a tunnel, followed by the tunnel collapsing?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. A frog leaps into water, the water ripples.",
+      "questions": {
+        "Level 1": [
+          "Is there a frog in the image?",
+          "Is there water in the image?",
+          "Are there ripples in the image?"
+        ],
+        "Level 2": [
+          "Is the frog leaping into the water in the image?",
+          "Are the water ripples present in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a frog leaping into water, followed by the water rippling?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. A sheep bleats loudly, the herd gathers.",
+      "questions": {
+        "Level 1": [
+          "Is there a sheep in the image?",
+          "Is there a herd in the image?",
+          "Is there a gathering in the image?"
+        ],
+        "Level 2": [
+          "Is the sheep bleating loudly in the image?",
+          "Is the herd gathering in response to the bleating in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a sheep bleating loudly and the herd gathering in response?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. A penguin slides on ice, the ice cracks.",
+      "questions": {
+        "Level 1": [
+          "Is there a penguin in the image?",
+          "Is there ice in the image?",
+          "Is there a crack in the ice in the image?"
+        ],
+        "Level 2": [
+          "Is the penguin sliding on the ice in the image?",
+          "Is the ice cracking in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a penguin sliding on ice, followed by the ice cracking?"
+        ]
+      }
+    },
+    {
+      "prompt": "29. A tigress catches prey, the prey struggles.",
+      "questions": {
+        "Level 1": [
+          "Is there a tigress in the image?",
+          "Is there a prey in the image?",
+          "Is there something indicating a struggle in the image?"
+        ],
+        "Level 2": [
+          "Is the tigress catching the prey in the image?",
+          "Is the prey struggling in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a tigress catching prey followed by the prey struggling?"
+        ]
+      }
+    },
+    {
+      "prompt": "30. A wolf stalks a deer, the deer runs away.",
+      "questions": {
+        "Level 1": [
+          "Is there a wolf in the image?",
+          "Is there a deer in the image?",
+          "Is there any sign that the deer is running away in the image?"
+        ],
+        "Level 2": [
+          "Is the wolf stalking the deer in the image?",
+          "Is the deer running away from the wolf in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a wolf stalking a deer, followed by the deer running away?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "1. A carpenter saws a plank, the plank splits in two.",
+      "questions": {
+        "Level 1": [
+          "Is there a carpenter in the image?",
+          "Is there a saw in the image?",
+          "Is there a plank in the image?"
+        ],
+        "Level 2": [
+          "Is the carpenter sawing the plank in the image?",
+          "Is the plank splitting into two pieces in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a carpenter sawing a plank, followed by the plank splitting in two?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A horse kicks a fence, the fence panel breaks.",
+      "questions": {
+        "Level 1": [
+          "Is there a horse in the image?",
+          "Is there a fence in the image?",
+          "Is there a panel in the image?"
+        ],
+        "Level 2": [
+          "Is the horse kicking the fence in the image?",
+          "Is the fence panel breaking in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a horse kicking a fence, followed by the fence panel breaking?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. A child drops a ball, the ball rolls down the hill.",
+      "questions": {
+        "Level 1": [
+          "Is there a child in the image?",
+          "Is there a ball in the image?",
+          "Is there a hill in the image?"
+        ],
+        "Level 2": [
+          "Is the child dropping the ball in the image?",
+          "Is the ball rolling down the hill in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a child dropping a ball, followed by the ball rolling down the hill?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. A gardener waters a plant, the plant grows taller.",
+      "questions": {
+        "Level 1": [
+          "Is there a gardener in the image?",
+          "Is there a plant in the image?",
+          "Is there water in the image?"
+        ],
+        "Level 2": [
+          "Is the gardener watering the plant in the image?",
+          "Is the plant growing taller in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a gardener watering a plant, followed by the plant growing taller?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A chef heats a pan, the pan sizzles with oil.",
+      "questions": {
+        "Level 1": [
+          "Is there a chef in the image?",
+          "Is there a pan in the image?",
+          "Is there oil in the image?"
+        ],
+        "Level 2": [
+          "Is the chef heating the pan in the image?",
+          "Is the pan sizzling with oil in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a chef heating a pan, followed by the pan sizzling with oil?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. A painter mixes colors, the colors blend into a new shade.",
+      "questions": {
+        "Level 1": [
+          "Is there a painter in the image?",
+          "Is there paint in the image?",
+          "Is there a new shade in the image?"
+        ],
+        "Level 2": [
+          "Is the painter mixing colors in the image?",
+          "Are the colors blending into a new shade in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a painter mixing colors followed by the colors blending into a new shade?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A weightlifter lifts a barbell, the barbell rises above head.",
+      "questions": {
+        "Level 1": [
+          "Is there a weightlifter in the image?",
+          "Is there a barbell in the image?",
+          "Is there a head in the image?"
+        ],
+        "Level 2": [
+          "Is the weightlifter lifting the barbell in the image?",
+          "Is the barbell rising above the weightlifter's head in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a weightlifter lifting a barbell, followed by the barbell rising above the head?"
+        ]
+      }
+    },
+    {
+      "prompt": "9. A storm blows against a tree, the tree sways in the wind.",
+      "questions": {
+        "Level 1": [
+          "Is there a storm in the image?",
+          "Is there a tree in the image?",
+          "Is there wind in the image?"
+        ],
+        "Level 2": [
+          "Is the storm blowing against the tree in the image?",
+          "Is the tree swaying in the wind in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence where a storm blows against a tree, causing the tree to sway in the wind?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. A bird pecks a fruit, the fruit falls from the tree.",
+      "questions": {
+        "Level 1": [
+          "Is there a bird in the image?",
+          "Is there a fruit in the image?",
+          "Is there a tree in the image?"
+        ],
+        "Level 2": [
+          "Is the bird pecking the fruit in the image?",
+          "Is the fruit falling from the tree in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a bird pecking a fruit, followed by the fruit falling from the tree?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. A mouse gnaws a rope, the rope snaps apart.",
+      "questions": {
+        "Level 1": [
+          "Is there a mouse in the image?",
+          "Is there a rope in the image?",
+          "Is there a snapped apart rope in the image?"
+        ],
+        "Level 2": [
+          "Is the mouse gnawing on the rope in the image?",
+          "Is the rope snapping apart in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a mouse gnawing on a rope, followed by the rope snapping apart?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. A baker kneads the dough, and the dough sticks to the board.",
+      "questions": {
+        "Level 1": [
+          "Is there a baker in the image?",
+          "Is there dough in the image?",
+          "Is there board in the image?"
+        ],
+        "Level 2": [
+          "Is the baker kneading the dough in the image?",
+          "Does the dough ticks to the board?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a baker kneading dough, followed by the dough ticks to the board?"
+        ]
+      }
+    },
+    
+    {
+      "prompt": "16. A sculptor chisels a rock, the rock forms a statue.",
+      "questions": {
+        "Level 1": [
+          "Is there a sculptor in the image?",
+          "Is there a rock in the image?",
+          "Is there a statue in the image?"
+        ],
+        "Level 2": [
+          "Is the sculptor chiseling the rock in the image?",
+          "Is the rock forming a statue in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a sculptor chiseling a rock, followed by the rock forming a statue?"
+        ]
+      }
+    },
+    {
+      "prompt": "17. A pedestrian pushes a gate, the gate swings open.",
+      "questions": {
+        "Level 1": [
+          "Is there a pedestrian in the image?",
+          "Is there a gate in the image?",
+          "Is the gate swinging open in the image?"
+        ],
+        "Level 2": [
+          "Is the pedestrian pushing the gate in the image?",
+          "Is the gate swinging open after being pushed in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a pedestrian pushing a gate, followed by the gate swinging open?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. A shopkeeper stacks boxes, the boxes create a tower.",
+      "questions": {
+        "Level 1": [
+          "Is there a shopkeeper in the image?",
+          "Are there boxes in the image?",
+          "Is there a tower in the image?"
+        ],
+        "Level 2": [
+          "Is the shopkeeper stacking the boxes in the image?",
+          "Do the boxes create a tower in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a shopkeeper stacking boxes and the boxes creating a tower?"
+        ]
+      }
+    },
+    {
+      "prompt": "19. A cat swipes at a curtain, the curtain sways and falls.",
+      "questions": {
+        "Level 1": [
+          "Is there a cat in the image?",
+          "Is there a curtain in the image?",
+          "Is there anything falling in the image?"
+        ],
+        "Level 2": [
+          "Is the cat swiping at the curtain in the image?",
+          "Is the curtain swaying and falling in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of events where a cat swipes at a curtain and the curtain sways and falls?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. A mechanic tightens a bolt, the bolt holds the machine together.",
+      "questions": {
+        "Level 1": [
+          "Is there a mechanic in the image?",
+          "Is there a bolt in the image?",
+          "Is there a machine in the image?"
+        ],
+        "Level 2": [
+          "Is the mechanic tightening the bolt in the image?",
+          "Is the bolt holding the machine together in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of events where a mechanic tightens a bolt and the bolt holds the machine together?"
+        ]
+      }
+    },
+    {
+      "prompt": "21. A musician strums a guitar, the guitar resonates with sound.",
+      "questions": {
+        "Level 1": [
+          "Is there a musician in the image?",
+          "Is there a guitar in the image?",
+          "Is there sound depicted in the image?"
+        ],
+        "Level 2": [
+          "Is the musician strumming the guitar in the image?",
+          "Is the guitar resonating with sound in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a musician strumming a guitar, followed by the guitar resonating with sound?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. A bee lands on a flower, the flower releases pollen.",
+      "questions": {
+        "Level 1": [
+          "Is there a bee in the image?",
+          "Is there a flower in the image?",
+          "Is there pollen in the image?"
+        ],
+        "Level 2": [
+          "Is the bee landing on the flower in the image?",
+          "Is the flower releasing pollen in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a bee landing on a flower, followed by the flower releasing pollen?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. The blacksmith hammers the metal, and the metal is shaped into a rectangle.",
+      "questions": {
+        "Level 1": [
+          "Is there a blacksmith in the image?",
+          "Is there metal in the image?",
+          "Is there a rectangle in the image?"
+        ],
+        "Level 2": [
+          "Is the blacksmith hammering metal in the image?",
+          "Is the metal shaped into a rectangle in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a blacksmith hammering metal, followed by the metal is shaped into a rectangle?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. A fisherman casts a net, the net catches fish.",
+      "questions": {
+        "Level 1": [
+          "Is there a fisherman in the image?",
+          "Is there a net in the image?",
+          "Are there fish in the image?"
+        ],
+        "Level 2": [
+          "Is the fisherman casting a net in the image?",
+          "Is the net catching fish in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a fisherman casting a net, followed by the net catching fish?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. A teacher writes on the board, the board fills with words.",
+      "questions": {
+        "Level 1": [
+          "Is there a teacher in the image?",
+          "Is there a board in the image?",
+          "Are there words on the board in the image?"
+        ],
+        "Level 2": [
+          "Is the teacher writing on the board in the image?",
+          "Is the board filling with words in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a teacher writing on the board, followed by the board filling with words?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. A grocer opens a crate, the crate reveals fresh produce.",
+      "questions": {
+        "Level 1": [
+          "Is there a grocer in the image?",
+          "Is there a crate in the image?",
+          "Is there fresh produce in the image?"
+        ],
+        "Level 2": [
+          "Is the grocer opening the crate in the image?",
+          "Does the crate reveal fresh produce in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a grocer opening a crate, followed by the crate revealing fresh produce?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. A seamstress cuts fabric, the fabric turns into a garment.",
+      "questions": {
+        "Level 1": [
+          "Is there a seamstress in the image?",
+          "Is there fabric in the image?",
+          "Is there a garment in the image?"
+        ],
+        "Level 2": [
+          "Is the seamstress cutting the fabric in the image?",
+          "Is the fabric turning into a garment in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a seamstress cutting fabric, followed by the fabric turning into a garment?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. A mail carrier delivers a letter, the letter reaches the recipient.",
+      "questions": {
+        "Level 1": [
+          "Is there a mail carrier in the image?",
+          "Is there a letter in the image?",
+          "Is there a recipient in the image?"
+        ],
+        "Level 2": [
+          "Is the mail carrier delivering a letter in the image?",
+          "Is the letter reaching the recipient in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a mail carrier delivering a letter, followed by the letter reaching the recipient?"
+        ]
+      }
+    },
+    {
+      "prompt": "29. A lifeguard blows a whistle, the whistle alerts the swimmers.",
+      "questions": {
+        "Level 1": [
+          "Is there a lifeguard in the image?",
+          "Is there a whistle in the image?",
+          "Are there swimmers in the image?"
+        ],
+        "Level 2": [
+          "Is the lifeguard blowing the whistle in the image?",
+          "Are the swimmers being alerted by the whistle in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a lifeguard blowing a whistle, followed by the whistle alerting the swimmers?"
+        ]
+      }
+    },
+    {
+      "prompt": "30. A snowplow clears a road, the road becomes passable by cars.",
+      "questions": {
+        "Level 1": [
+          "Is there a snowplow in the image?",
+          "Is there a road in the image?",
+          "Are there cars in the image?"
+        ],
+        "Level 2": [
+          "Is the snowplow clearing the road in the image?",
+          "Is the road passable by cars in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a snowplow clearing a road, followed by the road becoming passable by cars?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "3. A person slips on an icy sidewalk, the fall results in a broken wrist.",
+      "questions": {
+        "Level 1": [
+          "Is there a person in the image?",
+          "Is there an icy sidewalk in the image?",
+          "Is there a broken wrist in the image?"
+        ],
+        "Level 2": [
+          "Is the person slipping on the icy sidewalk in the image?",
+          "Is the fall resulting in a broken wrist in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a person slipping on an icy sidewalk and resulting in a broken wrist?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. A child touches a stove, the heat from the stove burns the child's hand.",
+      "questions": {
+        "Level 1": [
+          "Is there a child in the image?",
+          "Is there a stove in the image?",
+          "Is there a burn on the child's hand in the image?"
+        ],
+        "Level 2": [
+          "Is the child touching the stove in the image?",
+          "Is the child's hand being burned by the heat from the stove in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of events where a child touches a stove and the heat burns the child's hand?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. A runner twists an ankle on ground, the sprained ankle swells up.",
+      "questions": {
+        "Level 1": [
+          "Is there a runner in the image?",
+          "Is there ground in the image?",
+          "Is there a swollen ankle in the image?"
+        ],
+        "Level 2": [
+          "Is the runner twisting an ankle on the ground in the image?",
+          "Is there a sprained ankle that is swollen in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a runner twisting an ankle on uneven ground, followed by the ankle swelling up?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A soccer player kicks a ball, the ball hits a bystander's head.",
+      "questions": {
+        "Level 1": [
+          "Is there a soccer player in the image?",
+          "Is there a ball in the image?",
+          "Is there a bystander in the image?"
+        ],
+        "Level 2": [
+          "Is the soccer player kicking the ball in the image?",
+          "Is the ball hitting the bystander's head in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a soccer player kicking a ball, followed by the ball hitting a bystander's head?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. A nurse applies a bandage, the bandage covers an open wound.",
+      "questions": {
+        "Level 1": [
+          "Is there a nurse in the image?",
+          "Is there a bandage in the image?",
+          "Is there an open wound in the image?"
+        ],
+        "Level 2": [
+          "Is the nurse applying a bandage in the image?",
+          "Is the bandage covering an open wound in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a nurse applying a bandage and the bandage covering an open wound?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A bee stings an arm, the venom causes the arm to swell.",
+      "questions": {
+        "Level 1": [
+          "Is there a bee in the image?",
+          "Is there an arm in the image?",
+          "Is there any swelling visible in the image?"
+        ],
+        "Level 2": [
+          "Is the bee stinging the arm in the image?",
+          "Is the swelling caused by the bee sting visible in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a bee stinging an arm, followed by the arm swelling due to the venom?"
+        ]
+      }
+    },
+    {
+      "prompt": "9. A car hits a pedestrian, the pedestrian suffers a broken leg.",
+      "questions": {
+        "Level 1": [
+          "Is there a car in the image?",
+          "Is there a pedestrian in the image?",
+          "Is there a sign of a broken leg injury in the image?"
+        ],
+        "Level 2": [
+          "Is the car hitting the pedestrian in the image?",
+          "Is the pedestrian shown to have a broken leg in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a car hitting a pedestrian, followed by the pedestrian suffering a broken leg?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. A teenager eats shellfish, an allergic reaction causes the teenager's throat to swell.",
+      "questions": {
+        "Level 1": [
+          "Is there a teenager in the image?",
+          "Is there shellfish in the image?",
+          "Is there a swollen throat in the image?"
+        ],
+        "Level 2": [
+          "Is the teenager eating shellfish in the image?",
+          "Is the teenager experiencing a swollen throat due to an allergic reaction in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a teenager eating shellfish, followed by an allergic reaction causing their throat to swell?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. A cyclist falls off a bike, the fall causes a skin abrasion on the cyclist's knee.",
+      "questions": {
+        "Level 1": [
+          "Is there a cyclist in the image?",
+          "Is there a bike in the image?",
+          "Is there a skin abrasion on the cyclist's knee in the image?"
+        ],
+        "Level 2": [
+          "Is the cyclist falling off the bike in the image?",
+          "Is the fall causing a skin abrasion on the cyclist's knee in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a cyclist falling off a bike, followed by the fall causing a skin abrasion on the cyclist's knee?"
+        ]
+      }
+    },
+    {
+      "prompt": "12. A patient undergoes chemotherapy, the treatment leads to hair loss.",
+      "questions": {
+        "Level 1": [
+          "Is there a patient in the image?",
+          "Is there evidence of chemotherapy treatment in the image?",
+          "Is there hair loss depicted in the image?"
+        ],
+        "Level 2": [
+          "Is the patient undergoing chemotherapy in the image?",
+          "Is the chemotherapy treatment leading to hair loss in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a patient undergoing chemotherapy, followed by hair loss as a result of the treatment?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. A person inhales pollen, the pollen triggers an asthma attack.",
+      "questions": {
+        "Level 1": [
+          "Is there a person in the image?",
+          "Is there pollen in the image?",
+          "Is there an indication of an asthma attack in the image?"
+        ],
+        "Level 2": [
+          "Is the person inhaling pollen in the image?",
+          "Is the pollen triggering an asthma attack in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a person inhaling pollen, followed by the pollen triggering an asthma attack?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. A toddler plays with a cat, the cat scratches the toddler's arm.",
+      "questions": {
+        "Level 1": [
+          "Is there a toddler in the image?",
+          "Is there a cat in the image?",
+          "Is there a scratch on the toddler's arm in the image?"
+        ],
+        "Level 2": [
+          "Is the toddler playing with the cat in the image?",
+          "Is the cat scratching the toddler's arm in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a toddler playing with a cat, followed by the cat scratching the toddler's arm?"
+        ]
+      }
+    },
+    {
+      "prompt": "15. A walker steps on a nail, the nail pierces the foot.",
+      "questions": {
+        "Level 1": [
+          "Is there a walker in the image?",
+          "Is there a nail in the image?",
+          "Is there a foot in the image?"
+        ],
+        "Level 2": [
+          "Is the walker stepping on the nail in the image?",
+          "Is the nail piercing the foot in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a walker stepping on a nail, followed by the nail piercing the foot?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. An athlete lifts heavy weights, the strain causes a muscle tear.",
+      "questions": {
+        "Level 1": [
+          "Is there an athlete in the image?",
+          "Are there heavy weights in the image?",
+          "Is there a muscle tear in the image?"
+        ],
+        "Level 2": [
+          "Is the athlete lifting heavy weights in the image?",
+          "Is the strain causing a muscle tear in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of an athlete lifting heavy weights, followed by the strain causing a muscle tear?"
+        ]
+      }
+    },
+    {
+      "prompt": "19. A tourist drinks contaminated water, the water leads to a stomach infection.",
+      "questions": {
+        "Level 1": [
+          "Is there a tourist in the image?",
+          "Is there contaminated water in the image?",
+          "Is there an indication of a stomach infection in the image?"
+        ],
+        "Level 2": [
+          "Is the tourist drinking the contaminated water in the image?",
+          "Does the contaminated water lead to a stomach infection in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a tourist drinking contaminated water, followed by the water leading to a stomach infection?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. A person forgets to wear sunscreen, the sunburn reddens the person's skin.",
+      "questions": {
+        "Level 1": [
+          "Is there a person in the image?",
+          "Is there sunscreen in the image?",
+          "Is there sunburnt skin in the image?"
+        ],
+        "Level 2": [
+          "Is the person not wearing sunscreen in the image?",
+          "Is the skin of the person red from the sunburn in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a person forgetting to wear sunscreen, resulting in red sunburned skin?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. A driver gets into a minor car accident, the impact causes whiplash.",
+      "questions": {
+        "Level 1": [
+          "Is there a driver in the image?",
+          "Is there a car in the image?",
+          "Is there evidence of whiplash in the image?"
+        ],
+        "Level 2": [
+          "Is the driver involved in a minor car accident in the image?",
+          "Is the impact causing whiplash depicted in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a driver getting into a minor car accident, followed by the impact causing whiplash?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. A careless baker grabs a hot tray, the tray burns the baker's palm.",
+      "questions": {
+        "Level 1": [
+          "Is there a baker in the image?",
+          "Is there a hot tray in the image?",
+          "Is there a burn or injury to the baker's palm in the image?"
+        ],
+        "Level 2": [
+          "Is the baker grabbing the hot tray in the image?",
+          "Is the tray causing a burn to the baker's palm in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a careless baker grabbing a hot tray, which burns the baker's palm?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. A prankster releases a wasp, the wasp stings a nearby child.",
+      "questions": {
+        "Level 1": [
+          "Is there a prankster in the image?",
+          "Is there a wasp in the image?",
+          "Is there a child in the image?"
+        ],
+        "Level 2": [
+          "Is the prankster releasing a wasp in the image?",
+          "Is the wasp stinging the child in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a prankster releasing a wasp, followed by the wasp stinging a nearby child?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. A swimmer swallows polluted water, the water causes gastrointestinal distress.",
+      "questions": {
+        "Level 1": [
+          "Is there a swimmer in the image?",
+          "Is there polluted water in the image?",
+          "Is there something indicating gastrointestinal distress in the image?"
+        ],
+        "Level 2": [
+          "Is the swimmer swallowing polluted water in the image?",
+          "Is the polluted water causing gastrointestinal distress in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a swimmer swallowing polluted water, followed by the water causing gastrointestinal distress?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. A person steps on a thorn, the thorn punctures the person's heel.",
+      "questions": {
+        "Level 1": [
+          "Is there a person in the image?",
+          "Is there a thorn in the image?",
+          "Is there a heel in the image?"
+        ],
+        "Level 2": [
+          "Is the person stepping on a thorn in the image?",
+          "Is the thorn puncturing the person's heel in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a person stepping on a thorn, followed by the thorn puncturing the person's heel?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. A construction worker overlooks safety gear, the lack of helmet results in a head injury.",
+      "questions": {
+        "Level 1": [
+          "Is there a construction worker in the image?",
+          "Is there safety gear in the image?",
+          "Is there a helmet in the image?"
+        ],
+        "Level 2": [
+          "Is the construction worker overlooking the safety gear in the image?",
+          "Is the lack of a helmet resulting in a head injury in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence where a construction worker overlooks safety gear, leading to a head injury due to the lack of a helmet?"
+        ]
+      }
+    },
+    {
+      "prompt": "29. A restaurant serves contaminated food, the food causes food poisoning.",
+      "questions": {
+        "Level 1": [
+          "Is there a restaurant in the image?",
+          "Is there contaminated food in the image?",
+          "Is there a person experiencing food poisoning in the image?"
+        ],
+        "Level 2": [
+          "Is the restaurant serving contaminated food in the image?",
+          "Does the contaminated food cause food poisoning in a person in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a restaurant serving contaminated food, which causes food poisoning?"
+        ]
+      }
+    },
+    {
+      "prompt": "30. A gardener handles poison ivy, contact with the plant results in a rash.",
+      "questions": {
+        "Level 1": [
+          "Is there a gardener in the image?",
+          "Is there poison ivy in the image?",
+          "Is there a rash on the gardener in the image?"
+        ],
+        "Level 2": [
+          "Is the gardener handling the poison ivy in the image?",
+          "Is the poison ivy causing a rash on the gardener in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a gardener handling poison ivy, resulting in a rash?"
+        ]
+      }
+    }
+  ],
+
+  "Sport": [
+    {
+      "prompt": "1. A soccer player kicks a ball, the ball hits the goalpost.",
+      "questions": {
+        "Level 1": [
+          "Is there a soccer player in the image?",
+          "Is there a ball in the image?",
+          "Is there a goalpost in the image?"
+        ],
+        "Level 2": [
+          "Is the soccer player kicking the ball in the image?",
+          "Is the ball hitting the goalpost in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a soccer player kicking a ball, followed by the ball hitting the goalpost?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A tennis player serves a ball, the ball lands in the opponent's court.",
+      "questions": {
+        "Level 1": [
+          "Is there a tennis player in the image?",
+          "Is there a ball in the image?",
+          "Is there a tennis court in the image?"
+        ],
+        "Level 2": [
+          "Is the tennis player serving the ball in the image?",
+          "Is the ball landing in the opponent's court in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a tennis player serving a ball that lands in the opponent's court?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. A golfer swings a club to ball, the ball flies towards the green.",
+      "questions": {
+        "Level 1": [
+          "Is there a golfer in the image?",
+          "Is there a club in the image?",
+          "Is there a ball in the image?"
+        ],
+        "Level 2": [
+          "Is the golfer swinging the club in the image?",
+          "Is the ball flying towards the green in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a golfer swinging a club, followed by the ball flying towards the green?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. A basketball player throws a pass, the ball reaches a teammate.",
+      "questions": {
+        "Level 1": [
+          "Is there a basketball player in the image?",
+          "Is there a ball in the image?",
+          "Is there a teammate in the image?"
+        ],
+        "Level 2": [
+          "Is the basketball player throwing a pass in the image?",
+          "Does the ball reach the teammate in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a basketball player throwing a pass, followed by the ball reaching a teammate?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A swimmer dives into the pool, the water splashes onto the deck.",
+      "questions": {
+        "Level 1": [
+          "Is there a swimmer in the image?",
+          "Is there a pool in the image?",
+          "Is there water on the deck in the image?"
+        ],
+        "Level 2": [
+          "Is the swimmer diving into the pool in the image?",
+          "Is the water splashing onto the deck in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a swimmer diving into a pool, followed by water splashing onto the deck?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A fielder catches a fly ball, the ball lands securely in the glove.",
+      "questions": {
+        "Level 1": [
+          "Is there a fielder in the image?",
+          "Is there a fly ball in the image?",
+          "Is there a glove in the image?"
+        ],
+        "Level 2": [
+          "Is the fielder catching the fly ball in the image?",
+          "Does the ball land securely in the glove in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a fielder catching a fly ball, with the ball landing securely in the glove?"
+        ]
+      }
+    },
+    {
+      "prompt": "9. A volleyball player spikes the ball, the ball bounces off the opposing side's floor.",
+      "questions": {
+        "Level 1": [
+          "Is there a volleyball player in the image?",
+          "Is there a volleyball in the image?",
+          "Is there a floor in the image?"
+        ],
+        "Level 2": [
+          "Is the volleyball player spiking the ball in the image?",
+          "Is the volleyball bouncing off the opposing side's floor in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a volleyball player spiking the ball, followed by the ball bouncing off the opposing side's floor?"
+        ]
+      }
+    },
+    {
+      "prompt": "10. A cyclist rides over a bump, the rider loses balance momentarily.",
+      "questions": {
+        "Level 1": [
+          "Is there a cyclist in the image?",
+          "Is there a bump in the image?",
+          "Is there a bicycle in the image?"
+        ],
+        "Level 2": [
+          "Is the cyclist riding over the bump in the image?",
+          "Is the rider losing balance momentarily in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of events where a cyclist rides over a bump, and the rider loses balance momentarily?"
+        ]
+      }
+    },
+    {
+      "prompt": "11. A skier descends rapidly, the snow sprays in every direction.",
+      "questions": {
+        "Level 1": [
+          "Is there a skier in the image?",
+          "Is there snow in the image?",
+          "Is there evidence of snow spraying in the image?"
+        ],
+        "Level 2": [
+          "Is the skier descending rapidly in the image?",
+          "Is the snow spraying in every direction in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a skier descending rapidly with snow spraying in every direction?"
+        ]
+      }
+    },
+    {
+      "prompt": "12. A boxer delivers a punch, the opponent stumbles backward.",
+      "questions": {
+        "Level 1": [
+          "Is there a boxer in the image?",
+          "Is there an opponent in the image?",
+          "Is there a punch being delivered in the image?"
+        ],
+        "Level 2": [
+          "Is the boxer delivering a punch to the opponent in the image?",
+          "Is the opponent stumbling backward in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a boxer delivering a punch, followed by the opponent stumbling backward?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. A diver leaps from the platform, the diver enters the water with a splash.",
+      "questions": {
+        "Level 1": [
+          "Is there a diver in the image?",
+          "Is there a platform in the image?",
+          "Is there water in the image?"
+        ],
+        "Level 2": [
+          "Is the diver leaping from the platform in the image?",
+          "Is the diver entering the water with a splash in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a diver leaping from the platform, followed by the diver entering the water with a splash?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. A hockey player strikes the puck, the puck slides into the net.",
+      "questions": {
+        "Level 1": [
+          "Is there a hockey player in the image?",
+          "Is there a puck in the image?",
+          "Is there a net in the image?"
+        ],
+        "Level 2": [
+          "Is the hockey player striking the puck in the image?",
+          "Is the puck sliding into the net in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a hockey player striking the puck, followed by the puck sliding into the net?"
+        ]
+      }
+    },
+    {
+      "prompt": "16. A football player charges forward, the player collides with a defender.",
+      "questions": {
+        "Level 1": [
+          "Is there a football player in the image?",
+          "Is there a defender in the image?",
+          "Is there a football field in the image?"
+        ],
+        "Level 2": [
+          "Is the football player charging forward in the image?",
+          "Is the player colliding with the defender in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a football player charging forward and colliding with a defender?"
+        ]
+      }
+    },
+    {
+      "prompt": "17. A pole vaulter plants the pole, the athlete clears the bar.",
+      "questions": {
+        "Level 1": [
+          "Is there a pole vaulter in the image?",
+          "Is there a pole in the image?",
+          "Is there a bar in the image?"
+        ],
+        "Level 2": [
+          "Is the pole vaulter planting the pole in the image?",
+          "Is the athlete clearing the bar in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a pole vaulter planting the pole and then clearing the bar?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. A gymnast performs a flip, the landing leaves a mark on the mat.",
+      "questions": {
+        "Level 1": [
+          "Is there a gymnast in the image?",
+          "Is there a flip being performed in the image?",
+          "Is there a mark on the mat in the image?"
+        ],
+        "Level 2": [
+          "Is the gymnast performing a flip in the image?",
+          "Is there a mark on the mat from the landing in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a gymnast performing a flip, followed by the landing leaving a mark on the mat?"
+        ]
+      }
+    },
+    {
+      "prompt": "19. A figure skater spins rapidly, the audience applauds in awe.",
+      "questions": {
+        "Level 1": [
+          "Is there a figure skater in the image?",
+          "Is there an audience in the image?",
+          "Is there applause depicted in the image?"
+        ],
+        "Level 2": [
+          "Is the figure skater spinning rapidly in the image?",
+          "Is the audience applauding in awe in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a figure skater spinning rapidly followed by the audience applauding in awe?"
+        ]
+      }
+    },
+    {
+      "prompt": "20. A rugby player receives a pass, the player evades an opponent.",
+      "questions": {
+        "Level 1": [
+          "Is there a rugby player in the image?",
+          "Is there a pass in the image?",
+          "Is there an opponent in the image?"
+        ],
+        "Level 2": [
+          "Is the rugby player receiving a pass in the image?",
+          "Is the rugby player evading an opponent in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a rugby player receiving a pass and then evading an opponent?"
+        ]
+      }
+    },
+    {
+      "prompt": "21. A mariner rows a boat swiftly, the waves ripple outward.",
+      "questions": {
+        "Level 1": [
+          "Is there a mariner in the image?",
+          "Is there a boat in the image?",
+          "Are there waves in the image?"
+        ],
+        "Level 2": [
+          "Is the mariner rowing the boat swiftly in the image?",
+          "Are the waves rippling outward in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a mariner rowing a boat swiftly with the waves rippling outward?"
+        ]
+      }
+    },
+    {
+      "prompt": "22. An archer releases an arrow, the arrow hits the target's bullseye.",
+      "questions": {
+        "Level 1": [
+          "Is there an archer in the image?",
+          "Is there an arrow in the image?",
+          "Is there a target in the image?"
+        ],
+        "Level 2": [
+          "Is the archer releasing the arrow in the image?",
+          "Is the arrow hitting the target's bullseye in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of an archer releasing an arrow, followed by the arrow hitting the target's bullseye?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. A bike racer takes a sharp turn, the tires skid slightly on the track.",
+      "questions": {
+        "Level 1": [
+          "Is there a bike racer in the image?",
+          "Is there a bike in the image?",
+          "Is there a track in the image?"
+        ],
+        "Level 2": [
+          "Is the bike racer taking a sharp turn in the image?",
+          "Are the bike's tires skidding slightly on the track in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a bike racer taking a sharp turn with the tires skidding slightly on the track?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. A yoga instructor demonstrates a pose, the students mimic the posture.",
+      "questions": {
+        "Level 1": [
+          "Is there a yoga instructor in the image?",
+          "Are there students in the image?",
+          "Is there a yoga pose being demonstrated in the image?"
+        ],
+        "Level 2": [
+          "Is the yoga instructor demonstrating a pose in the image?",
+          "Are the students mimicking the instructor's posture in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a yoga instructor demonstrating a pose followed by the students mimicking the posture?"
+        ]
+      }
+    },
+    {
+      "prompt": "27. A surfer rides a wave, the wave crashes onto the shore.",
+      "questions": {
+        "Level 1": [
+          "Is there a surfer in the image?",
+          "Is there a wave in the image?",
+          "Is there a shore in the image?"
+        ],
+        "Level 2": [
+          "Is the surfer riding a wave in the image?",
+          "Is the wave crashing onto the shore in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a surfer riding a wave, followed by the wave crashing onto the shore?"
+        ]
+      }
+    },
+    {
+      "prompt": "28. A jockey urges the horse forward, the horse speeds past the finish line.",
+      "questions": {
+        "Level 1": [
+          "Is there a jockey in the image?",
+          "Is there a horse in the image?",
+          "Is there a finish line in the image?"
+        ],
+        "Level 2": [
+          "Is the jockey urging the horse forward in the image?",
+          "Is the horse speeding past the finish line in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a jockey urging the horse forward, followed by the horse speeding past the finish line?"
+        ]
+      }
+    },
+    {
+      "prompt": "29. A lacrosse player launches the ball, the ball finds the net.",
+      "questions": {
+        "Level 1": [
+          "Is there a lacrosse player in the image?",
+          "Is there a ball in the image?",
+          "Is there a net in the image?"
+        ],
+        "Level 2": [
+          "Is a lacrosse player launching the ball in the image?",
+          "Does the ball find the net in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a lacrosse player launching the ball and the ball finding the net?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "1. A printer jams the paper, the paper tears apart.",
+      "questions": {
+        "Level 1": [
+          "Is there a printer in the image?",
+          "Is there paper in the image?",
+          "Are there pieces of torn paper in the image?"
+        ],
+        "Level 2": [
+          "Is the printer jamming the paper in the image?",
+          "Is the paper tearing apart in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a printer jamming the paper, followed by the paper tearing apart?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A smartphone falls into water, the water damages the screen.",
+      "questions": {
+        "Level 1": [
+          "Is there a smartphone in the image?",
+          "Is there water in the image?",
+          "Is there a damaged screen in the image?"
+        ],
+        "Level 2": [
+          "Is the smartphone falling into the water in the image?",
+          "Is the water damaging the screen in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a smartphone falling into water, followed by the water damaging the screen?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. A computer virus corrupts the software, the software crashes and shuts down.",
+      "questions": {
+        "Level 1": [
+          "Is there a computer virus in the image?",
+          "Is there software in the image?",
+          "Is there a depiction of a crash or shutdown in the image?"
+        ],
+        "Level 2": [
+          "Is the computer virus corrupting the software in the image?",
+          "Is the software crashing and shutting down in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a computer virus corrupting the software, leading to the software crashing and shutting down?"
+        ]
+      }
+    },
+    {
+      "prompt": "4. Heat from a soldering iron melts the solder, the solder bonds the wire.",
+      "questions": {
+        "Level 1": [
+          "Is there a soldering iron in the image?",
+          "Is there solder in the image?",
+          "Is there a wire in the image?"
+        ],
+        "Level 2": [
+          "Is the soldering iron melting the solder in the image?",
+          "Is the solder bonding the wire in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence where heat from a soldering iron melts the solder, and the solder bonds the wire?"
+        ]
+      }
+    },
+    {
+      "prompt": "5. A lightning strike hits the power line, the power line disrupts the electricity.",
+      "questions": {
+        "Level 1": [
+          "Is there a lightning strike in the image?",
+          "Is there a power line in the image?",
+          "Is there a disruption in the electricity in the image?"
+        ],
+        "Level 2": [
+          "Is the lightning strike hitting the power line in the image?",
+          "Is the power line disrupting the electricity in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a lightning strike hitting a power line, followed by the power line disrupting the electricity?"
+        ]
+      }
+    },
+    {
+      "prompt": "6. A wrench tightens the bolt, the bolt secures the panel.",
+      "questions": {
+        "Level 1": [
+          "Is there a wrench in the image?",
+          "Is there a bolt in the image?",
+          "Is there a panel in the image?"
+        ],
+        "Level 2": [
+          "Is the wrench tightening the bolt in the image?",
+          "Is the bolt securing the panel in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a wrench tightening a bolt, followed by the bolt securing a panel?"
+        ]
+      }
+    },
+    {
+      "prompt": "7. A USB drive is inserted into a laptop, the laptop detects new hardware.",
+      "questions": {
+        "Level 1": [
+          "Is there a USB drive in the image?",
+          "Is there a laptop in the image?",
+          "Is there a detection notification in the image?"
+        ],
+        "Level 2": [
+          "Is the USB drive inserted into the laptop in the image?",
+          "Is the laptop detecting new hardware in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a USB drive being inserted into a laptop and the laptop detecting new hardware?"
+        ]
+      }
+    },
+    {
+      "prompt": "8. A magnet pulls iron filings, the iron filings align with the magnetic field.",
+      "questions": {
+        "Level 1": [
+          "Is there a magnet in the image?",
+          "Are there iron filings in the image?",
+          "Is there a magnetic field depicted in the image?"
+        ],
+        "Level 2": [
+          "Is the magnet pulling the iron filings in the image?",
+          "Are the iron filings aligning with the magnetic field in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a magnet pulling iron filings, followed by the iron filings aligning with the magnetic field?"
+        ]
+      }
+    },
+    {
+      "prompt": "12. A drone hovers above a field, the field is scanned by sensors.",
+      "questions": {
+        "Level 1": [
+          "Is there a drone in the image?",
+          "Is there a field in the image?",
+          "Are there sensors in the image?"
+        ],
+        "Level 2": [
+          "Is the drone hovering above the field in the image?",
+          "Is the field being scanned by sensors in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a drone hovering above a field, followed by the field being scanned by sensors?"
+        ]
+      }
+    },
+    {
+      "prompt": "13. A camera captures a photo, the photo displays on a monitor.",
+      "questions": {
+        "Level 1": [
+          "Is there a camera in the image?",
+          "Is there a photo in the image?",
+          "Is there a monitor in the image?"
+        ],
+        "Level 2": [
+          "Is the camera capturing a photo in the image?",
+          "Is the photo displaying on a monitor in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a camera capturing a photo, followed by the photo displaying on a monitor?"
+        ]
+      }
+    },
+    {
+      "prompt": "14. A smartphone sends a signal, the signal is received by a tower.",
+      "questions": {
+        "Level 1": [
+          "Is there a smartphone in the image?",
+          "Is there a signal in the image?",
+          "Is there a tower in the image?"
+        ],
+        "Level 2": [
+          "Is the smartphone sending a signal in the image?",
+          "Is the signal being received by a tower in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a smartphone sending a signal, followed by the signal being received by a tower?"
+        ]
+      }
+    },
+    {
+      "prompt": "16. A screwdriver turns a screw, the screw fastens the bracket.",
+      "questions": {
+        "Level 1": [
+          "Is there a screwdriver in the image?",
+          "Is there a screw in the image?",
+          "Is there a bracket in the image?"
+        ],
+        "Level 2": [
+          "Is the screwdriver turning the screw in the image?",
+          "Is the screw fastening the bracket in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a screwdriver turning a screw, followed by the screw fastening the bracket?"
+        ]
+      }
+    },
+    {
+      "prompt": "17. A motor powers the fan, the fan circulates air.",
+      "questions": {
+        "Level 1": [
+          "Is there a motor in the image?",
+          "Is there a fan in the image?",
+          "Is there circulating air in the image?"
+        ],
+        "Level 2": [
+          "Is the motor powering the fan in the image?",
+          "Is the fan circulating air in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a motor powering a fan, followed by the fan circulating air?"
+        ]
+      }
+    },
+    {
+      "prompt": "18. A switch flips to on, the on position illuminates a light bulb.",
+      "questions": {
+        "Level 1": [
+          "Is there a switch in the image?",
+          "Is there a light bulb in the image?",
+          "Is there an indication of the light bulb being on in the image?"
+        ],
+        "Level 2": [
+          "Is the switch in the on position in the image?",
+          "Is the light bulb illuminated in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a switch flipping to on and causing the light bulb to illuminate?"
+        ]
+      }
+    },
+    {
+      "prompt": "19. A wire transfers electricity, the electricity powers an appliance.",
+      "questions": {
+        "Level 1": [
+          "Is there a wire in the image?",
+          "Is there electricity shown in the image?",
+          "Is there an appliance in the image?"
+        ],
+        "Level 2": [
+          "Is the wire transferring electricity in the image?",
+          "Is the electricity powering an appliance in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a wire transferring electricity, followed by the electricity powering an appliance?"
+        ]
+      }
+    },
+    {
+      "prompt": "23. A laser cuts metal, the metal separates into pieces.",
+      "questions": {
+        "Level 1": [
+          "Is there a laser in the image?",
+          "Is there metal in the image?",
+          "Are there separated pieces in the image?"
+        ],
+        "Level 2": [
+          "Is the laser cutting the metal in the image?",
+          "Is the metal separating into pieces in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict a sequence where a laser cuts metal, causing it to separate into pieces?"
+        ]
+      }
+    },
+    {
+      "prompt": "24. A solar panel absorbs sunlight, the sunlight generates electricity.",
+      "questions": {
+        "Level 1": [
+          "Is there a solar panel in the image?",
+          "Is there sunlight in the image?",
+          "Is there electricity in the image?"
+        ],
+        "Level 2": [
+          "Is the solar panel absorbing sunlight in the image?",
+          "Is sunlight generating electricity in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a solar panel absorbing sunlight, followed by the sunlight generating electricity?"
+        ]
+      }
+    },
+    {
+      "prompt": "25. A microphone picks up sound, the sound amplifies through a speaker.",
+      "questions": {
+        "Level 1": [
+          "Is there a microphone in the image?",
+          "Is there sound in the image?",
+          "Is there a speaker in the image?"
+        ],
+        "Level 2": [
+          "Is the microphone picking up sound in the image?",
+          "Is the sound amplifying through a speaker in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a microphone picking up sound, followed by the sound amplifying through a speaker?"
+        ]
+      }
+    },
+    {
+      "prompt": "26. A touch screen registers a tap, the tap opens an app.",
+      "questions": {
+        "Level 1": [
+          "Is there a touch screen in the image?",
+          "Is there a tap action in the image?",
+          "Is there an app in the image?"
+        ],
+        "Level 2": [
+          "Does the image show a touch screen registering a tap?",
+          "Does the image show a tap opening an app?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a touch screen registering a tap, followed by the tap opening an app?"
+        ]
+      }
+    },
+    {
+      "prompt": "30. A stylus interacts with a tablet, the tablet translates movements to digital input.",
+      "questions": {
+        "Level 1": [
+          "Is there a stylus in the image?",
+          "Is there a tablet in the image?",
+          "Is there visual indication of digital input in the image?"
+        ],
+        "Level 2": [
+          "Is the stylus interacting with the tablet in the image?",
+          "Is the tablet translating movements into digital input in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a stylus interacting with a tablet, followed by the tablet translating movements to digital input?"
+        ]
+      }
+    }
+  ]
+}

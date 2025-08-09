@@ -1,0 +1,92 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "1. A butterfly with two symmetrical blue wings, patterned with circular black spots, a slender yellow body, six thin black legs, elongated antennae, and two small orange eyes.",
+      "questions": {
+        "Level 1": [
+          "Is there a butterfly with two symmetrical blue wings patterned with circular black spots, a slender yellow body, six thin black legs, elongated antennae, and two small orange eyes in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A tree with a tall brown trunk, five thick green branches, numerous oval-shaped green leaves, a round green canopy, rough bark texture, a wide base, and exposed thick brown roots.",
+      "questions": {
+        "Level 1": [
+          "Is there a tree with a tall brown trunk, five thick green branches, numerous oval-shaped green leaves, a round green canopy, rough bark texture, a wide base, and exposed thick brown roots in the image?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "1. A single yellow metal hard hat with a smooth round surface and a frontal visor-like projection.",
+      "questions": {
+        "Level 1": [
+          "Is there a single yellow metal hard hat with a smooth round surface and a frontal visor-like projection in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A pair of blue fabric work gloves with a textured ribbed surface and black reinforced fingertips.",
+      "questions": {
+        "Level 1": [
+          "Is there a pair of blue fabric work gloves with a textured ribbed surface and black reinforced fingertips in the image?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "1. A stethoscope with metallic shiny circular chest piece, long flexible black tube, Y-shaped split, smooth rubber earpieces, small compact shape, left and right symmetrical design, textured grip handles.",
+      "questions": {
+        "Level 1": [
+          "Is there a stethoscope with a metallic shiny circular chest piece, a long flexible black tube, a Y-shaped split, smooth rubber earpieces, a small compact shape, a left and right symmetrical design, and textured grip handles in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A pill bottle with cylindrical transparent orange body, white ridged screw top, tightly sealed cap, vertical straight sides, opaque bottom, evenly spaced horizontal label bands, lightweight thin plastic, slightly rounded base.",
+      "questions": {
+        "Level 1": [
+          "Is there a pill bottle with a cylindrical transparent orange body, a white ridged screw top, a tightly sealed cap, vertical straight sides, an opaque bottom, evenly spaced horizontal label bands, made of lightweight thin plastic, and a slightly rounded base in the image?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "1. \"A shiny, black, spherical, leather, smooth, centered, stitched, inflated basketball.\"",
+      "questions": {
+        "Level 1": [
+          "Is there a shiny, black, spherical, leather, smooth, centered, stitched, inflated basketball in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. \"A matte, white, triangular, plastic, textured, adjacent, hole-punched golf tee.\"",
+      "questions": {
+        "Level 1": [
+          "Is there a matte, white, triangular, plastic, textured, adjacent, hole-punched golf tee in the image?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "1. A laptop with a silver metallic casing, sleek rectangular shape, smooth glossy screen, centered black keyboard, thin profile, flat surface, cornered edges, square touchpad, closed lid.",
+      "questions": {
+        "Level 1": [
+          "Is there a laptop with a silver metallic casing, sleek rectangular shape, smooth glossy screen, centered black keyboard, thin profile, flat surface, cornered edges, and square touchpad in the image?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. A smartphone characterized by a gold finish, rounded rectangle shape, smooth glass display, dark vertical camera strip, thin body, curved sides, small circular fingerprint sensor, top-left notch, metallic frame.",
+      "questions": {
+        "Level 1": [
+          "Is there a smartphone with a gold finish, rounded rectangle shape, smooth glass display, dark vertical camera strip, thin body, curved sides, small circular fingerprint sensor, top-left notch, and metallic frame in the image?"
+        ]
+      }
+    }
+  ]
+}

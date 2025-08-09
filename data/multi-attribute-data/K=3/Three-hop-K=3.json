@@ -1,0 +1,152 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "Orange drone [hovers above] green sensor, green sensor [detects] rectangular circuit board, rectangular circuit board [activates] blue robot.",
+      "questions": {
+        "Level 1": [
+          "Does the image contain an orange drone?",
+          "Is there a green sensor present in the image?",
+          "Can we see a rectangular circuit board in the image?",
+          "Is a blue robot depicted in the image?"
+        ],
+        "Level 2": [
+          "Is the orange drone correctly hovering above the green sensor in the image?",
+          "Does the green sensor detect the rectangular circuit board in the image?",
+          "Does the rectangular circuit board activate the blue robot in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events with the orange drone, green sensor, rectangular circuit board, and blue robot depicted correctly in the image?",
+          "Are the states and positions of the orange drone, green sensor, rectangular circuit board, and blue robot consistent with their described functions and interactions in the event?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "A robotic arm positions a metallic circuit board, the circuit board activates a blue LED screen, the LED screen displays a circular icon.",
+      "questions": {
+        "Level 1": [
+          "Does the image show a robotic arm, and does it have the attributes of positioning another object?",
+          "Is there a metallic circuit board present in the image, and does it have the attributes described?",
+          "Can a blue LED screen be seen in the image, and does it match the attributes provided?",
+          "Does the image contain a LED screen displaying a circular icon, and is the color of the screen blue?"
+        ],
+        "Level 2": [
+          "Is the relationship between the robotic arm and the metallic circuit board correctly depicted in the image, with the arm positioning the board?",
+          "Does the image correctly illustrate the relationship where the metallic circuit board activates the blue LED screen?",
+          "Is the LED screen in the image correctly displaying a circular icon?"
+        ],
+        "Level 3": [
+          "Does the image correctly depict the entire sequence of events as described from the robotic arm positioning the board to the display of a circular icon on the LED screen?",
+          "Is the final state of the LED screen displaying a circular icon rational relative to the activation of the circuit board?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "An MRI machine [scans] a patient, the patient [wears] a biosensor, the biosensor [sends] data to a computer.",
+      "questions": {
+        "Level 1": [
+          "Does the MRI machine exist in the image and does it visually appear to be scanning?",
+          "Does the patient exist in the image and are they wearing a biosensor?",
+          "Does the biosensor exist in the image and is it sending data?",
+          "Does the computer exist in the image and is it receiving data from a biosensor?"
+        ],
+        "Level 2": [
+          "Is the MRI machine scanning the patient in the image?",
+          "Is the patient wearing a biosensor in the image?",
+          "Is the biosensor sending data to a computer in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of the MRI machine scanning a patient who is wearing a biosensor that sends data to a computer depicted correctly in the image?",
+          "Is the state and function of the MRI machine, patient, biosensor, and computer consistent with the described scanning, wearing, and data sending process in the image?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "1. 'A touchscreen (rectangular) displays a play button, the play button (red) activates a sensor, the sensor (silver) triggers a circuit board (compact).'",
+      "questions": {
+        "Level 1": [
+          "Does the image feature a rectangular touchscreen?",
+          "Is there a red play button shown in the image?",
+          "Does the image include a silver sensor?",
+          "Is there a compact circuit board present in the image?"
+        ],
+        "Level 2": [
+          "Does the play button activate the sensor in the image?",
+          "In the image, does the sensor trigger a circuit board?",
+          "Is there a relationship where the touchscreen activates a play button in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events where a touchscreen displays a play button, the play button activates a sensor, and the sensor triggers a circuit board depicted correctly in the image?",
+          "Is the final state of each object consistent with the sequential events described, with the touchscreen displaying a play button, the play button activating a sensor, and the sensor successfully triggering a circuit board?"
+        ]
+      }
+    },
+    {
+      "prompt": "2. 'A drone (small) releases a cable, the cable (coiled) connects to a server, the server (black) processes data.'",
+      "questions": {
+        "Level 1": [
+          "Is there a small drone in the image?",
+          "Is there a coiled cable in the image?",
+          "Is there a server in the image?",
+          "Is there a black server in the image?"
+        ],
+        "Level 2": [
+          "Does the image show a cable being released by the drone?",
+          "Is the cable in the image connected to the server?",
+          "Is the server in the image processing data?"
+        ],
+        "Level 3": [
+          "Is the sequence of a drone releasing a cable, the cable connecting to a server, and the server processing data depicted correctly in the image?",
+          "Are the states and attributes of the drone, cable, and server consistent with the described event after each step?"
+        ]
+      }
+    },
+    {
+      "prompt": "3. 'A satellite (circular) transmits a signal, the signal (bright) is intercepted by a receiver, the receiver (metallic) sends information to a touchscreen.'",
+      "questions": {
+        "Level 1": [
+          "Does the image contain a circular satellite with the described attributes?",
+          "Is there a bright signal in the image?",
+          "Does the image depict a metallic receiver, as described?",
+          "Is there a touchscreen in the image ?"
+        ],
+        "Level 2": [
+          "Is the relationship between the satellite and the signal correctly shown in the image?",
+          "Does the image accurately depict the interception of the signal by the receiver?",
+          "Is the transmission of information from the receiver to the touchscreen correctly shown in the image?"
+        ],
+        "Level 3": [
+          "Is the complete sequence of events correctly depicted in the image, from the satellite transmitting a signal to the touchscreen receiving information?",
+          "Does each object in the image appear in a state that is consistent with the final outcome as described in the event?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "'A touchscreen displays a blue interface, the interface activates a circular sensor, the sensor triggers a metallic server.'",
+      "questions": {
+        "Level 1": [
+          "Does the image contain a touchscreen with a blue interface?",
+          "Is there a circular sensor visible in the image?",
+          "Can a metallic server be seen in the image?",
+          "Does the touchscreen display a blue interface?"
+        ],
+        "Level 2": [
+          "Does the blue interface activate the circular sensor in the image?",
+          "Does the circular sensor trigger a metallic server in the image?",
+          "Does the entire sequence of interface activating sensor, and sensor triggering server follow sequentially in the image?"
+        ],
+        "Level 3": [
+          "Is the sequence of the touchscreen displaying a blue interface, activating the sensor, and the sensor triggering the server depicted correctly in the image?",
+          "Is the state of the metallic server consistent with being triggered by the sensor, based on the events described?"
+        ]
+      }
+    }
+  ]
+}

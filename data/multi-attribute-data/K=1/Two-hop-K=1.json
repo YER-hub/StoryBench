@@ -1,0 +1,97 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "A green frog leaps onto a lily pad, the lily pad sways beside a duck.",
+      "questions": {
+        "Level 1": [
+          "Is there a green frog in the image?",
+          "Is there a lily pad in the image?",
+          "Is there a duck in the image?"
+        ],
+        "Level 2": [
+          "Is the green frog leaping onto the lily pad in the image?",
+          "Is the lily pad swaying beside the duck in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a green frog leaping onto a lily pad, followed by the lily pad swaying beside a duck?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "A gardener waters a large sunflower, the sunflower sways in the wind.",
+      "questions": {
+        "Level 1": [
+          "Is there a gardener in the image?",
+          "Is there a large sunflower in the image?",
+          "Is there wind causing the sunflower to sway in the image?"
+        ],
+        "Level 2": [
+          "Is the gardener watering the sunflower in the image?",
+          "Is the sunflower swaying in the wind in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of a gardener watering a large sunflower, followed by the sunflower swaying in the wind?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "A doctor checks a patient's red bandage, the bandage covers a swollen ankle.",
+      "questions": {
+        "Level 1": [
+          "Is there a doctor in the image checking something?",
+          "Is there a patient in the image?",
+          "Is there a red bandage covering a swollen ankle in the image?"
+        ],
+        "Level 2": [
+          "Is the doctor checking the patient's red bandage in the image?",
+          "Is the red bandage covering the patient's swollen ankle in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a doctor checking a patient's red bandage that covers a swollen ankle?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "A shiny soccer ball rolls towards a bench, the bench blocks the path of a sprawling squirrel.",
+      "questions": {
+        "Level 1": [
+          "Is there a shiny soccer ball in the image?",
+          "Is there a bench in the image?",
+          "Is there a sprawling squirrel in the image?"
+        ],
+        "Level 2": [
+          "Is the shiny soccer ball rolling towards the bench in the image?",
+          "Is the bench blocking the path of the sprawling squirrel in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of events where a shiny soccer ball rolls towards a bench, and the bench blocks the path of a sprawling squirrel?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "A red car speeds past a pedestrian, the pedestrian stops at a shiny crosswalk.",
+      "questions": {
+        "Level 1": [
+          "Is there a red car in the image?",
+          "Is there a pedestrian in the image?",
+          "Is there a shiny crosswalk in the image?"
+        ],
+        "Level 2": [
+          "Did the red car speed past the pedestrian in the image?",
+          "Did the pedestrian stop at the shiny crosswalk in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of a red car speeding past a pedestrian, followed by the pedestrian stopping at a shiny crosswalk?"
+        ]
+      }
+    }
+  ]
+}

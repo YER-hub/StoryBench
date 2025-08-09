@@ -1,0 +1,112 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "1. 'A satellite with round solar panels sends data to a server, the server in a metallic rack processes the data, processed data is displayed on a touchscreen with a blue interface.'",
+      "questions": {
+        "Level 1": [
+          "Does the satellite with round solar panels appear in the image?",
+          "Is there a server depicted in a metallic rack in the image?",
+          "Is there processed data shown on a touchscreen in the image?",
+          "Does the touchscreen have a blue interface in the image?"
+        ],
+        "Level 2": [
+          "Is the satellite correctly sending data to the server in the image?",
+          "Is the server processing data correctly in the image?",
+          "Is the processed data being displayed on the touchscreen in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence from the satellite sending data to its display on the touchscreen depicted correctly in the image?",
+          "Are all objects correctly portrayed in their final states as described, such as the satellite with its round solar panels and the blue interface on the touchscreen?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "A robotic arm clicks a green button, the button activates a circuit board, the circuit board powers a blue LED light.",
+      "questions": {
+        "Level 1": [
+          "Is there a robotic arm in the image, and does it have the attributes described in the prompt?",
+          "Is there a green button in the image with the attributes described in the prompt?",
+          "Is there a circuit board in the image with the attributes described in the prompt?",
+          "Is there a blue LED light in the image with the attributes described in the prompt?"
+        ],
+        "Level 2": [
+          "Does the image show the robotic arm clicking the green button?",
+          "Does the image depict the green button activating a circuit board?",
+          "Is the circuit board powering a blue LED light as shown in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the entire sequence of events described in the prompt?",
+          "Is the state of each object in the image consistent with the sequence of events described, leading to the final state of a blue LED light being powered?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "A medical robot with metallic arms injects a vaccine into a human arm, the vaccine changes to a glowing blue, the blue color is monitored by a digital sensor.",
+      "questions": {
+        "Level 1": [
+          "Is there a medical robot with metallic arms in the image?",
+          "Is there a human arm in the image?",
+          "Is there a vaccine that changes to a glowing blue in the image?",
+          "Is there a digital sensor in the image that monitors the blue color?"
+        ],
+        "Level 2": [
+          "Does the image show the medical robot injecting the vaccine into the human arm?",
+          "Is the vaccine shown to change to a glowing blue in the image?",
+          "Does the image depict the digital sensor monitoring the glowing blue color of the vaccine?"
+        ],
+        "Level 3": [
+          "Is the entire sequence where a medical robot injects a vaccine that changes to blue and gets monitored by a sensor depicted correctly in the image?",
+          "Are the states of the medical robot, human arm, vaccine, and digital sensor consistent with the description of the event?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "'A referee holds a silver whistle, the silver whistle emits a sound wave, the sound wave reaches a black scoreboard.'",
+      "questions": {
+        "Level 1": [
+          "Is there a referee in the image holding a silver whistle?",
+          "Is there a silver whistle in the image?",
+          "Is there a sound wave in the image?",
+          "Is there a black scoreboard in the image?"
+        ],
+        "Level 2": [
+          "Is the referee holding the silver whistle in the image?",
+          "Is the silver whistle shown emitting a sound wave in the image?",
+          "Does the sound wave reach a black scoreboard in the image?"
+        ],
+        "Level 3": [
+          "Does the image depict the entire sequence of events with the referee holding the whistle, the whistle emitting a sound wave, and the sound wave reaching the black scoreboard correctly?",
+          "Are the states of the referee, silver whistle, sound wave, and black scoreboard accurately represented in the image according to the described event?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "A sensor (small) detects movement, the movement triggers a circuit board, the circuit board activates a switch.",
+      "questions": {
+        "Level 1": [
+          "Is there a sensor labeled as small in the image?",
+          "Is there any movement detected in the image?",
+          "Is there a circuit board present in the image?",
+          "Is there a switch present in the image?"
+        ],
+        "Level 2": [
+          "Does the image show the movement triggering the circuit board?",
+          "Is the circuit board activating a switch in the image?",
+          "Is the switch shown as being turned on or activated in the image?"
+        ],
+        "Level 3": [
+          "Does the image accurately depict the sequence of events from the sensor detecting movement to the switch being activated?",
+          "Is the final state of each object consistent with the described sequence, showing the switch as activated as a result of the circuit board's action?"
+        ]
+      }
+    }
+  ]
+}

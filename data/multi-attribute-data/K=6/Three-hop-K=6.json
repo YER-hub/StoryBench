@@ -1,0 +1,112 @@
+{
+  "Animals and Nature": [
+    {
+      "prompt": "A robot scans a green sensor, the sensor activates a round circuit board, the circuit board sends data to a tall satellite.",
+      "questions": {
+        "Level 1": [
+          "Is there a robot in the image with visible scanning capabilities?",
+          "Is there a green sensor depicted in the image?",
+          "Is there a round circuit board present in the image?",
+          "Is there a tall satellite shown in the image?"
+        ],
+        "Level 2": [
+          "Is the robot depicted as scanning the green sensor in the image?",
+          "Does the green sensor activate the round circuit board as shown in the image?",
+          "Is the round circuit board shown sending data to the tall satellite in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events, starting from the robot scanning the green sensor to the circuit board sending data to the tall satellite, correctly depicted in the image?",
+          "Are all the objects and their described states, such as the green sensor being active and the circuit board being round, consistent with what is shown in the image?"
+        ]
+      }
+    }
+  ],
+  "Labor": [
+    {
+      "prompt": "'A robotic arm holds a silver circuit board, the circuit board connects to a black server, the server displays data on a large glass touchscreen.'",
+      "questions": {
+        "Level 1": [
+          "Does the image show a robotic arm holding something, and is the object a silver circuit board?",
+          "Is there a silver circuit board visible in the image, and does it have a connection to another object?",
+          "Can we see a black server in the image, and is it connected to something else?",
+          "Is there a large glass touchscreen in the image that displays data?"
+        ],
+        "Level 2": [
+          "Is there a correct depiction of a silver circuit board being held by a robotic arm?",
+          "Does the image show the circuit board connected to the black server?",
+          "Is the black server accurately shown displaying data on a large glass touchscreen?"
+        ],
+        "Level 3": [
+          "Is the image accurately depicting the sequence where a robotic arm holds a circuit board, which connects to a server, and the server displays data on a touchscreen?",
+          "Is the final depiction of every object, including their states and connections, consistent with the described event sequence in the image?"
+        ]
+      }
+    }
+  ],
+  "Medical": [
+    {
+      "prompt": "'An ultrasound machine [transmits] ultrasound waves, the ultrasound waves [reflect] off an organ, the organ [displays] an image on a monitor.'",
+      "questions": {
+        "Level 1": [
+          "Does the image contain an ultrasound machine?",
+          "Is there an organ present in the image?",
+          "Is there an image displaying on a monitor?",
+          "Are the attributes of each object (ultrasound machine, organ, monitor) as described in the prompt?"
+        ],
+        "Level 2": [
+          "Is the relationship between the ultrasound machine and the transmission of ultrasound waves correct in the image?",
+          "Do the ultrasound waves correctly reflect off an organ in the image?",
+          "Is the relationship between the organ reflecting waves and displaying an image on a monitor correct?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events involving an ultrasound machine, reflection of waves, and display on a monitor depicted accurately in the image?",
+          "Is the final state of each object consistent with the event description, with the organ correctly displaying an image on the monitor?"
+        ]
+      }
+    }
+  ],
+  "Sport": [
+    {
+      "prompt": "'A drone with four rotor blades hovers above a large, silver antenna, the antenna with a black, cylindrical base emits a blue, wavy signal, the signal creates a faint circular ripple on a glossy, white surface.'",
+      "questions": {
+        "Level 1": [
+          "Does a drone with four rotor blades exist in the image?",
+          "Is there a large, silver antenna in the image?",
+          "Is there a black, cylindrical base in the image?",
+          "Is there a blue, wavy signal in the image?"
+        ],
+        "Level 2": [
+          "Is the drone hovering above the large, silver antenna in the image?",
+          "Is the antenna with the black, cylindrical base emitting a blue, wavy signal in the image?",
+          "Does the blue, wavy signal create a faint circular ripple on a glossy, white surface in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events depicted correctly in the image?",
+          "Is the state of each object in the image consistent with the description of the event?"
+        ]
+      }
+    }
+  ],
+  "Technology": [
+    {
+      "prompt": "'A touchscreen displays a red icon, the red icon triggers a command in a silver server, the silver server sends a blue alert to a black drone.'",
+      "questions": {
+        "Level 1": [
+          "Is there a touchscreen that displays a red icon in the image?",
+          "Is there a silver server depicted in the image?",
+          "Is there an image of a blue alert being sent?",
+          "Is there a black drone shown in the image?"
+        ],
+        "Level 2": [
+          "Does the red icon trigger a command in the silver server in the image?",
+          "Does the silver server send a blue alert depicted in the image?",
+          "Is the blue alert received by a black drone in the image?"
+        ],
+        "Level 3": [
+          "Is the entire sequence of events (touchscreen to server to drone) depicted correctly in the image?",
+          "Are the attributes and states of all objects consistent with the described events in the image?"
+        ]
+      }
+    }
+  ]
+}
